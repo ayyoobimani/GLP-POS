@@ -1,0 +1,8467 @@
+# sent_id = data_UD-Sleepwalking-26-s1
+# text = መጽሐፉን አስያዛት ።
+1	መጽሐፉን	መጽሐፉን	NOUN
+4	አስያዛት	አስያዛት	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-26-s2
+# text = ልጁን ሥራውን አስጨርሰዋለሁ ።
+1	ልጁን	ልጁን	NOUN
+4	ሥራውን	ሥራውን	NOUN
+7	አስጨርሰዋለሁ	አስጨርሰዋለሁ	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-26-s3
+# text = ከበደን እንጀራ አስበላሁት ።
+1	ከበደን	ከበደን	PROPN
+3	እንጀራ	እንጀራ	NOUN
+4	አስበላሁት	አስበላሁት	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-26-s4
+# text = ልጁቹን ጠርተህ እህሉን እጎተራ አስገባ ።
+1	ልጁቹን	ልጁቹን	NOUN
+4	ጠርተህ	ጠርተህ	VERB
+6	እህሉን	እህሉን	NOUN
+10	እጎተራ	እጎተራ	NOUN
+11	አስገባ	አስገባ	VERB
+13	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-26-s5
+# text = ገመዱን አስረዘመው ።
+1	ገመዱን	ገመዱን	NOUN
+4	አስረዘመው	አስረዘመው	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-26-s6
+# text = እህሉን አስሸከመ ።
+1	እህሉን	እህሉን	NOUN
+4	አስሸከመ	አስሸከመ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-26-s7
+# text = ውድድሩን ማሸነፉ አስደሰተው ።
+1	ውድድሩን	ውድድሩን	NOUN
+4	ማሸነፉ	ማሸነፉ	NOUN
+6	አስደሰተው	አስደሰተው	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-26-s8
+# text = ልጁን ኮሶ አስጠጣሁት ።
+1	ልጁን	ልጁን	NOUN
+4	ኮሶ	ኮሶ	NOUN
+5	አስጠጣሁት	አስጠጣሁት	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-26-s9
+# text = ከቤት አስወጣኋት ።
+2	ከቤት	ከቤት	NOUN
+3	አስወጣኋት	አስወጣኋት	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-26-s10
+# text = ጠጅ አስቀመስኩት ።
+1	ጠጅ	ጠጅ	NOUN
+2	አስቀመስኩት	አስቀመስኩት	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-26-s11
+# text = ልብስ አሳጠብኳት ።
+1	ልብስ	ልብስ	NOUN
+2	አሳጠብኳት	አሳጠብኳት	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-26-s12
+# text = ተማሪ ቤት አስኬድኩት ።
+1	ተማሪ	ተማሪ	NOUN
+2	ቤት	ቤት	NOUN
+3	አስኬድኩት	አስኬድኩት	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-26-s13
+# text = ከሱቅ ሱቅ ሲዞር አስመሸኝ ።
+2	ከሱቅ	ከሱቅ	NOUN
+3	ሱቅ	ሱቅ	NOUN
+6	ሲዞር	ሲዞር	VERB
+7	አስመሸኝ	አስመሸኝ	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-26-s14
+# text = ሸክሙን አሳርፉኝ ።
+1	ሸክሙን	ሸክሙን	NOUN
+4	አሳርፉኝ	አሳርፉኝ	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-26-s15
+# text = ይህ መንገድ ወደ ግቢ ያስኬዳል ።
+1	ይህ	ይህ	DET
+2	መንገድ	መንገድ	NOUN
+3	ወደ	ወደ	ADP
+4	ግቢ	ግቢ	NOUN
+6	ያስኬዳል	ያስኬዳል	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-26-s16
+# text = ሰው አያስወጣም ።
+1	ሰው	ሰው	NOUN
+4	አያስወጣም	አያስወጣም	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-26-s17
+# text = ጥርሴ ቆሎ አያስበላኝም ።
+1	ጥርሴ	ጥርሴ	NOUN
+3	ቆሎ	ቆሎ	NOUN
+6	አያስበላኝም	አያስበላኝም	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-26-s18
+# text = ሥራዬን ለምን አታሰራኝም ?
+1	ሥራዬን	ሥራዬን	NOUN
+4	ለምን	ለምን	ADV
+7	አታሰራኝም	አታሰራኝም	VERB
+11	?	?	PUNCT
+
+# sent_id = data_UD-Sleepwalking-26-s19
+# text = ጩኸቱ አያስተኛኝም ።
+1	ጩኸቱ	ጩኸቱ	NOUN
+5	አያስተኛኝም	አያስተኛኝም	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-26-s20
+# text = የደከሙት አይኖቹ ብዙ አያስነብቡትም ።
+2	የደከሙት	የደከሙት	VERB
+5	አይኖቹ	አይኖቹ	NOUN
+7	ብዙ	ብዙ	ADV
+10	አያስነብቡትም	አያስነብቡትም	VERB
+14	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-Am_aux-s1
+# text = ካሳ አስተማሪ ነው ።
+1	ካሳ	ካሳ	PROPN
+2	አስተማሪ	አስተማሪ	NOUN
+3	ነው	ነው	AUX
+5	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-Am_aux-s2
+# text = አስተማሪ ናት ።
+1	አስተማሪ	አስተማሪ	NOUN
+2	ናት	ናት	AUX
+4	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-Am_aux-s3
+# text = አስተማሪ ነው ።
+1	አስተማሪ	አስተማሪ	NOUN
+2	ነው	ነው	AUX
+4	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-Am_aux-s4
+# text = አለቀሰ ።
+1	አለቀሰ	አለቀሰ	VERB
+3	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-Am_aux-s5
+# text = እሱ አለቀሰ ።
+1	እሱ	እሱ	PRON
+2	አለቀሰ	አለቀሰ	VERB
+4	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-Am_aux-s6
+# text = በሩን ከፍቶ እቤት ገብቶ እቃውን አዘጋጅቶ ቤቱን ጠርጎ ሄደ ።
+1	በሩን	በሩን	NOUN
+4	ከፍቶ	ከፍቶ	VERB
+7	እቤት	እቤት	NOUN
+8	ገብቶ	ገብቶ	VERB
+10	እቃውን	እቃውን	NOUN
+13	አዘጋጅቶ	አዘጋጅቶ	VERB
+15	ቤቱን	ቤቱን	NOUN
+18	ጠርጎ	ጠርጎ	VERB
+20	ሄደ	ሄደ	VERB
+22	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-Am_aux-s7
+# text = ቆሞ ተናገረ ።
+1	ቆሞ	ቆሞ	VERB
+3	ተናገረ	ተናገረ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-Am_aux-s8
+# text = ተመልሶ ሄደ ።
+1	ተመልሶ	ተመልሶ	VERB
+3	ሄደ	ሄደ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-x00-s1
+# text = ከኔ ጋር ባትሄድ ይሻለኛል ።
+2	ከኔ	ከኔ	PRON
+3	ጋር	ጋር	ADP
+7	ባትሄድ	ባትሄድ	VERB
+9	ይሻለኛል	ይሻለኛል	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-x00-s2
+# text = ልቡ ሊፈነዳ ትንሽ ቀረው ።
+1	ልቡ	ልቡ	NOUN
+5	ሊፈነዳ	ሊፈነዳ	VERB
+7	ትንሽ	ትንሽ	ADV
+8	ቀረው	ቀረው	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-x00-s3
+# text = ከመጣ አይቀር ጓዙን ይዞ ይምጣ ።
+2	ከመጣ	ከመጣ	VERB
+6	አይቀር	አይቀር	VERB
+7	ጓዙን	ጓዙን	NOUN
+10	ይዞ	ይዞ	VERB
+13	ይምጣ	ይምጣ	VERB
+15	።	።	PUNCT
+
+# sent_id = data_UD-x00-s4
+# text = ከዚህ ችግር ብገላገል እወድ ነበር ።
+2	ከዚህ	ከዚህ	DET
+3	ችግር	ችግር	NOUN
+6	ብገላገል	ብገላገል	VERB
+8	እወድ	እወድ	VERB
+9	ነበር	ነበር	AUX
+10	።	።	PUNCT
+
+# sent_id = data_UD-x00-s5
+# text = መቼም ይምጣ መች እራቱን ሳይበላ አይተኛ ።
+1	መቼም	መቼም	PRON
+4	ይምጣ	ይምጣ	VERB
+6	መች	መች	PRON
+7	እራቱን	እራቱን	NOUN
+13	ሳይበላ	ሳይበላ	VERB
+17	አይተኛ	አይተኛ	VERB
+18	።	።	PUNCT
+
+# sent_id = data_UD-x00-s6
+# text = በሩን ከመክፈቴ እሷን አየኋት ።
+1	በሩን	በሩን	NOUN
+5	ከመክፈቴ	ከመክፈቴ	NOUN
+7	እሷን	እሷን	PRON
+9	አየኋት	አየኋት	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-x00-s7
+# text = ልጆቹ ስራ የሚሰሩ ይመስላል ።
+1	ልጆቹ	ልጆቹ	NOUN
+3	ስራ	ስራ	NOUN
+7	የሚሰሩ	የሚሰሩ	VERB
+10	ይመስላል	ይመስላል	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-x00-s8
+# text = ሰርቼ እንኳን ቢሆን ኑሮ ብድሬን እከፍል ነበር ።
+1	ሰርቼ	ሰርቼ	VERB
+3	እንኳን	እንኳን	SCONJ
+4	ቢሆን	ቢሆን	SCONJ
+7	ኑሮ	ኑሮ	SCONJ
+8	ብድሬን	ብድሬን	NOUN
+12	እከፍል	እከፍል	VERB
+13	ነበር	ነበር	AUX
+14	።	።	PUNCT
+
+# sent_id = data_UD-x00-s9
+# text = ብሠራው እወዳዋለሁ ነገር ግን ጊዜ የለኝም ።
+2	ብሠራው	ብሠራው	VERB
+6	እወዳዋለሁ	እወዳዋለሁ	VERB
+9	ነገር	ነገር	CCONJ
+10	ግን	ግን	CCONJ
+11	ጊዜ	ጊዜ	NOUN
+12	የለኝም	የለኝም	VERB
+15	።	።	PUNCT
+
+# sent_id = data_UD-x00-s10
+# text = የበለጠ ችሮታ ለማድረግ የሚችልበትን ዘዴ ባገኝ ብሎ ተመኘ ።
+2	የበለጠ	የበለጠ	ADJ
+3	ችሮታ	ችሮታ	NOUN
+5	ለማድረግ	ለማድረግ	NOUN
+9	የሚችልበትን	የሚችልበትን	VERB
+13	ዘዴ	ዘዴ	NOUN
+15	ባገኝ	ባገኝ	VERB
+16	ብሎ	ብሎ	VERB
+18	ተመኘ	ተመኘ	VERB
+20	።	።	PUNCT
+
+# sent_id = data_UD-x00-s11
+# text = ለሰርጉ ባለመምጣቴ ተቀየመኝ ።
+2	ለሰርጉ	ለሰርጉ	NOUN
+6	ባለመምጣቴ	ባለመምጣቴ	NOUN
+8	ተቀየመኝ	ተቀየመኝ	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-x00-s12
+# text = በዝናቡ ምክንያት ጨዋታው ተላለፈ ።
+2	በዝናቡ	በዝናቡ	NOUN
+4	ምክንያት	ምክንያት	ADP
+5	ጨዋታው	ጨዋታው	NOUN
+7	ተላለፈ	ተላለፈ	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-x00-s13
+# text = ሥራውን ሊጨርስ ሲል ስሕተት መሥራቱን ተገነዘበ ።
+1	ሥራውን	ሥራውን	NOUN
+6	ሊጨርስ	ሊጨርስ	VERB
+9	ሲል	ሲል	VERB
+10	ስሕተት	ስሕተት	NOUN
+11	መሥራቱን	መሥራቱን	NOUN
+14	ተገነዘበ	ተገነዘበ	VERB
+16	።	።	PUNCT
+
+# sent_id = data_UD-x00-s14
+# text = ወደቤተ መጻሕፍት የምትሄድ ከሆነ ይህን መጽሐፍ መልስልኝ ።
+2	ወደቤተ	ወደቤተ	NOUN
+3	መጻሕፍት	መጻሕፍት	NOUN
+7	የምትሄድ	የምትሄድ	VERB
+9	ከሆነ	ከሆነ	VERB
+11	ይህን	ይህን	DET
+12	መጽሐፍ	መጽሐፍ	NOUN
+13	መልስልኝ	መልስልኝ	VERB
+16	።	።	PUNCT
+
+# sent_id = data_UD-x00-s15
+# text = አባትና እናቱን እየጠየቀ ይመላሳል ።
+1	አባትና	አባትና	NOUN
+3	እናቱን	እናቱን	NOUN
+7	እየጠየቀ	እየጠየቀ	VERB
+10	ይመላሳል	ይመላሳል	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-x00-s16
+# text = ሚስቱን በመግደሉ ተከሰሰ ።
+1	ሚስቱን	ሚስቱን	NOUN
+5	በመግደሉ	በመግደሉ	NOUN
+7	ተከሰሰ	ተከሰሰ	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-x00-s17
+# text = መንገዱ ስለሚያዳልጥ በጥንቃቄ ብትራመድ ይሻላል ።
+1	መንገዱ	መንገዱ	NOUN
+7	ስለሚያዳልጥ	ስለሚያዳልጥ	VERB
+9	በጥንቃቄ	በጥንቃቄ	ADV
+12	ብትራመድ	ብትራመድ	VERB
+14	ይሻላል	ይሻላል	VERB
+16	።	።	PUNCT
+
+# sent_id = data_UD-x00-s18
+# text = የማላነብ ብሆን ኖሮ መጽሐፍ አልጠይቅህም ።
+4	የማላነብ	የማላነብ	VERB
+7	ብሆን	ብሆን	VERB
+8	ኖሮ	ኖሮ	AUX
+9	መጽሐፍ	መጽሐፍ	NOUN
+11	አልጠይቅህም	አልጠይቅህም	VERB
+14	።	።	PUNCT
+
+# sent_id = data_UD-x00-s19
+# text = በሕይወት እስካለሁ አልረሳም ።
+2	በሕይወት	በሕይወት	NOUN
+4	እስካለሁ	እስካለሁ	VERB
+7	አልረሳም	አልረሳም	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-x00-s20
+# text = በመናገር ላይ እያለሁ መልስ ሰጠችኝ ።
+2	በመናገር	በመናገር	NOUN
+3	ላይ	ላይ	ADP
+5	እያለሁ	እያለሁ	VERB
+7	መልስ	መልስ	NOUN
+8	ሰጠችኝ	ሰጠችኝ	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-x01-s1
+# text = እስኪመጣ ድረስ ጠበቅሁት ።
+3	እስኪመጣ	እስኪመጣ	VERB
+5	ድረስ	ድረስ	SCONJ
+6	ጠበቅሁት	ጠበቅሁት	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-x01-s2
+# text = ኩባንያው እስካላባረረው ድረስ ይቆያል ።
+1	ኩባንያው	ኩባንያው	NOUN
+5	እስካላባረረው	እስካላባረረው	VERB
+7	ድረስ	ድረስ	SCONJ
+9	ይቆያል	ይቆያል	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-x01-s3
+# text = እውነቱን ቢናገርስ ።
+1	እውነቱን	እውነቱን	NOUN
+6	ቢናገርስ	ቢናገርስ	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-x01-s4
+# text = በየሄደበት ሁሉ እቃ ይገዛል ።
+3	በየሄደበት	በየሄደበት	VERB
+7	ሁሉ	ሁሉ	ADV
+8	እቃ	እቃ	NOUN
+10	ይገዛል	ይገዛል	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-x01-s5
+# text = በእግራችን ብንሸራሸርስ ?
+2	በእግራችን	በእግራችን	NOUN
+6	ብንሸራሸርስ	ብንሸራሸርስ	VERB
+8	?	?	PUNCT
+
+# sent_id = data_UD-x01-s6
+# text = እንደምንም ብዬ ከዚያ ብደርስ ።
+1	እንደምንም	እንደምንም	SCONJ
+3	ብዬ	ብዬ	VERB
+6	ከዚያ	ከዚያ	DET
+9	ብደርስ	ብደርስ	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-x01-s7
+# text = ቤት ብትቆይ ይሻላል ወይስ ወደ ጨዋታው ብትሄድ ?
+1	ቤት	ቤት	NOUN
+4	ብትቆይ	ብትቆይ	VERB
+6	ይሻላል	ይሻላል	VERB
+8	ወይስ	ወይስ	CCONJ
+9	ወደ	ወደ	ADP
+10	ጨዋታው	ጨዋታው	NOUN
+14	ብትሄድ	ብትሄድ	VERB
+15	?	?	PUNCT
+
+# sent_id = data_UD-x01-s8
+# text = ነገ ብትመጣ እወዳለሁ ።
+1	ነገ	ነገ	ADV
+4	ብትመጣ	ብትመጣ	VERB
+7	እወዳለሁ	እወዳለሁ	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-x01-s9
+# text = ሱቅ መሄድህ እነደሆነ አንድ ኪሎ ስኳር አምጣልኝ ?
+1	ሱቅ	ሱቅ	NOUN
+2	መሄድህ	መሄድህ	NOUN
+5	እነደሆነ	እነደሆነ	VERB
+7	አንድ	አንድ	NUM
+8	ኪሎ	ኪሎ	NOUN
+9	ስኳር	ስኳር	NOUN
+10	አምጣልኝ	አምጣልኝ	VERB
+14	?	?	PUNCT
+
+# sent_id = data_UD-x01-s10
+# text = ነገ ይዘንባል ? ባልዘነበ ።
+1	ነገ	ነገ	ADV
+3	ይዘንባል	ይዘንባል	VERB
+5	?	?	PUNCT
+8	ባልዘነበ	ባልዘነበ	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-x01-s11
+# text = ካሳ አስቴርን ቡና እንድታፈላ አደረገ ።
+1	ካሳ	ካሳ	PROPN
+2	አስቴርን	አስቴርን	PROPN
+4	ቡና	ቡና	NOUN
+7	እንድታፈላ	እንድታፈላ	VERB
+8	አደረገ	አደረገ	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-x01-s12
+# text = ካሳ ወደ ጎንደር ለመሄድ ይፈልጋል ።
+1	ካሳ	ካሳ	PROPN
+2	ወደ	ወደ	ADP
+3	ጎንደር	ጎንደር	NOUN
+5	ለመሄድ	ለመሄድ	NOUN
+7	ይፈልጋል	ይፈልጋል	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-x01-s13
+# text = ምን ያህል እንደተለወጠ ብታይ ይገርምሃል ።
+1	ምን	ምን	ADV
+2	ያህል	ያህል	NOUN
+4	እንደተለወጠ	እንደተለወጠ	VERB
+8	ብታይ	ብታይ	VERB
+10	ይገርምሃል	ይገርምሃል	VERB
+13	።	።	PUNCT
+
+# sent_id = data_UD-x01-s14
+# text = ይህ ሕመም ምነው በለቀቀኝ ።
+1	ይህ	ይህ	DET
+2	ሕመም	ሕመም	NOUN
+3	ምነው	ምነው	PROPN
+5	በለቀቀኝ	በለቀቀኝ	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-x01-s15
+# text = ካሳ አስቴር ወደ ጎንደር እንደሄደች አውቆአል ።
+1	ካሳ	ካሳ	PROPN
+2	አስቴር	አስቴር	PROPN
+3	ወደ	ወደ	ADP
+4	ጎንደር	ጎንደር	NOUN
+6	እንደሄደች	እንደሄደች	VERB
+8	አውቆአል	አውቆአል	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-x01-s16
+# text = ካሳ አስቴር ወደ ትምህርት ቤት እንደ ሄደች ምሳውን በላ ።
+1	ካሳ	ካሳ	PROPN
+2	አስቴር	አስቴር	PROPN
+3	ወደ	ወደ	ADP
+4	ትምህርት	ትምህርት	NOUN
+5	ቤት	ቤት	NOUN
+6	እንደ	እንደ	SCONJ
+7	ሄደች	ሄደች	VERB
+9	ምሳውን	ምሳውን	NOUN
+12	በላ	በላ	VERB
+14	።	።	PUNCT
+
+# sent_id = data_UD-x01-s17
+# text = ልክ ሆስፒታል ስንደርስ ተገላገለች ።
+1	ልክ	ልክ	NOUN
+2	ሆስፒታል	ሆስፒታል	NOUN
+5	ስንደርስ	ስንደርስ	VERB
+6	ተገላገለች	ተገላገለች	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-x01-s18
+# text = መኪና ሲመጣ ስታይ አትደንግጥ ።
+1	መኪና	መኪና	NOUN
+4	ሲመጣ	ሲመጣ	VERB
+8	ስታይ	ስታይ	VERB
+11	አትደንግጥ	አትደንግጥ	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-x01-s19
+# text = እዚህ ካለህ እራት አብረኧን ብላ ።
+1	እዚህ	እዚህ	ADV
+3	ካለህ	ካለህ	VERB
+5	እራት	እራት	NOUN
+6	አብረኧን	አብረኧን	VERB
+9	ብላ	ብላ	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-x01-s20
+# text = ወጣት ብሆንም ብዙ አይቻለሁ ።
+1	ወጣት	ወጣት	NOUN
+2	ብሆንም	ብሆንም	SCONJ
+6	ብዙ	ብዙ	ADV
+7	አይቻለሁ	አይቻለሁ	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-x02-s1
+# text = እዚያ ብቻህን ባትሄድ እወዳለሁ ።
+1	እዚያ	እዚያ	ADV
+2	ብቻህን	ብቻህን	ADV
+8	ባትሄድ	ባትሄድ	VERB
+10	እወዳለሁ	እወዳለሁ	VERB
+13	።	።	PUNCT
+
+# sent_id = data_UD-x02-s2
+# text = ምነው እውነቱን ቢናገር ኖሮ ።
+1	ምነው	ምነው	INTJ
+2	እውነቱን	እውነቱን	NOUN
+7	ቢናገር	ቢናገር	VERB
+8	ኖሮ	ኖሮ	AUX
+10	።	።	PUNCT
+
+# sent_id = data_UD-x02-s3
+# text = ምነው ብርቱካኖቹ በስለው ቢሆን ኖሮ ።
+1	ምነው	ምነው	INTJ
+2	ብርቱካኖቹ	ብርቱካኖቹ	NOUN
+4	በስለው	በስለው	VERB
+8	ቢሆን	ቢሆን	VERB
+9	ኖሮ	ኖሮ	AUX
+11	።	።	PUNCT
+
+# sent_id = data_UD-x02-s4
+# text = ይህን ያህል ባይሰራ ይሻለው ነበር ።
+1	ይህን	ይህን	DET
+2	ያህል	ያህል	NOUN
+6	ባይሰራ	ባይሰራ	VERB
+8	ይሻለው	ይሻለው	VERB
+10	ነበር	ነበር	AUX
+11	።	።	PUNCT
+
+# sent_id = data_UD-x02-s5
+# text = ምነው ይህን ያህል ባይበላስ ።
+1	ምነው	ምነው	INTJ
+2	ይህን	ይህን	DET
+3	ያህል	ያህል	NOUN
+6	ባይበላስ	ባይበላስ	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-x02-s6
+# text = አማርኛ ቢችል በተሻለ ነበር ።
+1	አማርኛ	አማርኛ	NOUN
+4	ቢችል	ቢችል	VERB
+6	በተሻለ	በተሻለ	VERB
+8	ነበር	ነበር	AUX
+9	።	።	PUNCT
+
+# sent_id = data_UD-x02-s8
+# text = ገንዘብ ስላልነበረኝ መሄድ አልቻልኩም ።
+1	ገንዘብ	ገንዘብ	NOUN
+4	ስላልነበረኝ	ስላልነበረኝ	VERB
+6	መሄድ	መሄድ	NOUN
+8	አልቻልኩም	አልቻልኩም	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-x02-s9
+# text = አስቴር ወደ ትምህርት ቤት የሄደች ይመስላል ።
+1	አስቴር	አስቴር	PROPN
+2	ወደ	ወደ	ADP
+3	ትምህርት	ትምህርት	NOUN
+4	ቤት	ቤት	NOUN
+6	የሄደች	የሄደች	VERB
+9	ይመስላል	ይመስላል	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-x02-s10
+# text = ትምህርት ቤት በሄድኩ ቁጥር ኳስ እጫወታለሁ ።
+1	ትምህርት	ትምህርት	NOUN
+2	ቤት	ቤት	NOUN
+4	በሄድኩ	በሄድኩ	VERB
+6	ቁጥር	ቁጥር	ADV
+7	ኳስ	ኳስ	NOUN
+9	እጫወታለሁ	እጫወታለሁ	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-x02-s11
+# text = አለቀሰ ።
+1	አለቀሰ	አለቀሰ	VERB
+3	።	።	PUNCT
+
+# sent_id = data_UD-x02-s12
+# text = መጣች ።
+1	መጣች	መጣች	VERB
+3	።	።	PUNCT
+
+# sent_id = data_UD-x02-s13
+# text = ካሳ ተናደደ ።
+1	ካሳ	ካሳ	PROPN
+2	ተናደደ	ተናደደ	VERB
+4	።	።	PUNCT
+
+# sent_id = data_UD-x02-s14
+# text = ልጁ ተኛ ።
+1	ልጁ	ልጁ	NOUN
+3	ተኛ	ተኛ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-x02-s15
+# text = ውሃው ቀዘቀዘ ።
+1	ውሃው	ውሃው	NOUN
+3	ቀዘቀዘ	ቀዘቀዘ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-x02-s16
+# text = ፈጣን ሆነ ።
+1	ፈጣን	ፈጣን	ADV
+2	ሆነ	ሆነ	VERB
+4	።	።	PUNCT
+
+# sent_id = data_UD-x02-s17
+# text = ስንደው በቀለ ።
+1	ስንደው	ስንደው	NOUN
+3	በቀለ	በቀለ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-x02-s18
+# text = ቃዠ ።
+1	ቃዠ	ቃዠ	VERB
+3	።	።	PUNCT
+
+# sent_id = data_UD-x02-s19
+# text = ሁላችንም አልመጣንም ።
+1	ሁላችንም	ሁላችንም	NOUN
+5	አልመጣንም	አልመጣንም	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-x02-s20
+# text = ካሳ ወደ ጎንደር ሄደ ።
+1	ካሳ	ካሳ	PROPN
+2	ወደ	ወደ	ADP
+3	ጎንደር	ጎንደር	NOUN
+4	ሄደ	ሄደ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-x03-s1
+# text = ካሳ ትናትና ወደ ጎንደር ሄደ ።
+1	ካሳ	ካሳ	PROPN
+2	ትናትና	ትናትና	ADV
+3	ወደ	ወደ	ADP
+4	ጎንደር	ጎንደር	NOUN
+5	ሄደ	ሄደ	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-x03-s2
+# text = በርግጥ ካሳ ትናንት ወደ ጎንደር ሄዷል ።
+2	በርግጥ	በርግጥ	ADJ
+3	ካሳ	ካሳ	PROPN
+4	ትናንት	ትናንት	ADV
+5	ወደ	ወደ	ADP
+6	ጎንደር	ጎንደር	NOUN
+7	ሄዷል	ሄዷል	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-x03-s3
+# text = ሞተ ።
+1	ሞተ	ሞተ	VERB
+3	።	።	PUNCT
+
+# sent_id = data_UD-x03-s4
+# text = የእኔ ውሻ ሞተ ።
+2	የእኔ	የእኔ	PRON
+3	ውሻ	ውሻ	NOUN
+4	ሞተ	ሞተ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-x03-s5
+# text = የምትደንሺው ?
+4	የምትደንሺው	የምትደንሺው	VERB
+7	?	?	PUNCT
+
+# sent_id = data_UD-x03-s6
+# text = አልማዝ በወንድሟ ሞት ደነገጠች ።
+1	አልማዝ	አልማዝ	PROPN
+3	በወንድሟ	በወንድሟ	NOUN
+5	ሞት	ሞት	NOUN
+6	ደነገጠች	ደነገጠች	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-x03-s7
+# text = አንደኛ ሆነች ።
+1	አንደኛ	አንደኛ	NUM
+2	ሆነች	ሆነች	VERB
+4	።	።	PUNCT
+
+# sent_id = data_UD-x03-s8
+# text = በወንዙ አጠገብ ሄዱ ።
+2	በወንዙ	በወንዙ	NOUN
+4	አጠገብ	አጠገብ	ADP
+5	ሄዱ	ሄዱ	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-x03-s9
+# text = ዘነበ ።
+1	ዘነበ	ዘነበ	VERB
+3	።	።	PUNCT
+
+# sent_id = data_UD-x03-s10
+# text = ጀመረ ።
+1	ጀመረ	ጀመረ	VERB
+3	።	።	PUNCT
+
+# sent_id = data_UD-x03-s11
+# text = መፅሐፍ አነበበች ።
+1	መፅሐፍ	መፅሐፍ	NOUN
+2	አነበበች	አነበበች	VERB
+4	።	።	PUNCT
+
+# sent_id = data_UD-x03-s12
+# text = አልማዝ እንቅልፍ ወሰዳት ።
+1	አልማዝ	አልማዝ	PROPN
+2	እንቅልፍ	እንቅልፍ	NOUN
+3	ወሰዳት	ወሰዳት	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-x03-s13
+# text = አሳው ከባህር ወጣ ።
+1	አሳው	አሳው	NOUN
+4	ከባህር	ከባህር	NOUN
+5	ወጣ	ወጣ	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-x03-s14
+# text = ካሳ ወደ ቤቱ ገባ ።
+1	ካሳ	ካሳ	PROPN
+2	ወደ	ወደ	ADP
+3	ቤቱ	ቤቱ	NOUN
+5	ገባ	ገባ	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-x03-s15
+# text = ካሳ ክፉኛ ተቆጣ ።
+1	ካሳ	ካሳ	PROPN
+2	ክፉኛ	ክፉኛ	ADV
+3	ተቆጣ	ተቆጣ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-x03-s16
+# text = ምናልባት ካሳ በድንገት ወደ ጎንደር ሄዶ ይሆናል ።
+1	ምናልባት	ምናልባት	ADV
+2	ካሳ	ካሳ	PROPN
+4	በድንገት	በድንገት	ADV
+5	ወደ	ወደ	ADP
+6	ጎንደር	ጎንደር	NOUN
+7	ሄዶ	ሄዶ	VERB
+9	ይሆናል	ይሆናል	PRON
+12	።	።	PUNCT
+
+# sent_id = data_UD-x03-s17
+# text = ካሳ በፍፁም በመኪና ወደ ትምህርት ቤት አይሄድም ።
+1	ካሳ	ካሳ	PROPN
+3	በፍፁም	በፍፁም	ADV
+5	በመኪና	በመኪና	NOUN
+6	ወደ	ወደ	ADP
+7	ትምህርት	ትምህርት	NOUN
+8	ቤት	ቤት	NOUN
+11	አይሄድም	አይሄድም	VERB
+13	።	።	PUNCT
+
+# sent_id = data_UD-x03-s18
+# text = አልማዝ ካሳን ገደለች ።
+1	አልማዝ	አልማዝ	PROPN
+2	ካሳን	ካሳን	PROPN
+4	ገደለች	ገደለች	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-x03-s19
+# text = ምሳ በላሁ ።
+1	ምሳ	ምሳ	NOUN
+2	በላሁ	በላሁ	VERB
+4	።	።	PUNCT
+
+# sent_id = data_UD-x03-s20
+# text = መፅሐፍ አነበበች ።
+1	መፅሐፍ	መፅሐፍ	NOUN
+2	አነበበች	አነበበች	VERB
+4	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-x04-s1
+# text = አልማዝ እንቅልፍ ወሰዳት ።
+1	አልማዝ	አልማዝ	PROPN
+2	እንቅልፍ	እንቅልፍ	NOUN
+3	ወሰዳት	ወሰዳት	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-x04-s2
+# text = ካሳ ልብስ ተኮሰ ።
+1	ካሳ	ካሳ	PROPN
+2	ልብስ	ልብስ	NOUN
+3	ተኮሰ	ተኮሰ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-x04-s3
+# text = መንገድሽን ተከተለ ።
+1	መንገድሽን	መንገድሽን	NOUN
+4	ተከተለ	ተከተለ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-x04-s4
+# text = ካሳ ምሳውን በላ ።
+1	ካሳ	ካሳ	PROPN
+2	ምሳውን	ምሳውን	NOUN
+5	በላ	በላ	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-x04-s5
+# text = መንገዱ ጎንደር ይደርሳል ።
+1	መንገዱ	መንገዱ	NOUN
+3	ጎንደር	ጎንደር	NOUN
+5	ይደርሳል	ይደርሳል	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-x04-s6
+# text = አልማዝ ክብደት ቀነሰች ።
+1	አልማዝ	አልማዝ	PROPN
+2	ክብደት	ክብደት	NOUN
+3	ቀነሰች	ቀነሰች	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-x04-s7
+# text = ስጋው ሁለት ኪሎ ይመዝናል ።
+1	ስጋው	ስጋው	NOUN
+3	ሁለት	ሁለት	NUM
+4	ኪሎ	ኪሎ	NOUN
+6	ይመዝናል	ይመዝናል	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-x04-s8
+# text = ወንድሜን ያቀዋል ።
+1	ወንድሜን	ወንድሜን	NOUN
+5	ያቀዋል	ያቀዋል	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-x04-s9
+# text = አልማዝ ገንፎ አገነፋች ።
+1	አልማዝ	አልማዝ	PROPN
+2	ገንፎ	ገንፎ	NOUN
+3	አገነፋች	አገነፋች	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-x04-s10
+# text = ጡት አጠባሁዋት ።
+1	ጡት	ጡት	NOUN
+2	አጠባሁዋት	አጠባሁዋት	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-x04-s11
+# text = ካሳ ትናንት መኪና ገዛ ።
+1	ካሳ	ካሳ	PROPN
+2	ትናንት	ትናንት	ADV
+3	መኪና	መኪና	NOUN
+4	ገዛ	ገዛ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-x04-s12
+# text = ካሳ ልጁን ገረፈው ።
+1	ካሳ	ካሳ	PROPN
+2	ልጁን	ልጁን	NOUN
+5	ገረፈው	ገረፈው	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-x04-s13
+# text = ካሳ ልጅ ወለደ ።
+1	ካሳ	ካሳ	PROPN
+2	ልጅ	ልጅ	NOUN
+3	ወለደ	ወለደ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-x04-s14
+# text = ካሳ አባቱን ይመስላል ።
+1	ካሳ	ካሳ	PROPN
+2	አባቱን	አባቱን	NOUN
+6	ይመስላል	ይመስላል	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-x04-s15
+# text = ወደ ከተማ ተጓዘ ።
+1	ወደ	ወደ	ADP
+2	ከተማ	ከተማ	NOUN
+3	ተጓዘ	ተጓዘ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-x04-s16
+# text = ልጁ ብርጭቆውን ወረወረው ።
+1	ልጁ	ልጁ	NOUN
+3	ብርጭቆውን	ብርጭቆውን	NOUN
+6	ወረወረው	ወረወረው	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-x04-s17
+# text = ልጇን ተንከባከበች ።
+1	ልጇን	ልጇን	NOUN
+4	ተንከባከበች	ተንከባከበች	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-x04-s18
+# text = ፖሊሱ ጥይት ተኮሰ ።
+1	ፖሊሱ	ፖሊሱ	NOUN
+2	ጥይት	ጥይት	NOUN
+3	ተኮሰ	ተኮሰ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-x04-s19
+# text = ካሳ ከአባቱ ተሻለ ።
+1	ካሳ	ካሳ	PROPN
+3	ከአባቱ	ከአባቱ	NOUN
+5	ተሻለ	ተሻለ	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-Sleepwalking-x04-s20
+# text = ልጁ ኳሱን አነሳ ።
+1	ልጁ	ልጁ	NOUN
+3	ኳሱን	ኳሱን	NOUN
+6	አነሳ	አነሳ	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-x05-s1
+# text = ገበሬው እርሻውን ያለሰልሳል ።
+1	ገበሬው	ገበሬው	NOUN
+3	እርሻውን	እርሻውን	NOUN
+7	ያለሰልሳል	ያለሰልሳል	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-x05-s2
+# text = ካሳ ክፉኛ ታሟል ።
+1	ካሳ	ካሳ	PROPN
+2	ክፉኛ	ክፉኛ	ADV
+3	ታሟል	ታሟል	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-x05-s3
+# text = መምጣቷን አልወደውም ።
+1	መምጣቷን	መምጣቷን	NOUN
+5	አልወደውም	አልወደውም	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-x05-s4
+# text = የሚመጣውን ታውቃለች ።
+4	የሚመጣውን	የሚመጣውን	VERB
+9	ታውቃለች	ታውቃለች	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-x05-s5
+# text = የካሳ በፈተና መውደቅ አልማዝን ገረማት ።
+2	የካሳ	የካሳ	PROPN
+4	በፈተና	በፈተና	NOUN
+5	መውደቅ	መውደቅ	NOUN
+6	አልማዝን	አልማዝን	PROPN
+8	ገረማት	ገረማት	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-x05-s6
+# text = ድመቱ ነብር መሰለኝ ።
+1	ድመቱ	ድመቱ	NOUN
+3	ነብር	ነብር	NOUN
+4	መሰለኝ	መሰለኝ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-x05-s7
+# text = አልማዝ ልብስ እያጠበች መሰለኝ ።
+1	አልማዝ	አልማዝ	PROPN
+2	ልብስ	ልብስ	NOUN
+4	እያጠበች	እያጠበች	VERB
+6	መሰለኝ	መሰለኝ	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-x05-s8
+# text = አልማዝ አርፍዳ እንደምትመጣ ነግራኛለች ።
+1	አልማዝ	አልማዝ	PROPN
+2	አርፍዳ	አርፍዳ	VERB
+6	እንደምትመጣ	እንደምትመጣ	VERB
+8	ነግራኛለች	ነግራኛለች	VERB
+13	።	።	PUNCT
+
+# sent_id = data_UD-x05-s9
+# text = ጀርባዋ ላይ መታኋት ።
+1	ጀርባዋ	ጀርባዋ	NOUN
+3	ላይ	ላይ	ADP
+4	መታኋት	መታኋት	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-x05-s10
+# text = እናቴን ሰለ ወንድሟ መምጣት ጠየኳት ።
+1	እናቴን	እናቴን	NOUN
+4	ሰለ	ሰለ	ADP
+5	ወንድሟ	ወንድሟ	NOUN
+7	መምጣት	መምጣት	VERB
+8	ጠየኳት	ጠየኳት	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-x05-s11
+# text = ካሳ ጥይቱን ወደእኔ አነጣተረ ።
+1	ካሳ	ካሳ	PROPN
+2	ጥይቱን	ጥይቱን	NOUN
+6	ወደእኔ	ወደእኔ	PRON
+7	አነጣተረ	አነጣተረ	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-x05-s12
+# text = ካሳ በጦር አንበሳ ገደለ ።
+1	ካሳ	ካሳ	PROPN
+3	በጦር	በጦር	NOUN
+4	አንበሳ	አንበሳ	NOUN
+5	ገደለ	ገደለ	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-x05-s13
+# text = ልጁ ትናንትና ሁለት እንቁላል ሸጠ ።
+1	ልጁ	ልጁ	NOUN
+3	ትናንትና	ትናንትና	ADV
+4	ሁለት	ሁለት	NUM
+5	እንቁላል	እንቁላል	NOUN
+6	ሸጠ	ሸጠ	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-x05-s14
+# text = የመኪናው አለመምጣት አልማዝን አስጨነቃት ።
+2	የመኪናው	የመኪናው	NOUN
+5	አለመምጣት	አለመምጣት	NOUN
+6	አልማዝን	አልማዝን	PROPN
+8	አስጨነቃት	አስጨነቃት	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-x05-s15
+# text = መታመሙን እንደነገረኝ መጣሁ ።
+1	መታመሙን	መታመሙን	NOUN
+5	እንደነገረኝ	እንደነገረኝ	VERB
+8	መጣሁ	መጣሁ	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-x05-s16
+# text = ለከበደ ገንዘብ ሰጠሁት ።
+2	ለከበደ	ለከበደ	PROPN
+3	ገንዘብ	ገንዘብ	NOUN
+4	ሰጠሁት	ሰጠሁት	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-x05-s17
+# text = ህመሙ ፋታ ሰጣት ።
+1	ህመሙ	ህመሙ	NOUN
+3	ፋታ	ፋታ	ADV
+4	ሰጣት	ሰጣት	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-x05-s18
+# text = ካሳ እነደሚመጣ ለአልማዝ ነገራት ።
+1	ካሳ	ካሳ	PROPN
+5	እነደሚመጣ	እነደሚመጣ	VERB
+8	ለአልማዝ	ለአልማዝ	PROPN
+9	ነገራት	ነገራት	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-x05-s19
+# text = ማን እንደሚመጣ ነገርኩዋት ።
+1	ማን	ማን	PRON
+5	እንደሚመጣ	እንደሚመጣ	VERB
+7	ነገርኩዋት	ነገርኩዋት	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-x05-s20
+# text = ዝም አለች ።
+1	ዝም	ዝም	ADV
+2	አለች	አለች	VERB
+4	።	።	PUNCT
+
+# sent_id = data_UD-x06-s1
+# text = ከፊቴ ጥፍት አለች ።
+1	ከፊቴ	ከፊቴ	NOUN
+3	ጥፍት	ጥፍት	VERB
+4	አለች	አለች	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-x06-s2
+# text = አጎነበሰች ።
+1	አጎነበሰች	አጎነበሰች	VERB
+3	።	።	PUNCT
+
+# sent_id = data_UD-x06-s3
+# text = ካሳ ምክሬን አልቀበል አለ ።
+1	ካሳ	ካሳ	PROPN
+2	ምክሬን	ምክሬን	NOUN
+6	አልቀበል	አልቀበል	VERB
+7	አለ	አለ	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-x06-s4
+# text = ሁሉን አዘጋጅተናል ።
+1	ሁሉን	ሁሉን	ADV
+3	አዘጋጅተናል	አዘጋጅተናል	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-x06-s5
+# text = የቤቴን ጣሪያ አነሳሁት ።
+2	የቤቴን	የቤቴን	NOUN
+5	ጣሪያ	ጣሪያ	NOUN
+6	አነሳሁት	አነሳሁት	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-x06-s6
+# text = ወተት ነጭ ነው ።
+1	ወተት	ወተት	NOUN
+2	ነጭ	ነጭ	ADJ
+3	ነው	ነው	AUX
+5	።	።	PUNCT
+
+# sent_id = data_UD-x06-s7
+# text = ሩጫ ጥሩ ነው ።
+1	ሩጫ	ሩጫ	NOUN
+2	ጥሩ	ጥሩ	ADJ
+3	ነው	ነው	AUX
+5	።	።	PUNCT
+
+# sent_id = data_UD-x06-s8
+# text = ቆንጆ ልጅ ነበረች ።
+1	ቆንጆ	ቆንጆ	ADJ
+2	ልጅ	ልጅ	NOUN
+3	ነበረች	ነበረች	AUX
+5	።	።	PUNCT
+
+# sent_id = data_UD-x06-s9
+# text = ማን እንደሚመጣ ሚስጥር ነው ።
+1	ማን	ማን	PRON
+5	እንደሚመጣ	እንደሚመጣ	VERB
+7	ሚስጥር	ሚስጥር	NOUN
+8	ነው	ነው	AUX
+10	።	።	PUNCT
+
+# sent_id = data_UD-x06-s10
+# text = በሽጉጥ ነው አንበሳ የገደልኩት ።
+2	በሽጉጥ	በሽጉጥ	NOUN
+3	ነው	ነው	AUX
+5	አንበሳ	አንበሳ	NOUN
+7	የገደልኩት	የገደልኩት	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-x06-s11
+# text = የሄድነው በወንዙ አጠገብ ነው ።
+2	የሄድነው	የሄድነው	VERB
+6	በወንዙ	በወንዙ	NOUN
+8	አጠገብ	አጠገብ	ADP
+9	ነው	ነው	AUX
+11	።	።	PUNCT
+
+# sent_id = data_UD-x06-s12
+# text = አልማዝ እንደ እናት ነች ።
+1	አልማዝ	አልማዝ	PROPN
+2	እንደ	እንደ	ADP
+3	እናት	እናት	NOUN
+4	ነች	ነች	AUX
+6	።	።	PUNCT
+
+# sent_id = data_UD-x06-s13
+# text = ጉዞ በጠዋት መሆን አለበት ።
+1	ጉዞ	ጉዞ	NOUN
+3	በጠዋት	በጠዋት	NOUN
+4	መሆን	መሆን	NOUN
+5	አለበት	አለበት	AUX
+8	።	።	PUNCT
+
+# sent_id = data_UD-x06-s14
+# text = የገዛሁት ቤት ነው ።
+2	የገዛሁት	የገዛሁት	VERB
+5	ቤት	ቤት	NOUN
+6	ነው	ነው	AUX
+8	።	።	PUNCT
+
+# sent_id = data_UD-x06-s15
+# text = መንገዱ የመጣንበት ነው ።
+1	መንገዱ	መንገዱ	NOUN
+4	የመጣንበት	የመጣንበት	VERB
+8	ነው	ነው	AUX
+10	።	።	PUNCT
+
+# sent_id = data_UD-x06-s16
+# text = የገዛሁት ያንን ቤት ነው ።
+2	የገዛሁት	የገዛሁት	VERB
+5	ያንን	ያንን	DET
+7	ቤት	ቤት	NOUN
+8	ነው	ነው	AUX
+10	።	።	PUNCT
+
+# sent_id = data_UD-x06-s17
+# text = የመጣሁት በዚያ መንገድ ነው ።
+2	የመጣሁት	የመጣሁት	VERB
+6	በዚያ	በዚያ	DET
+7	መንገድ	መንገድ	NOUN
+8	ነው	ነው	AUX
+10	።	።	PUNCT
+
+# sent_id = data_UD-x06-s18
+# text = የምበላ ከሆነ የምበላው ስጋ ነው ።
+4	የምበላ	የምበላ	VERB
+6	ከሆነ	ከሆነ	VERB
+11	የምበላው	የምበላው	VERB
+13	ስጋ	ስጋ	NOUN
+14	ነው	ነው	AUX
+16	።	።	PUNCT
+
+# sent_id = data_UD-x06-s19
+# text = ወደጎጃም የሄደችው በአውቶቢስ ነው ።
+2	ወደጎጃም	ወደጎጃም	PROPN
+4	የሄደችው	የሄደችው	VERB
+8	በአውቶቢስ	በአውቶቢስ	NOUN
+9	ነው	ነው	AUX
+11	።	።	PUNCT
+
+# sent_id = data_UD-x06-s20
+# text = የምወደው ሥራ መሥራትን ነው ።
+4	የምወደው	የምወደው	VERB
+6	ሥራ	ሥራ	NOUN
+7	መሥራትን	መሥራትን	NOUN
+9	ነው	ነው	AUX
+11	።	።	PUNCT
+
+# sent_id = data_UD-x07-s1
+# text = የምጠላው ጠላ መጠጣቷን ነው ።
+4	የምጠላው	የምጠላው	VERB
+6	ጠላ	ጠላ	NOUN
+7	መጠጣቷን	መጠጣቷን	NOUN
+9	ነው	ነው	AUX
+11	።	።	PUNCT
+
+# sent_id = data_UD-x07-s2
+# text = እስካሁን ማወቅ ያልቻልኩት መምጣት አለመምጣቷን ነው ።
+2	እስካሁን	እስካሁን	ADV
+3	ማወቅ	ማወቅ	NOUN
+6	ያልቻልኩት	ያልቻልኩት	VERB
+9	መምጣት	መምጣት	NOUN
+11	አለመምጣቷን	አለመምጣቷን	NOUN
+14	ነው	ነው	AUX
+16	።	።	PUNCT
+
+# sent_id = data_UD-x07-s3
+# text = ካሳ አስተማሪ ሆነ ።
+1	ካሳ	ካሳ	PROPN
+2	አስተማሪ	አስተማሪ	NOUN
+3	ሆነ	ሆነ	AUX
+5	።	።	PUNCT
+
+# sent_id = data_UD-x07-s4
+# text = አስተማሪ ነው ።
+1	አስተማሪ	አስተማሪ	NOUN
+2	ነው	ነው	AUX
+4	።	።	PUNCT
+
+# sent_id = data_UD-x07-s5
+# text = ካሳ አባቱን ይመስላል ።
+1	ካሳ	ካሳ	PROPN
+2	አባቱን	አባቱን	NOUN
+6	ይመስላል	ይመስላል	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-x07-s6
+# text = ካሳ ቤት ውስጥ አለ ።
+1	ካሳ	ካሳ	PROPN
+2	ቤት	ቤት	NOUN
+3	ውስጥ	ውስጥ	ADP
+4	አለ	አለ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-x07-s7
+# text = አምና ጎበዝ ነበር ።
+1	አምና	አምና	ADV
+2	ጎበዝ	ጎበዝ	ADJ
+3	ነበር	ነበር	AUX
+4	።	።	PUNCT
+
+# sent_id = data_UD-x07-s8
+# text = አስቴር ቤት እየሰራች ነው ።
+1	አስቴር	አስቴር	PROPN
+2	ቤት	ቤት	NOUN
+4	እየሰራች	እየሰራች	VERB
+6	ነው	ነው	AUX
+8	።	።	PUNCT
+
+# sent_id = data_UD-x07-s9
+# text = ተጠማች ።
+1	ተጠማች	ተጠማች	VERB
+3	።	።	PUNCT
+
+# sent_id = data_UD-x07-s10
+# text = አስቴርን ጨነቃት ።
+1	አስቴርን	አስቴርን	PROPN
+3	ጨነቃት	ጨነቃት	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-x07-s11
+# text = አልማዝን አመማት ።
+1	አልማዝን	አልማዝን	PROPN
+3	አመማት	አመማት	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-x07-s12
+# text = አንበሳውን ገደሉት ።
+1	አንበሳውን	አንበሳውን	NOUN
+4	ገደሉት	ገደሉት	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-x07-s13
+# text = አመጡዋት ።
+1	አመጡዋት	አመጡዋት	VERB
+4	።	።	PUNCT
+
+# sent_id = data_UD-x07-s14
+# text = ራሴን አመመኝ ።
+1	ራሴን	ራሴን	NOUN
+4	አመመኝ	አመመኝ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-x07-s15
+# text = ብርድ ይሰማኛል ።
+1	ብርድ	ብርድ	NOUN
+3	ይሰማኛል	ይሰማኛል	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-x07-s16
+# text = ገንዘቡ ለአልማዝ ተሸለመ ።
+1	ገንዘቡ	ገንዘቡ	NOUN
+4	ለአልማዝ	ለአልማዝ	PROPN
+5	ተሸለመ	ተሸለመ	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-x07-s17
+# text = ልብሱ ለአልማዝ ተገዛላት ።
+1	ልብሱ	ልብሱ	NOUN
+4	ለአልማዝ	ለአልማዝ	PROPN
+5	ተገዛላት	ተገዛላት	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-x07-s18
+# text = መጽሐፉን መለሰ ።
+1	መጽሐፉን	መጽሐፉን	NOUN
+4	መለሰ	መለሰ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-x07-s19
+# text = ልብሱን ለወጠ ።
+1	ልብሱን	ልብሱን	NOUN
+4	ለወጠ	ለወጠ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-x07-s20
+# text = ልጁ ልብሱን ደበቀ ።
+1	ልጁ	ልጁ	NOUN
+3	ልብሱን	ልብሱን	NOUN
+6	ደበቀ	ደበቀ	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-x08-s1
+# text = ሰዎቹ ዕንጨት ሰበሰቡ ።
+1	ሰዎቹ	ሰዎቹ	NOUN
+3	ዕንጨት	ዕንጨት	NOUN
+4	ሰበሰቡ	ሰበሰቡ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-x08-s2
+# text = እጇን ታጠበች ።
+1	እጇን	እጇን	NOUN
+4	ታጠበች	ታጠበች	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-x08-s3
+# text = አንዳንድ ዓሳዎች የሚበሉ ናቸው ።
+1	አንዳንድ	አንዳንድ	ADJ
+2	ዓሳዎች	ዓሳዎች	NOUN
+6	የሚበሉ	የሚበሉ	VERB
+8	ናቸው	ናቸው	AUX
+10	።	።	PUNCT
+
+# sent_id = data_UD-x08-s4
+# text = ወረቀቱ በቀላሉ ተቀዳጅ ነው ።
+1	ወረቀቱ	ወረቀቱ	NOUN
+4	በቀላሉ	በቀላሉ	ADJ
+6	ተቀዳጅ	ተቀዳጅ	VERB
+7	ነው	ነው	AUX
+9	።	።	PUNCT
+
+# sent_id = data_UD-x08-s5
+# text = ሻንጣዬን ተሰረቅሁ ።
+1	ሻንጣዬን	ሻንጣዬን	NOUN
+4	ተሰረቅሁ	ተሰረቅሁ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-x08-s6
+# text = ውሃ ተጎነጨ ።
+1	ውሃ	ውሃ	NOUN
+2	ተጎነጨ	ተጎነጨ	VERB
+4	።	።	PUNCT
+
+# sent_id = data_UD-x08-s7
+# text = ካአገር እሰኪወጣ ታገሰ ።
+2	ካአገር	ካአገር	NOUN
+5	እሰኪወጣ	እሰኪወጣ	VERB
+7	ታገሰ	ታገሰ	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-x08-s8
+# text = የአባቱን ፈለግ ተከተለ ።
+2	የአባቱን	የአባቱን	NOUN
+5	ፈለግ	ፈለግ	NOUN
+6	ተከተለ	ተከተለ	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-x08-s9
+# text = መጽሐፉን ተዋሰ ።
+1	መጽሐፉን	መጽሐፉን	NOUN
+4	ተዋሰ	ተዋሰ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-x08-s10
+# text = በሁኔታው ተሸበረ ።
+2	በሁኔታው	በሁኔታው	NOUN
+4	ተሸበረ	ተሸበረ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-x08-s11
+# text = ሰልፉ ተቃለለ ።
+1	ሰልፉ	ሰልፉ	NOUN
+3	ተቃለለ	ተቃለለ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-x08-s12
+# text = የመሄጃው ቀን ተቃረበ ።
+2	የመሄጃው	የመሄጃው	VERB
+4	ቀን	ቀን	NOUN
+5	ተቃረበ	ተቃረበ	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-x08-s13
+# text = ካሳ ለአስቴር መዝሙር ዘመረላት ።
+1	ካሳ	ካሳ	PROPN
+3	ለአስቴር	ለአስቴር	PROPN
+4	መዝሙር	መዝሙር	NOUN
+5	ዘመረላት	ዘመረላት	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-x08-s14
+# text = ዳኛው ለአስቴር ፈረዱላት ።
+1	ዳኛው	ዳኛው	NOUN
+4	ለአስቴር	ለአስቴር	PROPN
+5	ፈረዱላት	ፈረዱላት	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-x08-s15
+# text = ዮሐንስ መጵሐፉን ለአስቴር መለሰላት ።
+1	ዮሐንስ	ዮሐንስ	PROPN
+2	መጵሐፉን	መጵሐፉን	NOUN
+6	ለአስቴር	ለአስቴር	PROPN
+7	መለሰላት	መለሰላት	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-x08-s16
+# text = አስቴር በመጥረጊያው ቤቱን ጠረገችበት ።
+1	አስቴር	አስቴር	PROPN
+3	በመጥረጊያው	በመጥረጊያው	NOUN
+5	ቤቱን	ቤቱን	NOUN
+8	ጠረገችበት	ጠረገችበት	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-x08-s17
+# text = መኖሪያ~ቤቱ ታሸገበት ።
+1	መኖሪያ~ቤቱ	መኖሪያ~ቤቱ	NOUN
+3	ታሸገበት	ታሸገበት	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-x08-s18
+# text = ሽማግሌ ተላከበት ።
+1	ሽማግሌ	ሽማግሌ	NOUN
+2	ተላከበት	ተላከበት	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-x08-s19
+# text = ገንዘቡ ጠፋበት ።
+1	ገንዘቡ	ገንዘቡ	NOUN
+3	ጠፋበት	ጠፋበት	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-x08-s20
+# text = እቃው ተሰረቀበት ።
+1	እቃው	እቃው	NOUN
+3	ተሰረቀበት	ተሰረቀበት	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-x09-s1
+# text = ውሃውን አፈላችው ።
+1	ውሃውን	ውሃውን	NOUN
+4	አፈላችው	አፈላችው	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-x09-s2
+# text = አልማዝን ዳቦ አጎረስኩዋት ።
+1	አልማዝን	አልማዝን	PROPN
+3	ዳቦ	ዳቦ	NOUN
+4	አጎረስኩዋት	አጎረስኩዋት	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-x09-s3
+# text = ቅቤውን አቀለጡት ።
+1	ቅቤውን	ቅቤውን	NOUN
+4	አቀለጡት	አቀለጡት	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-x09-s4
+# text = ካሳ ለልጆቹ መንገዱን አሳያቸው ።
+1	ካሳ	ካሳ	PROPN
+3	ለልጆቹ	ለልጆቹ	NOUN
+5	መንገዱን	መንገዱን	NOUN
+8	አሳያቸው	አሳያቸው	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-x09-s5
+# text = አልማዝ መዘመሯ መፅሐፍ አስሸለማት ።
+1	አልማዝ	አልማዝ	PROPN
+2	መዘመሯ	መዘመሯ	NOUN
+4	መፅሐፍ	መፅሐፍ	NOUN
+5	አስሸለማት	አስሸለማት	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-x09-s6
+# text = ካሳ አልማዝን አስገደላት ።
+1	ካሳ	ካሳ	PROPN
+2	አልማዝን	አልማዝን	PROPN
+4	አስገደላት	አስገደላት	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-x09-s7
+# text = ፀሐዩ ቅቤውን በአልማዝ ላይ አስቀለጠው ።
+1	ፀሐዩ	ፀሐዩ	NOUN
+3	ቅቤውን	ቅቤውን	NOUN
+7	በአልማዝ	በአልማዝ	PROPN
+8	ላይ	ላይ	ADP
+9	አስቀለጠው	አስቀለጠው	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-x09-s8
+# text = አልማዝ ላይ ድንጋይ አስወረወሩባት ።
+1	አልማዝ	አልማዝ	PROPN
+2	ላይ	ላይ	ADP
+3	ድንጋይ	ድንጋይ	NOUN
+4	አስወረወሩባት	አስወረወሩባት	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-x09-s9
+# text = ልጁን አስተኙት ።
+1	ልጁን	ልጁን	NOUN
+4	አስተኙት	አስተኙት	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-x09-s10
+# text = መኪናውን አስወሰደ ።
+1	መኪናውን	መኪናውን	NOUN
+4	አስወሰደ	አስወሰደ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-x09-s11
+# text = ገንዘቡን አስመለሰ ።
+1	ገንዘቡን	ገንዘቡን	NOUN
+4	አስመለሰ	አስመለሰ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-x09-s12
+# text = ውሃ አስሞቀ ።
+1	ውሃ	ውሃ	NOUN
+2	አስሞቀ	አስሞቀ	VERB
+4	።	።	PUNCT
+
+# sent_id = data_UD-x09-s13
+# text = ልጁን እያስፈራሩ አስጠፉት ።
+1	ልጁን	ልጁን	NOUN
+4	እያስፈራሩ	እያስፈራሩ	VERB
+6	አስጠፉት	አስጠፉት	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-x09-s14
+# text = በሽተኛውን ልጅ ወደ ሆስፒታል አስወሰደው ።
+1	በሽተኛውን	በሽተኛውን	ADJ
+4	ልጅ	ልጅ	NOUN
+5	ወደ	ወደ	ADP
+6	ሆስፒታል	ሆስፒታል	NOUN
+7	አስወሰደው	አስወሰደው	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-x09-s15
+# text = ጠላቱን አስገደለ ።
+1	ጠላቱን	ጠላቱን	NOUN
+4	አስገደለ	አስገደለ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-x09-s16
+# text = ልጁን ሥራውን አስጨርሰዋለሁ ።
+1	ልጁን	ልጁን	NOUN
+4	ሥራውን	ሥራውን	NOUN
+7	አስጨርሰዋለሁ	አስጨርሰዋለሁ	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-x09-s17
+# text = ልጁቹን ጠርተህ እህሉን እጎተራ አስገባ ።
+1	ልጁቹን	ልጁቹን	NOUN
+4	ጠርተህ	ጠርተህ	VERB
+6	እህሉን	እህሉን	NOUN
+10	እጎተራ	እጎተራ	NOUN
+11	አስገባ	አስገባ	VERB
+13	።	።	PUNCT
+
+# sent_id = data_UD-x09-s18
+# text = እህሉን አስሸከመ ።
+1	እህሉን	እህሉን	NOUN
+4	አስሸከመ	አስሸከመ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-x09-s19
+# text = ልጁን ኮሶ አስጠጣሁት ።
+1	ልጁን	ልጁን	NOUN
+4	ኮሶ	ኮሶ	NOUN
+5	አስጠጣሁት	አስጠጣሁት	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-x09-s20
+# text = ጠጅ አስቀመስኩት ።
+1	ጠጅ	ጠጅ	NOUN
+2	አስቀመስኩት	አስቀመስኩት	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-x10-s1
+# text = ተማሪ ቤት አስኬድኩት ።
+1	ተማሪ	ተማሪ	NOUN
+2	ቤት	ቤት	NOUN
+3	አስኬድኩት	አስኬድኩት	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-x10-s2
+# text = ሸክሙን አሳርፉኝ ።
+1	ሸክሙን	ሸክሙን	NOUN
+4	አሳርፉኝ	አሳርፉኝ	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-x10-s3
+# text = ሰው አያስወጣም ።
+1	ሰው	ሰው	NOUN
+4	አያስወጣም	አያስወጣም	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-x10-s4
+# text = ሥራዬን ለምን አታሰራኝም ?
+1	ሥራዬን	ሥራዬን	NOUN
+5	ለምን	ለምን	PRON
+8	አታሰራኝም	አታሰራኝም	VERB
+12	?	?	PUNCT
+
+# sent_id = data_UD-x10-s5
+# text = የደከሙት አይኖቹ ብዙ አያስነብቡትም ።
+2	የደከሙት	የደከሙት	VERB
+5	አይኖቹ	አይኖቹ	NOUN
+7	ብዙ	ብዙ	ADV
+10	አያስነብቡትም	አያስነብቡትም	VERB
+14	።	።	PUNCT
+
+# sent_id = data_UD-x10-s6
+# text = እህትና ወንድም ተደባደቡ ።
+1	እህትና	እህትና	NOUN
+3	ወንድም	ወንድም	NOUN
+4	ተደባደቡ	ተደባደቡ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-x10-s7
+# text = ወታደሮቹ ለገራቸው ተጋደሉ ።
+1	ወታደሮቹ	ወታደሮቹ	NOUN
+4	ለገራቸው	ለገራቸው	NOUN
+6	ተጋደሉ	ተጋደሉ	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-x10-s8
+# text = የህግ አለመኖር ህዝቡን በጅምላ አጫረሰ ።
+2	የህግ	የህግ	NOUN
+4	አለመኖር	አለመኖር	VERB
+5	ህዝቡን	ህዝቡን	NOUN
+9	በጅምላ	በጅምላ	ADV
+10	አጫረሰ	አጫረሰ	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-x10-s9
+# text = ከበደ ሁለቱን ጓደኞች አጋደላቸው ።
+1	ከበደ	ከበደ	PROPN
+2	ሁለቱን	ሁለቱን	NUM
+5	ጓደኞች	ጓደኞች	NOUN
+6	አጋደላቸው	አጋደላቸው	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-x10-s10
+# text = ካሳ እራሱን ሰቀለ ።
+1	ካሳ	ካሳ	PROPN
+2	እራሱን	እራሱን	NOUN
+5	ሰቀለ	ሰቀለ	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-x10-s11
+# text = አልማዝ ምሳዋን በልታ ተኛች ።
+1	አልማዝ	አልማዝ	PROPN
+2	ምሳዋን	ምሳዋን	NOUN
+5	በልታ	በልታ	VERB
+7	ተኛች	ተኛች	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-x10-s12
+# text = አልማዝ ስጋ ገዝታ ፣ ቀቅላ በላች ።
+1	አልማዝ	አልማዝ	PROPN
+2	ስጋ	ስጋ	NOUN
+3	ገዝታ	ገዝታ	VERB
+5	፣	፣	PUNCT
+6	ቀቅላ	ቀቅላ	VERB
+8	በላች	በላች	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-x10-s13
+# text = ጎጃም ሄደው ፣ ሰርግ ላይ ተገኝተው ፣ ወደቤታቸው ተመለሱ ።
+1	ጎጃም	ጎጃም	PROPN
+2	ሄደው	ሄደው	VERB
+4	፣	፣	PUNCT
+5	ሰርግ	ሰርግ	NOUN
+6	ላይ	ላይ	ADP
+7	ተገኝተው	ተገኝተው	VERB
+9	፣	፣	PUNCT
+11	ወደቤታቸው	ወደቤታቸው	NOUN
+13	ተመለሱ	ተመለሱ	VERB
+15	።	።	PUNCT
+
+# sent_id = data_UD-x10-s14
+# text = ከተያዘ በኋላ ታስሮ ፣ ተለቀቀ ።
+2	ከተያዘ	ከተያዘ	VERB
+4	በኋላ	በኋላ	ADP
+5	ታስሮ	ታስሮ	VERB
+7	፣	፣	PUNCT
+8	ተለቀቀ	ተለቀቀ	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-x10-s15
+# text = ካሳ በሬ ከገዛላት በኋላ አልማዝ አረደችው ።
+1	ካሳ	ካሳ	PROPN
+2	በሬ	በሬ	NOUN
+4	ከገዛላት	ከገዛላት	VERB
+8	በኋላ	በኋላ	ADP
+9	አልማዝ	አልማዝ	PROPN
+10	አረደችው	አረደችው	VERB
+13	።	።	PUNCT
+
+# sent_id = data_UD-x10-s16
+# text = መሶብ ከፍቶ ዳቦ ይወስዳል ።
+1	መሶብ	መሶብ	NOUN
+2	ከፍቶ	ከፍቶ	VERB
+4	ዳቦ	ዳቦ	NOUN
+6	ይወስዳል	ይወስዳል	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-x10-s17
+# text = ስራ አጥቶ ተቸግሯል ።
+1	ስራ	ስራ	NOUN
+2	አጥቶ	አጥቶ	VERB
+4	ተቸግሯል	ተቸግሯል	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-x10-s18
+# text = በሩን ከፍቼ ስገባ ስልክ ተደወለ ።
+1	በሩን	በሩን	NOUN
+4	ከፍቼ	ከፍቼ	VERB
+8	ስገባ	ስገባ	VERB
+9	ስልክ	ስልክ	NOUN
+10	ተደወለ	ተደወለ	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-x10-s19
+# text = መጥቶ የሚሰራ ደሞዝ ይቀበላል ።
+1	መጥቶ	መጥቶ	NOUN
+6	የሚሰራ	የሚሰራ	VERB
+7	ደሞዝ	ደሞዝ	NOUN
+9	ይቀበላል	ይቀበላል	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-x10-s20
+# text = ልብሴን ሸጬ እዳዬን መክፈል ነበረብኝ ።
+1	ልብሴን	ልብሴን	NOUN
+4	ሸጬ	ሸጬ	VERB
+6	እዳዬን	እዳዬን	NOUN
+9	መክፈል	መክፈል	NOUN
+10	ነበረብኝ	ነበረብኝ	AUX
+14	።	።	PUNCT
+
+# sent_id = data_UD-x11-s1
+# text = ዘንቦ ቀረን ።
+1	ዘንቦ	ዘንቦ	VERB
+3	ቀረን	ቀረን	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-x11-s2
+# text = ልብሱን እኔ አጥቤ እሱ ተኮሰ ።
+1	ልብሱን	ልብሱን	NOUN
+4	እኔ	እኔ	PRON
+5	አጥቤ	አጥቤ	VERB
+7	እሱ	እሱ	PRON
+8	ተኮሰ	ተኮሰ	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-x11-s3
+# text = ከሆስፒታል ወስደው ሥላሴ ቤተክርስቲያን ቀበሩት ።
+2	ከሆስፒታል	ከሆስፒታል	NOUN
+3	ወስደው	ወስደው	VERB
+5	ሥላሴ	ሥላሴ	NOUN
+6	ቤተክርስቲያን	ቤተክርስቲያን	NOUN
+7	ቀበሩት	ቀበሩት	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-x11-s4
+# text = አንስታው ሄደች ።
+1	አንስታው	አንስታው	VERB
+4	ሄደች	ሄደች	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-x11-s5
+# text = አስተናጋጁ ሻይ አመጣላቸውና ጠጡ ።
+1	አስተናጋጁ	አስተናጋጁ	NOUN
+3	ሻይ	ሻይ	NOUN
+4	አመጣላቸውና	አመጣላቸውና	VERB
+9	ጠጡ	ጠጡ	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-x11-s6
+# text = ሩጦ ሄደ ።
+1	ሩጦ	ሩጦ	VERB
+3	ሄደ	ሄደ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-x11-s7
+# text = ዘሎ ገባ ።
+1	ዘሎ	ዘሎ	VERB
+3	ገባ	ገባ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-x11-s8
+# text = ከሰዓት በኋላ አግዝሻለሁ በላት ።
+2	ከሰዓት	ከሰዓት	NOUN
+3	በኋላ	በኋላ	ADP
+4	አግዝሻለሁ	አግዝሻለሁ	VERB
+8	በላት	በላት	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-x11-s9
+# text = እነሳለሁ ሲል አደናቀፈው ።
+2	እነሳለሁ	እነሳለሁ	VERB
+7	ሲል	ሲል	VERB
+8	አደናቀፈው	አደናቀፈው	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-x11-s10
+# text = ከባዱን ሳጥን አነሣለሁ ብዬ እጄን ወለም አለኝ ።
+1	ከባዱን	ከባዱን	ADJ
+4	ሳጥን	ሳጥን	NOUN
+5	አነሣለሁ	አነሣለሁ	VERB
+8	ብዬ	ብዬ	VERB
+10	እጄን	እጄን	NOUN
+13	ወለም	ወለም	VERB
+14	አለኝ	አለኝ	VERB
+16	።	።	PUNCT
+
+# sent_id = data_UD-x11-s11
+# text = ወንድሜ ከኔ ጋር አልበላም አለ ።
+1	ወንድሜ	ወንድሜ	NOUN
+4	ከኔ	ከኔ	PRON
+5	ጋር	ጋር	ADP
+7	አልበላም	አልበላም	VERB
+10	አለ	አለ	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-x11-s12
+# text = ሰውዬው ሰዓቴ ተሰበረብኝ ይላል ።
+1	ሰውዬው	ሰውዬው	NOUN
+3	ሰዓቴ	ሰዓቴ	NOUN
+5	ተሰበረብኝ	ተሰበረብኝ	VERB
+10	ይላል	ይላል	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-x11-s13
+# text = ተከሳሹ ጥፋተኛ አይደለሁም አለ ።
+1	ተከሳሹ	ተከሳሹ	NOUN
+3	ጥፋተኛ	ጥፋተኛ	ADV
+4	አይደለሁም	አይደለሁም	VERB
+7	አለ	አለ	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-x11-s14
+# text = አልረዳህም አለችኝ ።
+2	አልረዳህም	አልረዳህም	VERB
+5	አለችኝ	አለችኝ	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-x11-s15
+# text = ከጐኗ ተጣብቆ አልሄድም አለ ።
+2	ከጐኗ	ከጐኗ	NOUN
+4	ተጣብቆ	ተጣብቆ	VERB
+7	አልሄድም	አልሄድም	VERB
+9	አለ	አለ	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-x11-s16
+# text = ምክራችንን አልሰማ በማለቷ ባሏ ሌላ ሚስት አገባላት ።
+1	ምክራችንን	ምክራችንን	NOUN
+5	አልሰማ	አልሰማ	VERB
+7	በማለቷ	በማለቷ	VERB
+9	ባሏ	ባሏ	NOUN
+11	ሌላ	ሌላ	ADJ
+12	ሚስት	ሚስት	NOUN
+13	አገባላት	አገባላት	VERB
+17	።	።	PUNCT
+
+# sent_id = data_UD-x11-s17
+# text = ፖሊሱ አላሳልፍም አለን ።
+1	ፖሊሱ	ፖሊሱ	NOUN
+3	አላሳልፍም	አላሳልፍም	VERB
+5	አለን	አለን	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-x11-s18
+# text = አልታዘዝ አለኝ ።
+2	አልታዘዝ	አልታዘዝ	VERB
+3	አለኝ	አለኝ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-x11-s19
+# text = መስኮቱ አልከፈትልኝ አለ ።
+1	መስኮቱ	መስኮቱ	NOUN
+4	አልከፈትልኝ	አልከፈትልኝ	VERB
+7	አለ	አለ	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-x11-s20
+# text = ወንድምህ የት ነው ብዬ ብጠይቀው አላውቅም ብሎ መለሰልኝ ።
+1	ወንድምህ	ወንድምህ	NOUN
+3	የት	የት	PRON
+4	ነው	ነው	AUX
+6	ብዬ	ብዬ	VERB
+9	ብጠይቀው	ብጠይቀው	VERB
+13	አላውቅም	አላውቅም	VERB
+15	ብሎ	ብሎ	VERB
+17	መለሰልኝ	መለሰልኝ	VERB
+20	።	።	PUNCT
+
+# sent_id = data_UD-x12-s1
+# text = ምን አምጣ እንዳለኝ አልሰማሁም ።
+1	ምን	ምን	PRON
+2	አምጣ	አምጣ	VERB
+5	እንዳለኝ	እንዳለኝ	VERB
+9	አልሰማሁም	አልሰማሁም	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-x12-s2
+# text = ውሰድ ያለኝን ብድር እምቢ አልኩ ።
+1	ውሰድ	ውሰድ	VERB
+6	ያለኝን	ያለኝን	PART
+7	ብድር	ብድር	NOUN
+8	እምቢ	እምቢ	VERB
+9	አልኩ	አልኩ	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-x12-s3
+# text = ዘንድሮ እህል ውድ ነው ይላሉ ።
+1	ዘንድሮ	ዘንድሮ	ADV
+2	እህል	እህል	NOUN
+3	ውድ	ውድ	ADV
+4	ነው	ነው	AUX
+7	ይላሉ	ይላሉ	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-x12-s4
+# text = ፓስታ አመላላሹ በሰዓቱ ይደርሳል ብላ አስባ ነበር ።
+1	ፓስታ	ፓስታ	NOUN
+2	አመላላሹ	አመላላሹ	NOUN
+5	በሰዓቱ	በሰዓቱ	NOUN
+8	ይደርሳል	ይደርሳል	VERB
+10	ብላ	ብላ	VERB
+11	አስባ	አስባ	VERB
+13	ነበር	ነበር	AUX
+14	።	።	PUNCT
+
+# sent_id = data_UD-x12-s5
+# text = በሩ ላይ ቆሞ ልግባ አልግባ ሲል አቅማማ ።
+1	በሩ	በሩ	NOUN
+3	ላይ	ላይ	ADP
+4	ቆሞ	ቆሞ	VERB
+7	ልግባ	ልግባ	VERB
+10	አልግባ	አልግባ	VERB
+14	ሲል	ሲል	VERB
+15	አቅማማ	አቅማማ	VERB
+17	።	።	PUNCT
+
+# sent_id = data_UD-x12-s6
+# text = ከሀብታም አጎቴ ገንዘብ አገኛለሁ ብሎ ተስፋ ያደርጋል ።
+2	ከሀብታም	ከሀብታም	ADJ
+3	አጎቴ	አጎቴ	NOUN
+5	ገንዘብ	ገንዘብ	NOUN
+6	አገኛለሁ	አገኛለሁ	VERB
+9	ብሎ	ብሎ	VERB
+11	ተስፋ	ተስፋ	NOUN
+13	ያደርጋል	ያደርጋል	VERB
+15	።	።	PUNCT
+
+# sent_id = data_UD-x12-s7
+# text = ሰነፍ ነህ ብለህ ልትወቅሰኝ አትችልም ።
+1	ሰነፍ	ሰነፍ	ADJ
+2	ነህ	ነህ	AUX
+4	ብለህ	ብለህ	VERB
+8	ልትወቅሰኝ	ልትወቅሰኝ	VERB
+10	አትችልም	አትችልም	PART
+14	።	።	PUNCT
+
+# sent_id = data_UD-x12-s8
+# text = አትግደለኝ ብሎ ቢለምነው ማረው ።
+3	አትግደለኝ	አትግደለኝ	VERB
+5	ብሎ	ብሎ	VERB
+9	ቢለምነው	ቢለምነው	VERB
+12	ማረው	ማረው	VERB
+15	።	።	PUNCT
+
+# sent_id = data_UD-x12-s9
+# text = ድህነት ወንጀልን ያስከትላል ብዬ አምናለሁ ።
+1	ድህነት	ድህነት	NOUN
+2	ወንጀልን	ወንጀልን	NOUN
+5	ያስከትላል	ያስከትላል	VERB
+7	ብዬ	ብዬ	VERB
+9	አምናለሁ	አምናለሁ	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-x12-s10
+# text = እኔን ይሰርቃል ብሎ መጠርጠር ቀልድ ነው ።
+1	እኔን	እኔን	PRON
+4	ይሰርቃል	ይሰርቃል	VERB
+6	ብሎ	ብሎ	VERB
+8	መጠርጠር	መጠርጠር	VERB
+9	ቀልድ	ቀልድ	ADJ
+10	ነው	ነው	AUX
+12	።	።	PUNCT
+
+# sent_id = data_UD-x12-s11
+# text = ምን ይሆን የሚል ሐሳብ አሸበራት ።
+1	ምን	ምን	PRON
+2	ይሆን	ይሆን	PRON
+7	የሚል	የሚል	VERB
+8	ሐሳብ	ሐሳብ	NOUN
+9	አሸበራት	አሸበራት	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-x12-s12
+# text = ሌባ ነህ ተብሎ የቀረበበትን ክስ ካደ ።
+1	ሌባ	ሌባ	NOUN
+2	ነህ	ነህ	AUX
+4	ተብሎ	ተብሎ	VERB
+7	የቀረበበትን	የቀረበበትን	VERB
+12	ክስ	ክስ	NOUN
+13	ካደ	ካደ	VERB
+15	።	።	PUNCT
+
+# sent_id = data_UD-x12-s13
+# text = አንቀው ገደሉት ።
+1	አንቀው	አንቀው	VERB
+3	ገደሉት	ገደሉት	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-x12-s14
+# text = ዳቦ በልተን ወተት ጠጥተን ጠግበን ተጓዝን ።
+1	ዳቦ	ዳቦ	NOUN
+2	በልተን	በልተን	VERB
+4	ወተት	ወተት	NOUN
+5	ጠጥተን	ጠጥተን	VERB
+7	ጠግበን	ጠግበን	VERB
+9	ተጓዝን	ተጓዝን	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-x12-s15
+# text = ቤቱን ጠርገሽ ልብሱን አጥበሽ ወጥ ሥሪ ።
+1	ቤቱን	ቤቱን	NOUN
+4	ጠርገሽ	ጠርገሽ	VERB
+6	ልብሱን	ልብሱን	NOUN
+9	አጥበሽ	አጥበሽ	VERB
+11	ወጥ	ወጥ	NOUN
+12	ሥሪ	ሥሪ	VERB
+14	።	።	PUNCT
+
+# sent_id = data_UD-x12-s16
+# text = ወይዘሮ አስቴር ለአውዳ~ዓመት አንድ ጋን ጠላ ጠመቀች ።
+1	ወይዘሮ	ወይዘሮ	ADJ
+2	አስቴር	አስቴር	PROPN
+4	ለአውዳ~ዓመት	ለአውዳ~ዓመት	NOUN
+5	አንድ	አንድ	NUM
+6	ጋን	ጋን	NOUN
+7	ጠላ	ጠላ	NOUN
+8	ጠመቀች	ጠመቀች	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-x12-s17
+# text = ልጆቹ ባለጉ ።
+1	ልጆቹ	ልጆቹ	NOUN
+3	ባለጉ	ባለጉ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-x12-s18
+# text = ልጆቹ ባለጌ ሆኑ ።
+1	ልጆቹ	ልጆቹ	NOUN
+3	ባለጌ	ባለጌ	ADJ
+4	ሆኑ	ሆኑ	AUX
+6	።	።	PUNCT
+
+# sent_id = data_UD-x12-s19
+# text = ገንዘቡን ማን እነደሰጣት ንገረን ?
+1	ገንዘቡን	ገንዘቡን	NOUN
+4	ማን	ማን	PRON
+6	እነደሰጣት	እነደሰጣት	VERB
+8	ንገረን	ንገረን	VERB
+11	?	?	PUNCT
+
+# sent_id = data_UD-x12-s20
+# text = ይህንን ወንዝ እንዴት እንደምሻገር አላውቅም ።
+1	ይህንን	ይህንን	DET
+3	ወንዝ	ወንዝ	NOUN
+4	እንዴት	እንዴት	PRON
+8	እንደምሻገር	እንደምሻገር	VERB
+11	አላውቅም	አላውቅም	VERB
+13	።	።	PUNCT
+
+# sent_id = data_UD-x13-s1
+# text = አስቴር ወፈረች ።
+1	አስቴር	አስቴር	PROPN
+2	ወፈረች	ወፈረች	VERB
+4	።	።	PUNCT
+
+# sent_id = data_UD-x13-s2
+# text = አስቴር ወፍራም ሆነች ።
+1	አስቴር	አስቴር	PROPN
+2	ወፍራም	ወፍራም	ADJ
+3	ሆነች	ሆነች	AUX
+5	።	።	PUNCT
+
+# sent_id = data_UD-x13-s3
+# text = አስቴር ተጨነቀች ።
+1	አስቴር	አስቴር	PROPN
+2	ተጨነቀች	ተጨነቀች	VERB
+4	።	።	PUNCT
+
+# sent_id = data_UD-x13-s4
+# text = ካሳ ወደ ገበያ ሄደ ።
+1	ካሳ	ካሳ	PROPN
+2	ወደ	ወደ	ADP
+3	ገበያ	ገበያ	NOUN
+4	ሄደ	ሄደ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-x13-s5
+# text = ልጆቹ ዛፍ ላይ ወጡ ።
+1	ልጆቹ	ልጆቹ	NOUN
+3	ዛፍ	ዛፍ	NOUN
+4	ላይ	ላይ	ADP
+5	ወጡ	ወጡ	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-x13-s6
+# text = አስቴር አልጋው ላይ ወደቀች ።
+1	አስቴር	አስቴር	PROPN
+2	አልጋው	አልጋው	NOUN
+4	ላይ	ላይ	ADP
+5	ወደቀች	ወደቀች	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-x13-s7
+# text = ካሳ ከመቀመጫው ተነሳ ።
+1	ካሳ	ካሳ	PROPN
+3	ከመቀመጫው	ከመቀመጫው	NOUN
+5	ተነሳ	ተነሳ	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-x13-s8
+# text = አስቴር አልጋ ላይ ተኛች ።
+1	አስቴር	አስቴር	PROPN
+2	አልጋ	አልጋ	NOUN
+3	ላይ	ላይ	ADP
+4	ተኛች	ተኛች	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-x13-s9
+# text = አስቴር ሽልማት ተቀበለች ።
+1	አስቴር	አስቴር	PROPN
+2	ሽልማት	ሽልማት	NOUN
+3	ተቀበለች	ተቀበለች	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-x13-s10
+# text = ልጁ መኪና ተሰጠው ።
+1	ልጁ	ልጁ	NOUN
+3	መኪና	መኪና	NOUN
+4	ተሰጠው	ተሰጠው	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-x13-s11
+# text = ገበሬው ማሳውን አጥሮታል ።
+1	ገበሬው	ገበሬው	NOUN
+3	ማሳውን	ማሳውን	NOUN
+6	አጥሮታል	አጥሮታል	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-x13-s12
+# text = አስተማሪው ለተማሪዎች መፅሀፍ ሰጣቸው ።
+1	አስተማሪው	አስተማሪው	NOUN
+4	ለተማሪዎች	ለተማሪዎች	NOUN
+5	መፅሀፍ	መፅሀፍ	NOUN
+6	ሰጣቸው	ሰጣቸው	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-x13-s13
+# text = ካሳ ለወታደሮች ገንዘቡን ሰጠቻው ።
+1	ካሳ	ካሳ	PROPN
+3	ለወታደሮች	ለወታደሮች	NOUN
+4	ገንዘቡን	ገንዘቡን	NOUN
+7	ሰጠቻው	ሰጠቻው	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-x13-s14
+# text = ልጆቹ ስህተታቸውን አውቀዋል ።
+1	ልጆቹ	ልጆቹ	NOUN
+3	ስህተታቸውን	ስህተታቸውን	NOUN
+6	አውቀዋል	አውቀዋል	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-x13-s15
+# text = ልጆቹ ወተት ይወዳሉ ።
+1	ልጆቹ	ልጆቹ	NOUN
+3	ወተት	ወተት	NOUN
+5	ይወዳሉ	ይወዳሉ	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-x13-s16
+# text = ካሳ ሰው ያከብራል ።
+1	ካሳ	ካሳ	PROPN
+2	ሰው	ሰው	NOUN
+4	ያከብራል	ያከብራል	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-x13-s17
+# text = እግዜርን ይፈሩአል ።
+1	እግዜርን	እግዜርን	NOUN
+4	ይፈሩአል	ይፈሩአል	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-x13-s18
+# text = ምክርን ያደምጣሉ ።
+1	ምክርን	ምክርን	NOUN
+4	ያደምጣሉ	ያደምጣሉ	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-x13-s19
+# text = ጫካው ተመንጥሮአል ።
+1	ጫካው	ጫካው	NOUN
+3	ተመንጥሮአል	ተመንጥሮአል	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-x13-s20
+# text = አገሩ ተወሮአል ።
+1	አገሩ	አገሩ	NOUN
+3	ተወሮአል	ተወሮአል	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-x13-s21
+# text = ስንቅ ይነጠቁአል ።
+1	ስንቅ	ስንቅ	NOUN
+3	ይነጠቁአል	ይነጠቁአል	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-x14-s1
+# text = ካሳ በግ አልገዛም ።
+1	ካሳ	ካሳ	PROPN
+2	በግ	በግ	NOUN
+4	አልገዛም	አልገዛም	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-x14-s2
+# text = በግ አትግዛ !
+1	በግ	በግ	NOUN
+4	አትግዛ	አትግዛ	VERB
+5	!	!	PUNCT
+
+# sent_id = data_UD-x14-s3
+# text = ካሳ ቤት ውስጥ የለም ።
+1	ካሳ	ካሳ	PROPN
+2	ቤት	ቤት	NOUN
+3	ውስጥ	ውስጥ	ADP
+4	የለም	የለም	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-x14-s4
+# text = አቶ ካሳ ምንም ችግኝ አልተከለም ።
+1	አቶ	አቶ	ADJ
+2	ካሳ	ካሳ	PROPN
+3	ምንም	ምንም	ADJ
+4	ችግኝ	ችግኝ	NOUN
+6	አልተከለም	አልተከለም	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-x14-s5
+# text = አስቴር ምንም ገንዘብ የላትም ።
+1	አስቴር	አስቴር	PROPN
+2	ምንም	ምንም	ADJ
+3	ገንዘብ	ገንዘብ	NOUN
+4	የላትም	የላትም	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-x14-s6
+# text = አስቴር ካሳ ከእናቱ ጋር ምሳ እንዳልበላ ታውቃለች ።
+1	አስቴር	አስቴር	PROPN
+2	ካሳ	ካሳ	PROPN
+4	ከእናቱ	ከእናቱ	NOUN
+6	ጋር	ጋር	ADP
+7	ምሳ	ምሳ	NOUN
+10	እንዳልበላ	እንዳልበላ	VERB
+13	ታውቃለች	ታውቃለች	VERB
+16	።	።	PUNCT
+
+# sent_id = data_UD-x14-s7
+# text = ካሳ ምሳ የበላው ከእናቱ ጋር አይደለም ።
+1	ካሳ	ካሳ	PROPN
+2	ምሳ	ምሳ	NOUN
+4	የበላው	የበላው	VERB
+7	ከእናቱ	ከእናቱ	NOUN
+9	ጋር	ጋር	ADP
+10	አይደለም	አይደለም	AUX
+13	።	።	PUNCT
+
+# sent_id = data_UD-x14-s8
+# text = ካሳ ከእናቱ ጋር ጋር ምሳ አልበላም ።
+1	ካሳ	ካሳ	PROPN
+3	ከእናቱ	ከእናቱ	NOUN
+5	ጋር	ጋር	ADP
+6	ጋር	ጋር	ADP
+7	ምሳ	ምሳ	NOUN
+9	አልበላም	አልበላም	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-x14-s9
+# text = ብዙ ሰዎች ያለትዳር ይኖራሉ ።
+1	ብዙ	ብዙ	ADJ
+2	ሰዎች	ሰዎች	NOUN
+4	ያለትዳር	ያለትዳር	NOUN
+6	ይኖራሉ	ይኖራሉ	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-x14-s10
+# text = ካሳ ያለገብስ ጠላ አይጠጣም ።
+1	ካሳ	ካሳ	PROPN
+3	ያለገብስ	ያለገብስ	NOUN
+4	ጠላ	ጠላ	NOUN
+7	አይጠጣም	አይጠጣም	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-x14-s11
+# text = ልጆቹ መጥተው ቀሩ ።
+1	ልጆቹ	ልጆቹ	NOUN
+3	መጥተው	መጥተው	NOUN
+5	ቀሩ	ቀሩ	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-x14-s12
+# text = ልጆቹ ወጥተው አልቀሩም ።
+1	ልጆቹ	ልጆቹ	NOUN
+3	ወጥተው	ወጥተው	VERB
+6	አልቀሩም	አልቀሩም	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-x14-s13
+# text = ደብዳቤው ሳይጠፋ አልቀረም ።
+1	ደብዳቤው	ደብዳቤው	NOUN
+6	ሳይጠፋ	ሳይጠፋ	VERB
+9	አልቀረም	አልቀረም	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-x14-s14
+# text = ይህ መርዝ ገድሎት ይሆናል ።
+1	ይህ	ይህ	DET
+2	መርዝ	መርዝ	NOUN
+3	ገድሎት	ገድሎት	VERB
+6	ይሆናል	ይሆናል	PRON
+9	።	።	PUNCT
+
+# sent_id = data_UD-x14-s15
+# text = ወደድክም ጠላህም እሷ እንደሆን መምጣቷ አይቅርም ።
+1	ወደድክም	ወደድክም	VERB
+4	ጠላህም	ጠላህም	VERB
+7	እሷ	እሷ	PRON
+9	እንደሆን	እንደሆን	AUX
+10	መምጣቷ	መምጣቷ	VERB
+14	አይቅርም	አይቅርም	VERB
+16	።	።	PUNCT
+
+# sent_id = data_UD-x14-s16
+# text = ልጁ ይምጣ አይምጣ አላውቅም ።
+1	ልጁ	ልጁ	NOUN
+4	ይምጣ	ይምጣ	VERB
+8	አይምጣ	አይምጣ	VERB
+10	አላውቅም	አላውቅም	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-x14-s17
+# text = ማን ጫማ ገዛልህ ?
+1	ማን	ማን	PRON
+2	ጫማ	ጫማ	NOUN
+3	ገዛልህ	ገዛልህ	VERB
+6	?	?	PUNCT
+
+# sent_id = data_UD-x14-s18
+# text = መቼ ትመጣለህ ?
+1	መቼ	መቼ	PRON
+3	ትመጣለህ	ትመጣለህ	VERB
+6	?	?	PUNCT
+
+# sent_id = data_UD-x14-s19
+# text = ደሞዝ አልወሰድክም እንዴ ?
+1	ደሞዝ	ደሞዝ	NOUN
+3	አልወሰድክም	አልወሰድክም	VERB
+6	እንዴ	እንዴ	INTJ
+7	?	?	PUNCT
+
+# sent_id = data_UD-x14-s20
+# text = በግ ገዛህ ወይ ?
+1	በግ	በግ	NOUN
+2	ገዛህ	ገዛህ	VERB
+4	ወይ	ወይ	INTJ
+5	?	?	PUNCT
+
+# sent_id = data_UD-x15-s1
+# text = ደሞዝ ወሰድክ ወይ ?
+1	ደሞዝ	ደሞዝ	NOUN
+2	ወሰድክ	ወሰድክ	VERB
+4	ወይ	ወይ	INTJ
+5	?	?	PUNCT
+
+# sent_id = data_UD-x15-s2
+# text = ማን ከማን ጋር ምሳ በላ ?
+1	ማን	ማን	PRON
+3	ከማን	ከማን	PRON
+4	ጋር	ጋር	ADP
+5	ምሳ	ምሳ	NOUN
+6	በላ	በላ	VERB
+8	?	?	PUNCT
+
+# sent_id = data_UD-x15-s3
+# text = ማን ከማን ጋር ምን አደረገ ?
+1	ማን	ማን	PRON
+3	ከማን	ከማን	PRON
+4	ጋር	ጋር	ADP
+5	ምን	ምን	PRON
+6	አደረገ	አደረገ	VERB
+8	?	?	PUNCT
+
+# sent_id = data_UD-x15-s4
+# text = ስንት መፅሐፍ ትፈልጋለህ ?
+1	ስንት	ስንት	ADJ
+2	መፅሐፍ	መፅሐፍ	NOUN
+4	ትፈልጋለህ	ትፈልጋለህ	VERB
+7	?	?	PUNCT
+
+# sent_id = data_UD-x15-s5
+# text = ነገሩ የሆነው ከስንት ጊዜ በፊት ነበር ?
+1	ነገሩ	ነገሩ	NOUN
+4	የሆነው	የሆነው	VERB
+6	ከስንት	ከስንት	ADP
+8	ጊዜ	ጊዜ	NOUN
+10	በፊት	በፊት	NOUN
+11	ነበር	ነበር	AUX
+12	?	?	PUNCT
+
+# sent_id = data_UD-x15-s6
+# text = ኸረ ለመሆኑ ነጻነት ምን እንደሆነ ታውቃላችሁ ?
+1	ኸረ	ኸረ	INTJ
+3	ለመሆኑ	ለመሆኑ	NOUN
+5	ነጻነት	ነጻነት	NOUN
+6	ምን	ምን	PRON
+8	እንደሆነ	እንደሆነ	VERB
+11	ታውቃላችሁ	ታውቃላችሁ	VERB
+14	?	?	PUNCT
+
+# sent_id = data_UD-x15-s7
+# text = ወጥ አውጪ !
+1	ወጥ	ወጥ	NOUN
+2	አውጪ	አውጪ	VERB
+4	!	!	PUNCT
+
+# sent_id = data_UD-x15-s8
+# text = አስቴር ትምህርት ቤት ትሂድ !
+1	አስቴር	አስቴር	PROPN
+2	ትምህርት	ትምህርት	NOUN
+3	ቤት	ቤት	NOUN
+5	ትሂድ	ትሂድ	VERB
+6	!	!	PUNCT
+
+# sent_id = data_UD-x15-s9
+# text = እነሱ ሳሩን ይጨዱ !
+1	እነሱ	እነሱ	PRON
+2	ሳሩን	ሳሩን	NOUN
+6	ይጨዱ	ይጨዱ	VERB
+8	!	!	PUNCT
+
+# sent_id = data_UD-x15-s10
+# text = ልብሱን እጠብ !
+1	ልብሱን	ልብሱን	NOUN
+5	እጠብ	እጠብ	VERB
+6	!	!	PUNCT
+
+# sent_id = data_UD-x15-s11
+# text = ብላ !
+1	ብላ	ብላ	VERB
+2	!	!	PUNCT
+
+# sent_id = data_UD-x15-s12
+# text = በል ብላት !
+1	በል	በል	INTJ
+2	ብላት	ብላት	VERB
+4	!	!	PUNCT
+
+# sent_id = data_UD-x15-s13
+# text = እንጨት ትስበር !
+1	እንጨት	እንጨት	NOUN
+3	ትስበር	ትስበር	VERB
+4	!	!	PUNCT
+
+# sent_id = data_UD-x15-s14
+# text = በሩን ብትዘጋው !
+1	በሩን	በሩን	NOUN
+6	ብትዘጋው	ብትዘጋው	VERB
+8	!	!	PUNCT
+
+# sent_id = data_UD-x15-s15
+# text = የምግቡን ዝርዝር ብትሰጠኝ ?
+2	የምግቡን	የምግቡን	NOUN
+5	ዝርዝር	ዝርዝር	NOUN
+8	ብትሰጠኝ	ብትሰጠኝ	VERB
+10	?	?	PUNCT
+
+# sent_id = data_UD-x15-s16
+# text = እስኪ መታወቂያ ወረቀትህን አሳየኝ ?
+1	እስኪ	እስኪ	INTJ
+2	መታወቂያ	መታወቂያ	NOUN
+3	ወረቀትህን	ወረቀትህን	NOUN
+6	አሳየኝ	አሳየኝ	VERB
+9	?	?	PUNCT
+
+# sent_id = data_UD-x15-s17
+# text = ወደ ታች ውረዱ !
+1	ወደ	ወደ	ADP
+2	ታች	ታች	NOUN
+3	ውረዱ	ውረዱ	VERB
+5	!	!	PUNCT
+
+# sent_id = data_UD-x15-s18
+# text = ከጨረስክ በኋላ እኔ ጋር እንድትመጣ !
+2	ከጨረስክ	ከጨረስክ	VERB
+4	በኋላ	በኋላ	ADP
+5	እኔ	እኔ	PRON
+6	ጋር	ጋር	ADP
+9	እንድትመጣ	እንድትመጣ	VERB
+10	!	!	PUNCT
+
+# sent_id = data_UD-x15-s19
+# text = ተቀመጥ እንጂ !
+1	ተቀመጥ	ተቀመጥ	VERB
+2	እንጂ	እንጂ	INTJ
+3	!	!	PUNCT
+
+# sent_id = data_UD-x15-s20
+# text = ካሳ የሽጠው የብራና መፅሀፍ ትልቅ ነው ።
+1	ካሳ	ካሳ	PROPN
+3	የሽጠው	የሽጠው	VERB
+7	የብራና	የብራና	NOUN
+8	መፅሀፍ	መፅሀፍ	NOUN
+9	ትልቅ	ትልቅ	ADJ
+10	ነው	ነው	AUX
+12	።	።	PUNCT
+
+# sent_id = data_UD-x16-s1
+# text = ልጆቹ የሄዱበት ሀገር አልታወቀም ።
+1	ልጆቹ	ልጆቹ	NOUN
+4	የሄዱበት	የሄዱበት	VERB
+8	ሀገር	ሀገር	NOUN
+11	አልታወቀም	አልታወቀም	VERB
+14	።	።	PUNCT
+
+# sent_id = data_UD-x16-s2
+# text = አስቴር ፀጉርዋን የሰራቻት ልጅ ጥሩ ናት ።
+1	አስቴር	አስቴር	PROPN
+2	ፀጉርዋን	ፀጉርዋን	NOUN
+6	የሰራቻት	የሰራቻት	VERB
+9	ልጅ	ልጅ	NOUN
+10	ጥሩ	ጥሩ	ADJ
+11	ናት	ናት	AUX
+13	።	።	PUNCT
+
+# sent_id = data_UD-x16-s3
+# text = ልጁ የሸጠው መጽሐፍ ትልቅ ነው ።
+1	ልጁ	ልጁ	NOUN
+4	የሸጠው	የሸጠው	VERB
+7	መጽሐፍ	መጽሐፍ	NOUN
+8	ትልቅ	ትልቅ	ADJ
+9	ነው	ነው	AUX
+11	።	።	PUNCT
+
+# sent_id = data_UD-x16-s4
+# text = ተማሪው ለአስቴር የሰጣት መጽሐፍ ጠፋ ።
+1	ተማሪው	ተማሪው	NOUN
+4	ለአስቴር	ለአስቴር	PROPN
+6	የሰጣት	የሰጣት	VERB
+9	መጽሐፍ	መጽሐፍ	NOUN
+10	ጠፋ	ጠፋ	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-x16-s5
+# text = ካሳ የገዛው የሱፍ ኮት ውድ ነው ።
+1	ካሳ	ካሳ	PROPN
+3	የገዛው	የገዛው	VERB
+7	የሱፍ	የሱፍ	NOUN
+8	ኮት	ኮት	NOUN
+9	ውድ	ውድ	ADJ
+10	ነው	ነው	AUX
+12	።	።	PUNCT
+
+# sent_id = data_UD-x16-s6
+# text = ካሳ በግ ያረደበት ቢላዋ ትልቅ ነው ።
+1	ካሳ	ካሳ	PROPN
+2	በግ	በግ	NOUN
+4	ያረደበት	ያረደበት	VERB
+8	ቢላዋ	ቢላዋ	NOUN
+9	ትልቅ	ትልቅ	ADJ
+10	ነው	ነው	AUX
+12	።	።	PUNCT
+
+# sent_id = data_UD-x16-s7
+# text = ልጁ የገደለው እባብ ትልቅ ነው ።
+1	ልጁ	ልጁ	NOUN
+4	የገደለው	የገደለው	VERB
+7	እባብ	እባብ	NOUN
+8	ትልቅ	ትልቅ	ADJ
+9	ነው	ነው	AUX
+11	።	።	PUNCT
+
+# sent_id = data_UD-x16-s8
+# text = አንበሳ የገደልው ልጅ ተሸለመ ።
+1	አንበሳ	አንበሳ	NOUN
+3	የገደልው	የገደልው	VERB
+6	ልጅ	ልጅ	NOUN
+7	ተሸለመ	ተሸለመ	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-x16-s9
+# text = እርኩስ መንፈስ የያዘው ሰው አስቸገረን ።
+1	እርኩስ	እርኩስ	ADJ
+2	መንፈስ	መንፈስ	NOUN
+4	የያዘው	የያዘው	VERB
+7	ሰው	ሰው	NOUN
+8	አስቸገረን	አስቸገረን	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-x16-s10
+# text = በፊታችሁ ወዳለችው መንደር ሂዱ ።
+2	በፊታችሁ	በፊታችሁ	NOUN
+4	ወዳለችው	ወዳለችው	ADP
+8	መንደር	መንደር	NOUN
+9	ሂዱ	ሂዱ	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-x16-s11
+# text = ደብረዘይት ወደምትባል የእስራኤል ከተማ መጣ ።
+1	ደብረዘይት	ደብረዘይት	NOUN
+5	ወደምትባል	ወደምትባል	VERB
+7	የእስራኤል	የእስራኤል	NOUN
+8	ከተማ	ከተማ	NOUN
+9	መጣ	መጣ	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-x16-s12
+# text = ልቡ ሊፈነዳ ትንሽ ቀረው ።
+1	ልቡ	ልቡ	NOUN
+5	ሊፈነዳ	ሊፈነዳ	VERB
+7	ትንሽ	ትንሽ	ADV
+8	ቀረው	ቀረው	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-x16-s13
+# text = በመናገር ላይ እያለሁ መልስ ሰጠችኝ ።
+2	በመናገር	በመናገር	VERB
+3	ላይ	ላይ	ADP
+5	እያለሁ	እያለሁ	VERB
+7	መልስ	መልስ	NOUN
+8	ሰጠችኝ	ሰጠችኝ	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-x16-s14
+# text = እስኪመጣ ድረስ ጠበቅሁት ።
+3	እስኪመጣ	እስኪመጣ	VERB
+5	ድረስ	ድረስ	ADP
+6	ጠበቅሁት	ጠበቅሁት	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-x16-s15
+# text = መኪና ሲመጣ ስታይ አትደንግጥ ።
+1	መኪና	መኪና	NOUN
+4	ሲመጣ	ሲመጣ	VERB
+8	ስታይ	ስታይ	VERB
+11	አትደንግጥ	አትደንግጥ	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-x16-s16
+# text = የተበደርኩትን ገንዘብ መቼ ሳልከፍል ቀርቻለሁ ?
+2	የተበደርኩትን	የተበደርኩትን	VERB
+6	ገንዘብ	ገንዘብ	NOUN
+7	መቼ	መቼ	PRON
+10	ሳልከፍል	ሳልከፍል	VERB
+11	ቀርቻለሁ	ቀርቻለሁ	VERB
+15	?	?	PUNCT
+
+# sent_id = data_UD-x16-s17
+# text = የበለጠ ብትጥር እንዲያውም የተሻለ ልታነብ ትችላለህ ።
+2	የበለጠ	የበለጠ	ADV
+5	ብትጥር	ብትጥር	VERB
+6	እንዲያውም	እንዲያውም	INTJ
+9	የተሻለ	የተሻለ	VERB
+13	ልታነብ	ልታነብ	VERB
+14	ትችላለህ	ትችላለህ	PRON
+18	።	።	PUNCT
+
+# sent_id = data_UD-x16-s18
+# text = በይበልጥ እያወቃት ሲሄድ ጠላት ።
+2	በይበልጥ	በይበልጥ	ADV
+4	እያወቃት	እያወቃት	VERB
+9	ሲሄድ	ሲሄድ	VERB
+10	ጠላት	ጠላት	VERB
+13	።	።	PUNCT
+
+# sent_id = data_UD-x16-s19
+# text = ጠንክሮ ይማር እንደሆነ ወደ አሜሪካ እልከዋለሁ ።
+1	ጠንክሮ	ጠንክሮ	ADV
+4	ይማር	ይማር	VERB
+5	እንደሆነ	እንደሆነ	SCONJ
+8	ወደ	ወደ	ADP
+9	አሜሪካ	አሜሪካ	NOUN
+11	እልከዋለሁ	እልከዋለሁ	VERB
+15	።	።	PUNCT
+
+# sent_id = data_UD-x16-s20
+# text = ምን ያህል እንደተለወጠ ብታይ ይገርምሃል ።
+1	ምን	ምን	PRON
+2	ያህል	ያህል	ADV
+4	እንደተለወጠ	እንደተለወጠ	VERB
+8	ብታይ	ብታይ	VERB
+10	ይገርምሃል	ይገርምሃል	VERB
+13	።	።	PUNCT
+
+# sent_id = data_UD-x17-s1
+# text = የሚያምህ እንደሆነ ወደ ሐኪም ሂድ ።
+4	የሚያምህ	የሚያምህ	VERB
+7	እንደሆነ	እንደሆነ	VERB
+9	ወደ	ወደ	ADP
+10	ሐኪም	ሐኪም	NOUN
+11	ሂድ	ሂድ	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-x17-s2
+# text = የምትሰጋ ከሆነ ልጅህን ወደዚያ ቦታ አትላክ ።
+4	የምትሰጋ	የምትሰጋ	VERB
+6	ከሆነ	ከሆነ	SCONJ
+9	ልጅህን	ልጅህን	NOUN
+12	ወደዚያ	ወደዚያ	ADP
+14	ቦታ	ቦታ	NOUN
+17	አትላክ	አትላክ	VERB
+18	።	።	PUNCT
+
+# sent_id = data_UD-x17-s3
+# text = የበለጠ ችሮታ ለማድረግ የሚችልበትን ዘዴ ባገኝ ብሎ ተመኘ ።
+2	የበለጠ	የበለጠ	ADJ
+3	ችሮታ	ችሮታ	NOUN
+5	ለማድረግ	ለማድረግ	NOUN
+9	የሚችልበትን	የሚችልበትን	VERB
+13	ዘዴ	ዘዴ	NOUN
+15	ባገኝ	ባገኝ	VERB
+16	ብሎ	ብሎ	AUX
+18	ተመኘ	ተመኘ	VERB
+20	።	።	PUNCT
+
+# sent_id = data_UD-x17-s4
+# text = ተቀጥረህ ነዋ የምትሠራው ።
+1	ተቀጥረህ	ተቀጥረህ	VERB
+3	ነዋ	ነዋ	AUX
+9	የምትሠራው	የምትሠራው	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-x17-s5
+# text = ይህ መርዝ ይገድለው ይሆን ?
+1	ይህ	ይህ	DET
+2	መርዝ	መርዝ	NOUN
+4	ይገድለው	ይገድለው	VERB
+6	ይሆን	ይሆን	PRON
+8	?	?	PUNCT
+
+# sent_id = data_UD-x17-s6
+# text = ወደ አዲስ አበባ ለመሄድ ፈልጌ ነበር ።
+1	ወደ	ወደ	ADP
+2	አዲስ	አዲስ	NOUN
+3	አበባ	አበባ	NOUN
+5	ለመሄድ	ለመሄድ	NOUN
+6	ፈልጌ	ፈልጌ	VERB
+8	ነበር	ነበር	AUX
+9	።	።	PUNCT
+
+# sent_id = data_UD-x17-s7
+# text = አልሰማም ይሆን ?
+2	አልሰማም	አልሰማም	VERB
+5	ይሆን	ይሆን	PRON
+7	?	?	PUNCT
+
+# sent_id = data_UD-x17-s8
+# text = ከካሳ የባሰ አጭር ነው ።
+2	ከካሳ	ከካሳ	PROPN
+4	የባሰ	የባሰ	ADV
+5	አጭር	አጭር	ADJ
+6	ነው	ነው	AUX
+8	።	።	PUNCT
+
+# sent_id = data_UD-x17-s9
+# text = ከበደ የናቱን ሞት ተረዳ ።
+1	ከበደ	ከበደ	PROPN
+3	የናቱን	የናቱን	NOUN
+6	ሞት	ሞት	NOUN
+7	ተረዳ	ተረዳ	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-x17-s10
+# text = መጽሐፉን ጻፊያ ።
+1	መጽሐፉን	መጽሐፉን	NOUN
+4	ጻፊያ	ጻፊያ	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-x17-s11
+# text = ከጋዜጣ በስተቀር ብዙም አያነብም ።
+2	ከጋዜጣ	ከጋዜጣ	NOUN
+3	በስተቀር	በስተቀር	ADP
+4	ብዙም	ብዙም	ADV
+8	አያነብም	አያነብም	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-x17-s12
+# text = ይበላልም ይጠጣልም ።
+2	ይበላልም	ይበላልም	VERB
+6	ይጠጣልም	ይጠጣልም	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-x17-s13
+# text = ልጁ ርቦታልም ጠምቶታልም ።
+1	ልጁ	ልጁ	NOUN
+3	ርቦታልም	ርቦታልም	VERB
+8	ጠምቶታልም	ጠምቶታልም	VERB
+13	።	።	PUNCT
+
+# sent_id = data_UD-x17-s14
+# text = ገንዘብም ምክርም ሰጠኝ ።
+1	ገንዘብም	ገንዘብም	NOUN
+3	ምክርም	ምክርም	NOUN
+5	ሰጠኝ	ሰጠኝ	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-x17-s15
+# text = እሱም የክበባችን አባል ነው ።
+1	እሱም	እሱም	PRON
+4	የክበባችን	የክበባችን	NOUN
+6	አባል	አባል	NOUN
+7	ነው	ነው	AUX
+9	።	።	PUNCT
+
+# sent_id = data_UD-x17-s16
+# text = እኔ ልሠራው ከቻልኩ አንተም ትችላለህ ።
+1	እኔ	እኔ	PRON
+3	ልሠራው	ልሠራው	VERB
+5	ከቻልኩ	ከቻልኩ	SCONJ
+8	አንተም	አንተም	PRON
+11	ትችላለህ	ትችላለህ	VERB
+14	።	።	PUNCT
+
+# sent_id = data_UD-x17-s17
+# text = ልጅቷም ቆንጆ ናት ።
+1	ልጅቷም	ልጅቷም	NOUN
+4	ቆንጆ	ቆንጆ	ADJ
+5	ናት	ናት	AUX
+7	።	።	PUNCT
+
+# sent_id = data_UD-x17-s18
+# text = መቶዎቹም በጎች ተሸጡ ።
+1	መቶዎቹም	መቶዎቹም	NUM
+4	በጎች	በጎች	NOUN
+5	ተሸጡ	ተሸጡ	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-x17-s19
+# text = ዓለሙ ይረሳል ተስፋዬም እንዲሁ ።
+1	ዓለሙ	ዓለሙ	PROPN
+3	ይረሳል	ይረሳል	VERB
+5	ተስፋዬም	ተስፋዬም	PROPN
+7	እንዲሁ	እንዲሁ	ADV
+8	።	።	PUNCT
+
+# sent_id = data_UD-x17-s20
+# text = ሦስት ሰዎች መጡ እነሱም ታደሰ ፣ ኃይሉና ተፈራ ናቸው ።
+1	ሦስት	ሦስት	NUM
+2	ሰዎች	ሰዎች	NOUN
+3	መጡ	መጡ	VERB
+6	እነሱም	እነሱም	CCONJ
+7	ታደሰ	ታደሰ	PROPN
+8	፣	፣	PUNCT
+9	ኃይሉና	ኃይሉና	PROPN
+11	ተፈራ	ተፈራ	PROPN
+12	ናቸው	ናቸው	AUX
+14	።	።	PUNCT
+
+# sent_id = data_UD-x18-s1
+# text = ብርም ሆነ ወርቅ ሊገዛው አይችልም ።
+1	ብርም	ብርም	NOUN
+3	ሆነ	ሆነ	AUX
+5	ወርቅ	ወርቅ	NOUN
+8	ሊገዛው	ሊገዛው	VERB
+10	አይችልም	አይችልም	PART
+14	።	።	PUNCT
+
+# sent_id = data_UD-x18-s2
+# text = እሱም እኔም ልንሠራው አንችልም ።
+1	እሱም	እሱም	PRON
+3	እኔም	እኔም	PRON
+7	ልንሠራው	ልንሠራው	VERB
+9	አንችልም	አንችልም	PART
+13	።	።	PUNCT
+
+# sent_id = data_UD-x18-s3
+# text = ዓለሙ ካልሄደ ተስፋዬም አይሄድም ።
+1	ዓለሙ	ዓለሙ	PROPN
+4	ካልሄደ	ካልሄደ	VERB
+6	ተስፋዬም	ተስፋዬም	PROPN
+10	አይሄድም	አይሄድም	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-x18-s4
+# text = አይዘፍንምም አይደንስምም ።
+3	አይዘፍንምም	አይዘፍንምም	VERB
+8	አይደንስምም	አይደንስምም	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-x18-s5
+# text = ምሳዬን አልበላሁም ቁርሴንም ቢሆን እንዲሁ ።
+1	ምሳዬን	ምሳዬን	NOUN
+5	አልበላሁም	አልበላሁም	VERB
+8	ቁርሴንም	ቁርሴንም	NOUN
+12	ቢሆን	ቢሆን	SCONJ
+15	እንዲሁ	እንዲሁ	ADV
+16	።	።	PUNCT
+
+# sent_id = data_UD-x18-s6
+# text = በዛሬ ጊዜ ገንዘብ ለማግኘት ሲባል እስከ መግደልም ይደረሳል ።
+2	በዛሬ	በዛሬ	NOUN
+3	ጊዜ	ጊዜ	NOUN
+4	ገንዘብ	ገንዘብ	NOUN
+6	ለማግኘት	ለማግኘት	NOUN
+9	ሲባል	ሲባል	VERB
+10	እስከ	እስከ	ADP
+11	መግደልም	መግደልም	NOUN
+14	ይደረሳል	ይደረሳል	VERB
+16	።	።	PUNCT
+
+# sent_id = data_UD-x18-s7
+# text = ባይደርቅም ልብሱን አግቢው ።
+4	ባይደርቅም	ባይደርቅም	VERB
+6	ልብሱን	ልብሱን	NOUN
+9	አግቢው	አግቢው	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-x18-s8
+# text = እኔማ ሥራ በዝቶብኛል ።
+1	እኔማ	እኔማ	PRON
+3	ሥራ	ሥራ	NOUN
+4	በዝቶብኛል	በዝቶብኛል	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-x18-s9
+# text = እንግዲያውማ ሁሉም ነገር ተፈርሟል ።
+1	እንግዲያውማ	እንግዲያውማ	INTJ
+4	ሁሉም	ሁሉም	ADJ
+6	ነገር	ነገር	NOUN
+7	ተፈርሟል	ተፈርሟል	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-x18-s10
+# text = በምግብስ በኩል ምግቡ መጥፎ አይደለም ።
+2	በምግብስ	በምግብስ	NOUN
+4	በኩል	በኩል	ADP
+5	ምግቡ	ምግቡ	NOUN
+7	መጥፎ	መጥፎ	ADJ
+8	አይደለም	አይደለም	AUX
+11	።	።	PUNCT
+
+# sent_id = data_UD-x18-s11
+# text = ምን ይደረግ መቼስ ?
+1	ምን	ምን	PRON
+3	ይደረግ	ይደረግ	VERB
+4	መቼስ	መቼስ	PRON
+6	?	?	PUNCT
+
+# sent_id = data_UD-x18-s12
+# text = እሱስ ቢሆን እንዴት ለገንዘብ ሲል ጓደኛውን ይክዳል ?
+1	እሱስ	እሱስ	PRON
+5	ቢሆን	ቢሆን	VERB
+6	እንዴት	እንዴት	PRON
+8	ለገንዘብ	ለገንዘብ	NOUN
+11	ሲል	ሲል	VERB
+12	ጓደኛውን	ጓደኛውን	NOUN
+15	ይክዳል	ይክዳል	VERB
+17	?	?	PUNCT
+
+# sent_id = data_UD-x18-s13
+# text = ትንሿ ቤትስ ብትሆን ለሁላችንም አትበቃም ?
+1	ትንሿ	ትንሿ	ADJ
+3	ቤትስ	ቤትስ	NOUN
+7	ብትሆን	ብትሆን	VERB
+9	ለሁላችንም	ለሁላችንም	ADJ
+14	አትበቃም	አትበቃም	VERB
+16	?	?	PUNCT
+
+# sent_id = data_UD-x18-s14
+# text = እስከ ነገ ብትቆይስ ?
+1	እስከ	እስከ	ADP
+2	ነገ	ነገ	ADV
+5	ብትቆይስ	ብትቆይስ	VERB
+7	?	?	PUNCT
+
+# sent_id = data_UD-x18-s15
+# text = ቢያዳምጣትስ ኖሮ ።
+3	ቢያዳምጣትስ	ቢያዳምጣትስ	VERB
+6	ኖሮ	ኖሮ	AUX
+8	።	።	PUNCT
+
+# sent_id = data_UD-x18-s16
+# text = ዛሬሳ ምንም ምግብ አትቀምስም ?
+1	ዛሬሳ	ዛሬሳ	NOUN
+3	ምንም	ምንም	PRON
+5	ምግብ	ምግብ	NOUN
+8	አትቀምስም	አትቀምስም	VERB
+10	?	?	PUNCT
+
+# sent_id = data_UD-x18-s17
+# text = ዛሬ ወደ ተማሪ ቤት ለመሄድ አልተሰናዳህምሳ ?
+1	ዛሬ	ዛሬ	ADV
+2	ወደ	ወደ	ADP
+3	ተማሪ	ተማሪ	NOUN
+4	ቤት	ቤት	NOUN
+6	ለመሄድ	ለመሄድ	NOUN
+8	አልተሰናዳህምሳ	አልተሰናዳህምሳ	VERB
+12	?	?	PUNCT
+
+# sent_id = data_UD-x18-s18
+# text = መስኮቱን ዝጋ !
+1	መስኮቱን	መስኮቱን	NOUN
+4	ዝጋ	ዝጋ	VERB
+5	!	!	PUNCT
+
+# sent_id = data_UD-x18-s19
+# text = እሳቱን ከሰል ጨምርበት !
+1	እሳቱን	እሳቱን	NOUN
+4	ከሰል	ከሰል	NOUN
+5	ጨምርበት	ጨምርበት	VERB
+8	!	!	PUNCT
+
+# sent_id = data_UD-x18-s20
+# text = ጤናዎንስ እንደምን ነዎት ?
+1	ጤናዎንስ	ጤናዎንስ	NOUN
+6	እንደምን	እንደምን	PRON
+7	ነዎት	ነዎት	AUX
+11	?	?	PUNCT
+
+# sent_id = data_UD-x19-s1
+# text = ወተቱን ምን ያደርጉታል ?
+1	ወተቱን	ወተቱን	NOUN
+4	ምን	ምን	PRON
+6	ያደርጉታል	ያደርጉታል	VERB
+10	?	?	PUNCT
+
+# sent_id = data_UD-x19-s2
+# text = እኔን ይሰረቃል ብሎ መጠርጠር ዘበት ነው ።
+1	እኔን	እኔን	PRON
+4	ይሰረቃል	ይሰረቃል	VERB
+6	ብሎ	ብሎ	VERB
+8	መጠርጠር	መጠርጠር	NOUN
+9	ዘበት	ዘበት	ADJ
+10	ነው	ነው	AUX
+12	።	።	PUNCT
+
+# sent_id = data_UD-x19-s3
+# text = ሻንጣዬን ተሰረቅሁ ።
+1	ሻንጣዬን	ሻንጣዬን	NOUN
+4	ተሰረቅሁ	ተሰረቅሁ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-x19-s4
+# text = ራሱን ከተመታ ወዲህ ማስታወስ አቃተው ።
+1	ራሱን	ራሱን	NOUN
+5	ከተመታ	ከተመታ	VERB
+7	ወዲህ	ወዲህ	ADP
+8	ማስታወስ	ማስታወስ	NOUN
+9	አቃተው	አቃተው	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-x19-s5
+# text = ለልጁ ቤቱን አሳየው ።
+2	ለልጁ	ለልጁ	NOUN
+4	ቤቱን	ቤቱን	NOUN
+7	አሳየው	አሳየው	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-x19-s6
+# text = መሬት ፀሐይን ትዞራለች ።
+1	መሬት	መሬት	NOUN
+2	ፀሐይን	ፀሐይን	NOUN
+5	ትዞራለች	ትዞራለች	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-x19-s7
+# text = ሀምሌትን ሆኖ የሚጫወተው ማነው ?
+1	ሀምሌትን	ሀምሌትን	NOUN
+3	ሆኖ	ሆኖ	AUX
+8	የሚጫወተው	የሚጫወተው	VERB
+10	ማነው	ማነው	PRON
+13	?	?	PUNCT
+
+# sent_id = data_UD-x19-s8
+# text = ረኃብ ካዋቂ ይልቅ ልጅን ነው የሚርብ ።
+1	ረኃብ	ረኃብ	NOUN
+3	ካዋቂ	ካዋቂ	NOUN
+4	ይልቅ	ይልቅ	ADV
+5	ልጅን	ልጅን	NOUN
+7	ነው	ነው	AUX
+12	የሚርብ	የሚርብ	VERB
+13	።	።	PUNCT
+
+# sent_id = data_UD-x19-s9
+# text = ውሸታቸውን ነው ።
+1	ውሸታቸውን	ውሸታቸውን	NOUN
+4	ነው	ነው	AUX
+6	።	።	PUNCT
+
+# sent_id = data_UD-x19-s10
+# text = ፈረሱ ሌጣውን ጋለበ ።
+1	ፈረሱ	ፈረሱ	NOUN
+3	ሌጣውን	ሌጣውን	ADV
+6	ጋለበ	ጋለበ	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-x19-s11
+# text = ጦማቸውን ዋሉ ።
+1	ጦማቸውን	ጦማቸውን	NOUN
+4	ዋሉ	ዋሉ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-x19-s12
+# text = መንገድ ሲያቋርጡ ልጁን እጁን ያዘችው ።
+1	መንገድ	መንገድ	NOUN
+4	ሲያቋርጡ	ሲያቋርጡ	VERB
+6	ልጁን	ልጁን	NOUN
+9	እጁን	እጁን	NOUN
+12	ያዘችው	ያዘችው	VERB
+15	።	።	PUNCT
+
+# sent_id = data_UD-x19-s13
+# text = ቀኑን ሙሉ ተኝቶ ነበር ።
+1	ቀኑን	ቀኑን	NOUN
+4	ሙሉ	ሙሉ	ADJ
+5	ተኝቶ	ተኝቶ	VERB
+7	ነበር	ነበር	AUX
+8	።	።	PUNCT
+
+# sent_id = data_UD-x19-s14
+# text = እግዚአብሔርን ! እውነት ነው ።
+1	እግዚአብሔርን	እግዚአብሔርን	NOUN
+3	!	!	PUNCT
+4	እውነት	እውነት	NOUN
+5	ነው	ነው	AUX
+7	።	።	PUNCT
+
+# sent_id = data_UD-x19-s15
+# text = ምን እባክህ ዝናብ እምቢ ብሎ አዝመራው አልተሳካም ።
+1	ምን	ምን	PRON
+2	እባክህ	እባክህ	VERB
+4	ዝናብ	ዝናብ	NOUN
+5	እምቢ	እምቢ	ADV
+6	ብሎ	ብሎ	VERB
+8	አዝመራው	አዝመራው	NOUN
+11	አልተሳካም	አልተሳካም	VERB
+14	።	።	PUNCT
+
+# sent_id = data_UD-x19-s16
+# text = እርሳሱን እንሆ !
+1	እርሳሱን	እርሳሱን	NOUN
+4	እንሆ	እንሆ	VERB
+5	!	!	PUNCT
+
+# sent_id = data_UD-x19-s17
+# text = ብድር ነው እንዴ የሚፈልጉት ?
+1	ብድር	ብድር	NOUN
+2	ነው	ነው	AUX
+4	እንዴ	እንዴ	INTJ
+8	የሚፈልጉት	የሚፈልጉት	VERB
+11	?	?	PUNCT
+
+# sent_id = data_UD-x19-s18
+# text = ይመጣል እንዴ ?
+2	ይመጣል	ይመጣል	VERB
+4	እንዴ	እንዴ	INTJ
+5	?	?	PUNCT
+
+# sent_id = data_UD-x19-s19
+# text = ይህ ልጅ መዳኑን እንጃ ?
+1	ይህ	ይህ	DET
+2	ልጅ	ልጅ	NOUN
+3	መዳኑን	መዳኑን	NOUN
+6	እንጃ	እንጃ	VERB
+7	?	?	PUNCT
+
+# sent_id = data_UD-x19-s20
+# text = የዘንድሮን ነገር እንጃልኝ ።
+1	የዘንድሮን	የዘንድሮን	ADP
+4	ነገር	ነገር	NOUN
+5	እንጃልኝ	እንጃልኝ	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-x20-s1
+# text = እኔ እኮ ይህ ፈረስ ያንተ መስሎኝ ነበር ።
+1	እኔ	እኔ	PRON
+2	እኮ	እኮ	INTJ
+3	ይህ	ይህ	DET
+4	ፈረስ	ፈረስ	NOUN
+6	ያንተ	ያንተ	PRON
+7	መስሎኝ	መስሎኝ	VERB
+10	ነበር	ነበር	AUX
+11	።	።	PUNCT
+
+# sent_id = data_UD-x20-s2
+# text = አዪ እሱ እዚህ ቢሆን ኖሮ ።
+1	አዪ	አዪ	INTJ
+2	እሱ	እሱ	PRON
+3	እዚህ	እዚህ	ADV
+6	ቢሆን	ቢሆን	VERB
+7	ኖሮ	ኖሮ	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-x20-s3
+# text = ኤዲያ ! ተመልከት ምን እንዳደረግህ ።
+1	ኤዲያ	ኤዲያ	INTJ
+2	!	!	PUNCT
+3	ተመልከት	ተመልከት	VERB
+4	ምን	ምን	PRON
+6	እንዳደረግህ	እንዳደረግህ	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-x20-s4
+# text = ፈረሱ ቶሎ ቶሎ ሂያጅ ነው ።
+1	ፈረሱ	ፈረሱ	NOUN
+3	ቶሎ	ቶሎ	ADV
+4	ቶሎ	ቶሎ	ADV
+5	ሂያጅ	ሂያጅ	NOUN
+6	ነው	ነው	AUX
+8	።	።	PUNCT
+
+# sent_id = data_UD-x20-s5
+# text = ለሚያስፈልገኝ ነገር ሁሉ ደጋፊዬ እሱ ነው ።
+4	ለሚያስፈልገኝ	ለሚያስፈልገኝ	VERB
+6	ነገር	ነገር	NOUN
+7	ሁሉ	ሁሉ	ADJ
+8	ደጋፊዬ	ደጋፊዬ	NOUN
+10	እሱ	እሱ	PRON
+11	ነው	ነው	AUX
+13	።	።	PUNCT
+
+# sent_id = data_UD-x20-s6
+# text = ገንዘብ ፈላጊ ነኝ ።
+1	ገንዘብ	ገንዘብ	NOUN
+2	ፈላጊ	ፈላጊ	NOUN
+3	ነኝ	ነኝ	AUX
+5	።	።	PUNCT
+
+# sent_id = data_UD-x20-s7
+# text = ይህ ቤት ፈራሽ ነው ።
+1	ይህ	ይህ	DET
+2	ቤት	ቤት	NOUN
+3	ፈራሽ	ፈራሽ	NOUN
+4	ነው	ነው	AUX
+6	።	።	PUNCT
+
+# sent_id = data_UD-x20-s8
+# text = አባቷ ዛሬ ደራሽ ነው ።
+1	አባቷ	አባቷ	NOUN
+3	ዛሬ	ዛሬ	ADV
+4	ደራሽ	ደራሽ	NOUN
+5	ነው	ነው	AUX
+7	።	።	PUNCT
+
+# sent_id = data_UD-x20-s9
+# text = ሰው ሟች ነው ።
+1	ሰው	ሰው	NOUN
+2	ሟች	ሟች	NOUN
+3	ነው	ነው	AUX
+5	።	።	PUNCT
+
+# sent_id = data_UD-x20-s10
+# text = ሰው ተሰባሪ ነው ።
+1	ሰው	ሰው	NOUN
+2	ተሰባሪ	ተሰባሪ	NOUN
+3	ነው	ነው	AUX
+5	።	።	PUNCT
+
+# sent_id = data_UD-x20-s11
+# text = ጦርነቱ ካልቆመ ሁላችንም ተሰዳጅ ነን ።
+1	ጦርነቱ	ጦርነቱ	NOUN
+5	ካልቆመ	ካልቆመ	VERB
+7	ሁላችንም	ሁላችንም	PRON
+10	ተሰዳጅ	ተሰዳጅ	NOUN
+11	ነን	ነን	AUX
+13	።	።	PUNCT
+
+# sent_id = data_UD-x20-s12
+# text = ዓለሚቱ ተወዳጅ ጠባይ አላት ።
+1	ዓለሚቱ	ዓለሚቱ	PROPN
+2	ተወዳጅ	ተወዳጅ	ADJ
+3	ጠባይ	ጠባይ	NOUN
+4	አላት	አላት	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-x20-s13
+# text = ከብታችንን በመስረቁ ምክንያት ታሰረ ።
+1	ከብታችንን	ከብታችንን	NOUN
+5	በመስረቁ	በመስረቁ	VERB
+7	ምክንያት	ምክንያት	SCONJ
+8	ታሰረ	ታሰረ	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-x20-s14
+# text = መግደል ኃጢያት ነው ።
+1	መግደል	መግደል	NOUN
+2	ኃጢያት	ኃጢያት	NOUN
+3	ነው	ነው	AUX
+5	።	።	PUNCT
+
+# sent_id = data_UD-x20-s15
+# text = የልጃቸው መፈታት ሲሰማ ቤታቸው ውስጥ ደስታ ሆነ ።
+2	የልጃቸው	የልጃቸው	NOUN
+4	መፈታት	መፈታት	NOUN
+7	ሲሰማ	ሲሰማ	VERB
+8	ቤታቸው	ቤታቸው	NOUN
+10	ውስጥ	ውስጥ	ADP
+11	ደስታ	ደስታ	NOUN
+12	ሆነ	ሆነ	VERB
+14	።	።	PUNCT
+
+# sent_id = data_UD-x20-s16
+# text = ያለ ፓስፖርት ወደ ውጭ አገር መጓዝ አይቻልም ።
+1	ያለ	ያለ	PART
+2	ፓስፖርት	ፓስፖርት	NOUN
+3	ወደ	ወደ	ADP
+4	ውጭ	ውጭ	ADJ
+5	አገር	አገር	NOUN
+6	መጓዝ	መጓዝ	NOUN
+9	አይቻልም	አይቻልም	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-x20-s17
+# text = ምንም ጐበዝ ቢሆን መሸነፉ አይቀርም ።
+1	ምንም	ምንም	PRON
+3	ጐበዝ	ጐበዝ	ADJ
+6	ቢሆን	ቢሆን	VERB
+7	መሸነፉ	መሸነፉ	NOUN
+9	አይቀርም	አይቀርም	PART
+13	።	።	PUNCT
+
+# sent_id = data_UD-x20-s18
+# text = ፍየል ከመድረሷ ቅጠል መበጠሷ ።
+1	ፍየል	ፍየል	NOUN
+3	ከመድረሷ	ከመድረሷ	NOUN
+5	ቅጠል	ቅጠል	NOUN
+6	መበጠሷ	መበጠሷ	NOUN
+8	።	።	PUNCT
+
+# sent_id = data_UD-x20-s19
+# text = እናቲቱ የልጇን ፈተና መውደቅ ሰማች ።
+1	እናቲቱ	እናቲቱ	NOUN
+4	የልጇን	የልጇን	NOUN
+7	ፈተና	ፈተና	NOUN
+8	መውደቅ	መውደቅ	NOUN
+9	ሰማች	ሰማች	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-x20-s20
+# text = አዳዲስ ልብስ መልበስ ይወዳል ።
+1	አዳዲስ	አዳዲስ	ADJ
+2	ልብስ	ልብስ	NOUN
+3	መልበስ	መልበስ	NOUN
+5	ይወዳል	ይወዳል	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x00-s1
+# text = ቤቱ ሊሄድ ሲል ይዘንብ ጀመረ ።
+1	ቤቱ	ቤቱ	NOUN
+5	ሊሄድ	ሊሄድ	VERB
+6	ሲል	ሲል	VERB
+7	ይዘንብ	ይዘንብ	VERB
+8	ጀመረ	ጀመረ	AUX
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x00-s2
+# text = ልጁ ከመፍራቱ የተነሣ መርፌውን ሊወጋ አልደፈረም ።
+1	ልጁ	ልጁ	NOUN
+4	ከመፍራቱ	ከመፍራቱ	NOUN
+7	የተነሣ	የተነሣ	VERB
+8	መርፌውን	መርፌውን	NOUN
+13	ሊወጋ	ሊወጋ	VERB
+15	አልደፈረም	አልደፈረም	VERB
+18	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x00-s3
+# text = የገዛ ልብሴን የመስፋት ችሎታ ምነው በኖረኝ ።
+2	የገዛ	የገዛ	ADV
+4	ልብሴን	ልብሴን	NOUN
+8	የመስፋት	የመስፋት	NOUN
+9	ችሎታ	ችሎታ	NOUN
+10	ምነው	ምነው	INTJ
+11	በኖረኝ	በኖረኝ	VERB
+13	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x00-s4
+# text = ካንዱ አገር ወዳንዱ አገር እየዞርኩ እኖራለሁ ።
+1	ካንዱ	ካንዱ	ADP
+4	አገር	አገር	NOUN
+5	ወዳንዱ	ወዳንዱ	ADP
+8	አገር	አገር	NOUN
+9	እየዞርኩ	እየዞርኩ	VERB
+12	እኖራለሁ	እኖራለሁ	VERB
+15	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x00-s5
+# text = ሥራው እሰከ ተሠራ ድርስ ግድ የለኝም ።
+1	ሥራው	ሥራው	NOUN
+3	እሰከ	እሰከ	ADP
+4	ተሠራ	ተሠራ	VERB
+5	ድርስ	ድርስ	ADP
+6	ግድ	ግድ	VERB
+7	የለኝም	የለኝም	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x00-s6
+# text = መጥቶ እንደሆነ ግባ በለው ።
+1	መጥቶ	መጥቶ	VERB
+4	እንደሆነ	እንደሆነ	VERB
+6	ግባ	ግባ	VERB
+8	በለው	በለው	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x00-s7
+# text = ልጆቹ ስራ እንዲሰሩ ይደረጋል ።
+1	ልጆቹ	ልጆቹ	NOUN
+3	ስራ	ስራ	NOUN
+6	እንዲሰሩ	እንዲሰሩ	VERB
+9	ይደረጋል	ይደረጋል	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x00-s8
+# text = ስትገባ ሰው አይተሃል ?
+3	ስትገባ	ስትገባ	VERB
+5	ሰው	ሰው	NOUN
+7	አይተሃል	አይተሃል	VERB
+10	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x00-s9
+# text = ባያጠና ይሻለው ነበር ።
+4	ባያጠና	ባያጠና	VERB
+7	ይሻለው	ይሻለው	VERB
+9	ነበር	ነበር	AUX
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x00-s10
+# text = በምንም ዐይነት ብትሠራው አለቅየው አይደሰትም ።
+2	በምንም	በምንም	ADJ
+3	ዐይነት	ዐይነት	NOUN
+6	ብትሠራው	ብትሠራው	VERB
+8	አለቅየው	አለቅየው	NOUN
+13	አይደሰትም	አይደሰትም	VERB
+15	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x00-s11
+# text = በእናቴ ፈንታ ምነው እኔ በሞትኩ ።
+2	በእናቴ	በእናቴ	NOUN
+4	ፈንታ	ፈንታ	NOUN
+5	ምነው	ምነው	INTJ
+6	እኔ	እኔ	PRON
+8	በሞትኩ	በሞትኩ	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x00-s12
+# text = ዳኛውን ፈርቶ ሳይመጣ ቀረ ።
+1	ዳኛውን	ዳኛውን	NOUN
+4	ፈርቶ	ፈርቶ	VERB
+9	ሳይመጣ	ሳይመጣ	VERB
+11	ቀረ	ቀረ	VERB
+13	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x00-s13
+# text = እጅህን ሳትታጠብ አትብላ ።
+1	እጅህን	እጅህን	NOUN
+7	ሳትታጠብ	ሳትታጠብ	VERB
+10	አትብላ	አትብላ	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x00-s14
+# text = እየበላ አነበበ ።
+2	እየበላ	እየበላ	VERB
+4	አነበበ	አነበበ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x00-s15
+# text = እናቱን በማየቱ በጣም ደስ አለው ።
+1	እናቱን	እናቱን	NOUN
+5	በማየቱ	በማየቱ	NOUN
+7	በጣም	በጣም	ADV
+8	ደስ	ደስ	VERB
+9	አለው	አለው	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x00-s16
+# text = ወንድሜ ከአገር~ቤት ስለመጣ ላየው ሄድኩ ።
+1	ወንድሜ	ወንድሜ	NOUN
+4	ከአገር~ቤት	ከአገር~ቤት	NOUN
+6	ስለመጣ	ስለመጣ	VERB
+9	ላየው	ላየው	VERB
+11	ሄድኩ	ሄድኩ	VERB
+13	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x00-s17
+# text = ሳይጨልም ብትመለስ ይሻላል ፤ አለዚያ ትጠፋለህ ።
+4	ሳይጨልም	ሳይጨልም	VERB
+7	ብትመለስ	ብትመለስ	VERB
+9	ይሻላል	ይሻላል	VERB
+11	፤	፤	PUNCT
+13	አለዚያ	አለዚያ	ADV
+15	ትጠፋለህ	ትጠፋለህ	VERB
+18	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x00-s18
+# text = ባገኘኋት ቁጥር ሰላምታ ትሰጠኛለች ።
+2	ባገኘኋት	ባገኘኋት	VERB
+5	ቁጥር	ቁጥር	NOUN
+6	ሰላምታ	ሰላምታ	NOUN
+8	ትሰጠኛለች	ትሰጠኛለች	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x00-s19
+# text = በሽርሽር ላይ ሆነን ቢዘንብስ ?
+2	በሽርሽር	በሽርሽር	NOUN
+3	ላይ	ላይ	ADP
+4	ሆነን	ሆነን	VERB
+8	ቢዘንብስ	ቢዘንብስ	VERB
+10	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x00-s20
+# text = ስለታመመ አልመጣም ።
+2	ስለታመመ	ስለታመመ	VERB
+5	አልመጣም	አልመጣም	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x01-s1
+# text = ተናጋሪው ንግግሩን ቶሎ ቢጨርስ ጥሩ ነበር ።
+1	ተናጋሪው	ተናጋሪው	NOUN
+3	ንግግሩን	ንግግሩን	NOUN
+6	ቶሎ	ቶሎ	ADV
+9	ቢጨርስ	ቢጨርስ	VERB
+10	ጥሩ	ጥሩ	ADJ
+11	ነበር	ነበር	AUX
+12	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x01-s2
+# text = ጓደኞችህ እዚህ ሳይመጡ ቢቀሩስ ?
+1	ጓደኞችህ	ጓደኞችህ	NOUN
+3	እዚህ	እዚህ	DET
+7	ሳይመጡ	ሳይመጡ	VERB
+11	ቢቀሩስ	ቢቀሩስ	VERB
+14	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x01-s3
+# text = መታመሙን እንደነገረኝ መጣሁ ።
+1	መታመሙን	መታመሙን	NOUN
+5	እንደነገረኝ	እንደነገረኝ	VERB
+8	መጣሁ	መጣሁ	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x01-s4
+# text = ባለማጥናቱ ፈተናውን ወደቀ ።
+3	ባለማጥናቱ	ባለማጥናቱ	NOUN
+5	ፈተናውን	ፈተናውን	NOUN
+8	ወደቀ	ወደቀ	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x01-s5
+# text = የኢኮኖሚው ውድቀት የማይቀር ነው እንበል ።
+2	የኢኮኖሚው	የኢኮኖሚው	NOUN
+4	ውድቀት	ውድቀት	NOUN
+9	የማይቀር	የማይቀር	VERB
+10	ነው	ነው	AUX
+13	እንበል	እንበል	VERB
+14	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x01-s6
+# text = የትኛውንም ብትመርጥ እገዛዋለሁ ።
+1	የትኛውንም	የትኛውንም	PRON
+6	ብትመርጥ	ብትመርጥ	VERB
+8	እገዛዋለሁ	እገዛዋለሁ	VERB
+13	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x01-s7
+# text = ቤት ብትውል ይሻላል ።
+1	ቤት	ቤት	NOUN
+4	ብትውል	ብትውል	VERB
+6	ይሻላል	ይሻላል	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x01-s8
+# text = ብዙ በመሮጤ እግሬን አመመኝ ።
+1	ብዙ	ብዙ	ADV
+3	በመሮጤ	በመሮጤ	NOUN
+5	እግሬን	እግሬን	NOUN
+8	አመመኝ	አመመኝ	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x01-s9
+# text = ወደ አባትሽ ቤት ብትመለሽ አይሻልሽምን ?
+1	ወደ	ወደ	ADP
+2	አባትሽ	አባትሽ	NOUN
+4	ቤት	ቤት	NOUN
+7	ብትመለሽ	ብትመለሽ	VERB
+11	አይሻልሽምን	አይሻልሽምን	VERB
+15	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x01-s10
+# text = ካሳ የአስቴር ወደ ጎንደር መሄድ ሰምቶአል ።
+1	ካሳ	ካሳ	PROPN
+3	የአስቴር	የአስቴር	PROPN
+4	ወደ	ወደ	ADP
+5	ጎንደር	ጎንደር	NOUN
+6	መሄድ	መሄድ	NOUN
+7	ሰምቶአል	ሰምቶአል	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x01-s11
+# text = ዛሬ ዋና ባትሄድ ይሻልሃል ።
+1	ዛሬ	ዛሬ	ADV
+2	ዋና	ዋና	NOUN
+6	ባትሄድ	ባትሄድ	VERB
+8	ይሻልሃል	ይሻልሃል	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x01-s12
+# text = ምን ቢሆን ይሻላል ?
+1	ምን	ምን	PRON
+2	ቢሆን	ቢሆን	VERB
+4	ይሻላል	ይሻላል	VERB
+6	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x01-s13
+# text = ወደ አገር ቤት በሄድኩ ጊዜ ማንንም አልጠየኩም ።
+1	ወደ	ወደ	ADP
+2	አገር	አገር	NOUN
+3	ቤት	ቤት	NOUN
+5	በሄድኩ	በሄድኩ	VERB
+7	ጊዜ	ጊዜ	NOUN
+8	ማንንም	ማንንም	PRON
+12	አልጠየኩም	አልጠየኩም	VERB
+15	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x01-s14
+# text = ካሳ አስቴር ወደ ጎንደር መሄድዋን ሰምቶአል ።
+1	ካሳ	ካሳ	PROPN
+2	አስቴር	አስቴር	PROPN
+3	ወደ	ወደ	ADP
+4	ጎንደር	ጎንደር	NOUN
+5	መሄድዋን	መሄድዋን	NOUN
+8	ሰምቶአል	ሰምቶአል	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x01-s15
+# text = ካሳ አስቴር ወደ ትምህርት ቤት ስለሄደች ተደሰተ ።
+1	ካሳ	ካሳ	PROPN
+2	አስቴር	አስቴር	PROPN
+3	ወደ	ወደ	ADP
+4	ትምህርት	ትምህርት	NOUN
+5	ቤት	ቤት	NOUN
+7	ስለሄደች	ስለሄደች	VERB
+9	ተደሰተ	ተደሰተ	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x01-s16
+# text = ይህ ምስኪን ምነው በደንብ በልቶ አይቼው ።
+1	ይህ	ይህ	DET
+2	ምስኪን	ምስኪን	NOUN
+3	ምነው	ምነው	PRON
+5	በደንብ	በደንብ	NOUN
+6	በልቶ	በልቶ	VERB
+8	አይቼው	አይቼው	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x01-s17
+# text = እዚያ ብሆን እመኛለሁ ።
+1	እዚያ	እዚያ	DET
+4	ብሆን	ብሆን	VERB
+6	እመኛለሁ	እመኛለሁ	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x01-s18
+# text = ምንም ቢመጣ አልፈራም ።
+1	ምንም	ምንም	PRON
+4	ቢመጣ	ቢመጣ	VERB
+8	አልፈራም	አልፈራም	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x01-s19
+# text = የትም ብትሆን ለኔ ደብዳቤ መጻፍ አትርሳ ።
+1	የትም	የትም	PRON
+4	ብትሆን	ብትሆን	VERB
+6	ለኔ	ለኔ	PRON
+7	ደብዳቤ	ደብዳቤ	NOUN
+8	መጻፍ	መጻፍ	NOUN
+11	አትርሳ	አትርሳ	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x01-s20
+# text = እዚህ ካላችሁ ዘንድ ይህንን ጉዳይ ብንነጋገርበት መልካም ነው ።
+1	እዚህ	እዚህ	DET
+3	ካላችሁ	ካላችሁ	VERB
+5	ዘንድ	ዘንድ	ADP
+6	ይህንን	ይህንን	DET
+8	ጉዳይ	ጉዳይ	NOUN
+11	ብንነጋገርበት	ብንነጋገርበት	VERB
+14	መልካም	መልካም	ADJ
+15	ነው	ነው	AUX
+17	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x02-s1
+# text = በጣም ብወድሽም አላገባሽም ።
+1	በጣም	በጣም	ADV
+3	ብወድሽም	ብወድሽም	VERB
+7	አላገባሽም	አላገባሽም	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x02-s2
+# text = ምነው ቢያዳምጣት ኖሮ ።
+1	ምነው	ምነው	PRON
+4	ቢያዳምጣት	ቢያዳምጣት	VERB
+6	ኖሮ	ኖሮ	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x02-s3
+# text = ሁለት ሰዓት ሳይበላ ቢቆይ ሆዱን አመመው ።
+1	ሁለት	ሁለት	NUM
+2	ሰዓት	ሰዓት	NOUN
+6	ሳይበላ	ሳይበላ	VERB
+10	ቢቆይ	ቢቆይ	VERB
+11	ሆዱን	ሆዱን	NOUN
+14	አመመው	አመመው	VERB
+16	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x02-s4
+# text = ምነው ይህን ያህል ባልሠራ ።
+1	ምነው	ምነው	PRON
+2	ይህን	ይህን	DET
+3	ያህል	ያህል	VERB
+6	ባልሠራ	ባልሠራ	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x02-s5
+# text = ምነው አስተማሪ በሆንሁ ።
+1	ምነው	ምነው	PRON
+2	አስተማሪ	አስተማሪ	NOUN
+4	በሆንሁ	በሆንሁ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x02-s6
+# text = ገንዘብ ይስጠኝ እንጂ የፈለገውን እገዛለታለሁ ።
+1	ገንዘብ	ገንዘብ	NOUN
+3	ይስጠኝ	ይስጠኝ	VERB
+6	እንጂ	እንጂ	CCONJ
+8	የፈለገውን	የፈለገውን	VERB
+13	እገዛለታለሁ	እገዛለታለሁ	VERB
+18	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x02-s7
+# text = ገነዘብ ብለምነው አባረረኝ ።
+1	ገነዘብ	ገነዘብ	NOUN
+3	ብለምነው	ብለምነው	VERB
+5	አባረረኝ	አባረረኝ	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x02-s8
+# text = አስቴር ወደ ጎጃም ስለ ሄደ አለቀሰች ።
+1	አስቴር	አስቴር	PROPN
+2	ወደ	ወደ	ADP
+3	ጎጃም	ጎጃም	PROPN
+4	ስለ	ስለ	SCONJ
+5	ሄደ	ሄደ	VERB
+7	አለቀሰች	አለቀሰች	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x02-s9
+# text = እንግዶች ስለማይመጡ ጠላውን አትቅጂ ።
+1	እንግዶች	እንግዶች	NOUN
+7	ስለማይመጡ	ስለማይመጡ	VERB
+9	ጠላውን	ጠላውን	NOUN
+14	አትቅጂ	አትቅጂ	VERB
+16	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x02-s10
+# text = ምናልባት ይህን መጽሐፍ ለማሳተም የምትፈልጉ ከሆነ እልካለሁ ።
+1	ምናልባት	ምናልባት	ADV
+2	ይህን	ይህን	DET
+3	መጽሐፍ	መጽሐፍ	NOUN
+5	ለማሳተም	ለማሳተም	NOUN
+9	የምትፈልጉ	የምትፈልጉ	VERB
+12	ከሆነ	ከሆነ	VERB
+15	እልካለሁ	እልካለሁ	VERB
+18	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x02-s11
+# text = ዘለለ ።
+1	ዘለለ	ዘለለ	VERB
+3	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x02-s12
+# text = ልጁ ወደቀ ።
+1	ልጁ	ልጁ	NOUN
+3	ወደቀ	ወደቀ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x02-s13
+# text = መሬቱ ተንቀጠቀጠ ።
+1	መሬቱ	መሬቱ	NOUN
+3	ተንቀጠቀጠ	ተንቀጠቀጠ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x02-s14
+# text = ወንዙ ደረቀ ።
+1	ወንዙ	ወንዙ	NOUN
+3	ደረቀ	ደረቀ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x02-s15
+# text = ፊቴ ነጣ ።
+1	ፊቴ	ፊቴ	NOUN
+3	ነጣ	ነጣ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x02-s16
+# text = ቡናው ፈላ ።
+1	ቡናው	ቡናው	NOUN
+3	ፈላ	ፈላ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x02-s17
+# text = አዳመጠች ።
+1	አዳመጠች	አዳመጠች	VERB
+3	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x02-s18
+# text = ድንጋዩ ለሰለሰ ።
+1	ድንጋዩ	ድንጋዩ	NOUN
+3	ለሰለሰ	ለሰለሰ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x02-s19
+# text = ወቀሰችው ።
+1	ወቀሰችው	ወቀሰችው	VERB
+4	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x02-s20
+# text = ካሳ በድንገት ወደ ጎንደር ሄደ ።
+1	ካሳ	ካሳ	PROPN
+3	በድንገት	በድንገት	NOUN
+4	ወደ	ወደ	ADP
+5	ጎንደር	ጎንደር	PROPN
+6	ሄደ	ሄደ	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x03-s1
+# text = ካሳ ትናንት በድንገት በመኪና ወደ ጎንደር ሄደ ።
+1	ካሳ	ካሳ	PROPN
+2	ትናንት	ትናንት	ADV
+4	በድንገት	በድንገት	NOUN
+6	በመኪና	በመኪና	NOUN
+7	ወደ	ወደ	ADP
+8	ጎንደር	ጎንደር	NOUN
+9	ሄደ	ሄደ	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x03-s2
+# text = በርግጥ ካሳ ትናንት ወደ ጎንደር ሄዶአል ።
+2	በርግጥ	በርግጥ	NOUN
+3	ካሳ	ካሳ	PROPN
+4	ትናንት	ትናንት	ADV
+5	ወደ	ወደ	ADP
+6	ጎንደር	ጎንደር	PROPN
+7	ሄዶአል	ሄዶአል	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x03-s3
+# text = ውሻዬ ሞተ ።
+1	ውሻዬ	ውሻዬ	NOUN
+3	ሞተ	ሞተ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x03-s4
+# text = እንደማን ነው የምትደንሰው ?
+2	እንደማን	እንደማን	PRON
+3	ነው	ነው	AUX
+8	የምትደንሰው	የምትደንሰው	VERB
+11	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x03-s5
+# text = ደነገጠች ።
+1	ደነገጠች	ደነገጠች	VERB
+3	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x03-s6
+# text = ቡርትኳኑ በሰለ ።
+1	ቡርትኳኑ	ቡርትኳኑ	NOUN
+3	በሰለ	በሰለ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x03-s7
+# text = ወደ ቤቷ ሄደች ።
+1	ወደ	ወደ	ADP
+2	ቤቷ	ቤቷ	NOUN
+4	ሄደች	ሄደች	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x03-s8
+# text = ዝናብ ዘነበ ።
+1	ዝናብ	ዝናብ	NOUN
+2	ዘነበ	ዘነበ	VERB
+4	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x03-s9
+# text = ቀኑ ጀመረ ።
+1	ቀኑ	ቀኑ	NOUN
+3	ጀመረ	ጀመረ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x03-s10
+# text = ከእኔ በለጠች ።
+2	ከእኔ	ከእኔ	PRON
+3	በለጠች	በለጠች	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x03-s11
+# text = መንገዱ ሁለት ቀን ይፈጃል ።
+1	መንገዱ	መንገዱ	NOUN
+3	ሁለት	ሁለት	NUM
+4	ቀን	ቀን	NOUN
+6	ይፈጃል	ይፈጃል	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x03-s12
+# text = ሽኘኋት ።
+1	ሽኘኋት	ሽኘኋት	VERB
+4	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x03-s13
+# text = ካሳ ወደ ቤተክርስቲያን ሄደ ።
+1	ካሳ	ካሳ	PROPN
+2	ወደ	ወደ	ADP
+3	ቤተክርስቲያን	ቤተክርስቲያን	NOUN
+4	ሄደ	ሄደ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x03-s14
+# text = ካሳ አስቴር ስለታመመች ወደ ትምህርት ቤት አልሄደም ።
+1	ካሳ	ካሳ	PROPN
+2	አስቴር	አስቴር	PROPN
+4	ስለታመመች	ስለታመመች	VERB
+6	ወደ	ወደ	ADP
+7	ትምህርት	ትምህርት	NOUN
+8	ቤት	ቤት	NOUN
+10	አልሄደም	አልሄደም	VERB
+13	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x03-s15
+# text = ካሳ ሰለታመመ በመኪና ዛሬ ወደ ሆስፒታል ሄደ ።
+1	ካሳ	ካሳ	PROPN
+3	ሰለታመመ	ሰለታመመ	VERB
+6	በመኪና	በመኪና	NOUN
+7	ዛሬ	ዛሬ	ADV
+8	ወደ	ወደ	ADP
+9	ሆስፒታል	ሆስፒታል	NOUN
+10	ሄደ	ሄደ	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x03-s16
+# text = ካሳ በርግጥ በመኪና ወደ ትምህርት ቤት ይሄዳል ።
+1	ካሳ	ካሳ	PROPN
+3	በርግጥ	በርግጥ	NOUN
+5	በመኪና	በመኪና	NOUN
+6	ወደ	ወደ	ADP
+7	ትምህርት	ትምህርት	NOUN
+8	ቤት	ቤት	NOUN
+10	ይሄዳል	ይሄዳል	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x03-s17
+# text = አልማዝ ኳሱን ወረወረች ።
+1	አልማዝ	አልማዝ	PROPN
+2	ኳሱን	ኳሱን	NOUN
+5	ወረወረች	ወረወረች	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x03-s18
+# text = ገንዘብ ለመነች ።
+1	ገንዘብ	ገንዘብ	NOUN
+2	ለመነች	ለመነች	VERB
+4	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x03-s19
+# text = አልማዝ ልጇን ተንከባከበች ።
+1	አልማዝ	አልማዝ	PROPN
+2	ልጇን	ልጇን	NOUN
+5	ተንከባከበች	ተንከባከበች	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x03-s20
+# text = መንገዱ ሁለት ቀን ይፈጃል ።
+1	መንገዱ	መንገዱ	NOUN
+3	ሁለት	ሁለት	NUM
+4	ቀን	ቀን	NOUN
+6	ይፈጃል	ይፈጃል	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x04-s1
+# text = ካሳ ጥይት ተኮሰ ።
+1	ካሳ	ካሳ	PROPN
+2	ጥይት	ጥይት	NOUN
+3	ተኮሰ	ተኮሰ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x04-s2
+# text = ፈለግህን ተከተለ ።
+1	ፈለግህን	ፈለግህን	NOUN
+4	ተከተለ	ተከተለ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x04-s3
+# text = ፍየሎቹ ወንዙን ተከተሉ ።
+1	ፍየሎቹ	ፍየሎቹ	NOUN
+3	ወንዙን	ወንዙን	NOUN
+6	ተከተሉ	ተከተሉ	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x04-s4
+# text = አልማዝ ወንዙን ተሻገረች ።
+1	አልማዝ	አልማዝ	PROPN
+2	ወንዙን	ወንዙን	NOUN
+5	ተሻገረች	ተሻገረች	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x04-s5
+# text = አልማዝ አይጥ አየች ።
+1	አልማዝ	አልማዝ	PROPN
+2	አይጥ	አይጥ	NOUN
+3	አየች	አየች	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x04-s6
+# text = አልማዝ ተስፋ ቆረጠች ።
+1	አልማዝ	አልማዝ	PROPN
+2	ተስፋ	ተስፋ	NOUN
+3	ቆረጠች	ቆረጠች	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x04-s7
+# text = ቁመቴ 1.85 ነው ።
+1	ቁመቴ	ቁመቴ	NOUN
+3	1.85	1.85	NUM
+4	ነው	ነው	AUX
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x04-s8
+# text = ካሳ ደብዳቤ ላከ ።
+1	ካሳ	ካሳ	PROPN
+2	ደብዳቤ	ደብዳቤ	NOUN
+3	ላከ	ላከ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x04-s9
+# text = አልማዝ አገነፋች ።
+1	አልማዝ	አልማዝ	PROPN
+2	አገነፋች	አገነፋች	VERB
+4	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x04-s10
+# text = አጠባሁዋት ።
+1	አጠባሁዋት	አጠባሁዋት	VERB
+4	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x04-s11
+# text = አስቴር ብርጭቆ ሰበረች ።
+1	አስቴር	አስቴር	PROPN
+2	ብርጭቆ	ብርጭቆ	NOUN
+3	ሰበረች	ሰበረች	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x04-s12
+# text = እንቁላሉን ሰበረችው ።
+1	እንቁላሉን	እንቁላሉን	NOUN
+4	ሰበረችው	ሰበረችው	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x04-s13
+# text = ልጁ ኳሱን መታው ።
+1	ልጁ	ልጁ	NOUN
+3	ኳሱን	ኳሱን	NOUN
+6	መታው	መታው	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x04-s14
+# text = የአባቱ መምጣት ካሳን ገረመው ።
+2	የአባቱ	የአባቱ	NOUN
+4	መምጣት	መምጣት	NOUN
+5	ካሳን	ካሳን	PROPN
+7	ገረመው	ገረመው	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x04-s15
+# text = ብርቱኳኑ በሰለ ።
+1	ብርቱኳኑ	ብርቱኳኑ	NOUN
+3	በሰለ	በሰለ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x04-s16
+# text = ካሳ ከአባቱ በቁመት በለጠ ።
+1	ካሳ	ካሳ	PROPN
+3	ከአባቱ	ከአባቱ	NOUN
+6	በቁመት	በቁመት	NOUN
+7	በለጠ	በለጠ	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x04-s17
+# text = ሰራተኞቹ ደሞዛቸውን ወሰዱ ።
+1	ሰራተኞቹ	ሰራተኞቹ	NOUN
+3	ደሞዛቸውን	ደሞዛቸውን	NOUN
+6	ወሰዱ	ወሰዱ	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x04-s18
+# text = ካሳ ሚስቱን ሸኘ ።
+1	ካሳ	ካሳ	PROPN
+2	ሚስቱን	ሚስቱን	NOUN
+5	ሸኘ	ሸኘ	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x04-s19
+# text = ምግቡ ተበላሸ ።
+1	ምግቡ	ምግቡ	NOUN
+3	ተበላሸ	ተበላሸ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x04-s20
+# text = አዲስ ልብስ ለበሰ ።
+1	አዲስ	አዲስ	ADJ
+2	ልብስ	ልብስ	NOUN
+3	ለበሰ	ለበሰ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x05-s1
+# text = አስተማሪው መፅሐፉን ያዘ ።
+1	አስተማሪው	አስተማሪው	NOUN
+3	መፅሐፉን	መፅሐፉን	NOUN
+6	ያዘ	ያዘ	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x05-s2
+# text = የወንድሟ መሞት የአልማዝን ልብ ሰበረው ።
+2	የወንድሟ	የወንድሟ	NOUN
+4	መሞት	መሞት	NOUN
+6	የአልማዝን	የአልማዝን	PROPN
+8	ልብ	ልብ	NOUN
+9	ሰበረው	ሰበረው	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x05-s3
+# text = መሄዷ የባሏን ልብ ሰበረው ።
+1	መሄዷ	መሄዷ	NOUN
+4	የባሏን	የባሏን	NOUN
+7	ልብ	ልብ	NOUN
+8	ሰበረው	ሰበረው	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x05-s4
+# text = አልማዝ የካሳን መምጣት ታቃለች ።
+1	አልማዝ	አልማዝ	PROPN
+3	የካሳን	የካሳን	PROPN
+5	መምጣት	መምጣት	VERB
+7	ታቃለች	ታቃለች	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x05-s5
+# text = አልማዝ የታመመች መሰለችኝ ።
+1	አልማዝ	አልማዝ	PROPN
+3	የታመመች	የታመመች	VERB
+5	መሰለችኝ	መሰለችኝ	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x05-s6
+# text = ድመቱ ዛፍ ላይ ያለ መሰለኝ ።
+1	ድመቱ	ድመቱ	NOUN
+3	ዛፍ	ዛፍ	NOUN
+4	ላይ	ላይ	ADP
+5	ያለ	ያለ	VERB
+6	መሰለኝ	መሰለኝ	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x05-s7
+# text = አልማዝ የራሷን ጭንቅላት መታች ።
+1	አልማዝ	አልማዝ	PROPN
+3	የራሷን	የራሷን	NOUN
+6	ጭንቅላት	ጭንቅላት	NOUN
+7	መታች	መታች	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x05-s8
+# text = ጀርባዋን መታኋት ።
+1	ጀርባዋን	ጀርባዋን	NOUN
+4	መታኋት	መታኋት	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x05-s9
+# text = አልማዝ እናቷን ሰለ ወንድሟ ሞት ጠየቀች ።
+1	አልማዝ	አልማዝ	PROPN
+2	እናቷን	እናቷን	NOUN
+5	ሰለ	ሰለ	ADP
+6	ወንድሟ	ወንድሟ	NOUN
+8	ሞት	ሞት	NOUN
+9	ጠየቀች	ጠየቀች	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x05-s10
+# text = መስመሩን ወደእኔ አሰመረች ።
+1	መስመሩን	መስመሩን	NOUN
+5	ወደእኔ	ወደእኔ	PRON
+6	አሰመረች	አሰመረች	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x05-s11
+# text = ካሳ ወደ ጎጃም በአውቶብስ ተጓዘ ።
+1	ካሳ	ካሳ	PROPN
+2	ወደ	ወደ	ADP
+3	ጎጃም	ጎጃም	PROPN
+5	በአውቶብስ	በአውቶብስ	NOUN
+6	ተጓዘ	ተጓዘ	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x05-s12
+# text = ካሳ ትናንት ሁለት በጎች ገዛ ።
+1	ካሳ	ካሳ	PROPN
+2	ትናንት	ትናንት	ADV
+3	ሁለት	ሁለት	NUM
+4	በጎች	በጎች	NOUN
+5	ገዛ	ገዛ	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x05-s13
+# text = የልጁ መታመም አስተማሪውን አሳሰበው ።
+2	የልጁ	የልጁ	NOUN
+4	መታመም	መታመም	NOUN
+5	አስተማሪውን	አስተማሪውን	NOUN
+8	አሳሰበው	አሳሰበው	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x05-s14
+# text = ገንዘብ አለመያዙ ገረማት ።
+1	ገንዘብ	ገንዘብ	NOUN
+3	አለመያዙ	አለመያዙ	VERB
+5	ገረማት	ገረማት	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x05-s15
+# text = ካሳ ዜናውን ለአለም ነገራት ።
+1	ካሳ	ካሳ	PROPN
+2	ዜናውን	ዜናውን	NOUN
+6	ለአለም	ለአለም	PROPN
+7	ነገራት	ነገራት	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x05-s16
+# text = አስተማሪው ለተማሪዎቹ ጊዜ ሰጣቸው ።
+1	አስተማሪው	አስተማሪው	NOUN
+4	ለተማሪዎቹ	ለተማሪዎቹ	NOUN
+6	ጊዜ	ጊዜ	NOUN
+7	ሰጣቸው	ሰጣቸው	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x05-s17
+# text = ሩጫ ጥንካሬን ሰጣት ።
+1	ሩጫ	ሩጫ	NOUN
+2	ጥንካሬን	ጥንካሬን	NOUN
+4	ሰጣት	ሰጣት	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x05-s18
+# text = እንደምመጣ ለአልማዝ ነገርኩዋት ።
+4	እንደምመጣ	እንደምመጣ	VERB
+7	ለአልማዝ	ለአልማዝ	PROPN
+8	ነገርኩዋት	ነገርኩዋት	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x05-s19
+# text = ካሳ እንድትመጣ ጠየቃት ።
+1	ካሳ	ካሳ	PROPN
+4	እንድትመጣ	እንድትመጣ	VERB
+5	ጠየቃት	ጠየቃት	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x05-s20
+# text = አለቀሰች ።
+1	አለቀሰች	አለቀሰች	VERB
+3	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x06-s1
+# text = ጎንበስ አለች ።
+1	ጎንበስ	ጎንበስ	VERB
+2	አለች	አለች	VERB
+4	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x06-s2
+# text = ጭንቅ አለው ።
+1	ጭንቅ	ጭንቅ	VERB
+2	አለው	አለው	VERB
+4	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x06-s3
+# text = አልማዝ ወደፊት ቅርብ አለች ።
+1	አልማዝ	አልማዝ	PROPN
+3	ወደፊት	ወደፊት	NOUN
+4	ቅርብ	ቅርብ	VERB
+5	አለች	አለች	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x06-s4
+# text = ስምህን እናከብራለን ።
+1	ስምህን	ስምህን	NOUN
+5	እናከብራለን	እናከብራለን	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x06-s5
+# text = ጊዜው / ወቅቱ ጥሩ ነው ።
+1	ጊዜው	ጊዜው	NOUN
+3	/	/	PUNCT
+4	ወቅቱ	ወቅቱ	NOUN
+6	ጥሩ	ጥሩ	ADJ
+7	ነው	ነው	AUX
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x06-s6
+# text = ድንጋዩ ለስላሳ ነው ።
+1	ድንጋዩ	ድንጋዩ	NOUN
+3	ለስላሳ	ለስላሳ	ADJ
+4	ነው	ነው	AUX
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x06-s7
+# text = የአባቴ በሰላም መመለስ መልካም ነው ።
+2	የአባቴ	የአባቴ	NOUN
+5	በሰላም	በሰላም	NOUN
+6	መመለስ	መመለስ	NOUN
+7	መልካም	መልካም	ADJ
+8	ነው	ነው	AUX
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x06-s8
+# text = መሄዷ ሚስጥር ነው ።
+1	መሄዷ	መሄዷ	NOUN
+3	ሚስጥር	ሚስጥር	NOUN
+4	ነው	ነው	AUX
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x06-s9
+# text = እንደሚጠጣና እንደማይጠጣ ሚስጥር ነው ።
+4	እንደሚጠጣና	እንደሚጠጣና	VERB
+10	እንደማይጠጣ	እንደማይጠጣ	VERB
+11	ሚስጥር	ሚስጥር	NOUN
+12	ነው	ነው	AUX
+14	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x06-s10
+# text = ማንም ወደከተማ ነው መሄድ ያለበት ።
+1	ማንም	ማንም	PRON
+3	ወደከተማ	ወደከተማ	NOUN
+4	ነው	ነው	AUX
+6	መሄድ	መሄድ	NOUN
+8	ያለበት	ያለበት	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x06-s11
+# text = መብረቁ የወረደው እዚህ ቦታ ነው ።
+1	መብረቁ	መብረቁ	NOUN
+4	የወረደው	የወረደው	VERB
+7	እዚህ	እዚህ	DET
+8	ቦታ	ቦታ	NOUN
+9	ነው	ነው	AUX
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x06-s12
+# text = ፈተናውን ያለፈው እንደ ሕልም ነው ።
+1	ፈተናውን	ፈተናውን	NOUN
+5	ያለፈው	ያለፈው	VERB
+8	እንደ	እንደ	ADP
+9	ሕልም	ሕልም	NOUN
+10	ነው	ነው	AUX
+12	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x06-s13
+# text = አባቴ የሞተው በድንገት ነው ።
+1	አባቴ	አባቴ	NOUN
+4	የሞተው	የሞተው	VERB
+8	በድንገት	በድንገት	ADV
+9	ነው	ነው	AUX
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x06-s14
+# text = ቤት ነው የገዛሁት ።
+1	ቤት	ቤት	NOUN
+2	ነው	ነው	AUX
+5	የገዛሁት	የገዛሁት	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x06-s15
+# text = ያንን ቤት ነው የገዛሁት ።
+1	ያንን	ያንን	DET
+3	ቤት	ቤት	NOUN
+4	ነው	ነው	AUX
+7	የገዛሁት	የገዛሁት	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x06-s16
+# text = ያንን መንገድ ነው የመጣሁበት ።
+1	ያንን	ያንን	DET
+3	መንገድ	መንገድ	NOUN
+4	ነው	ነው	AUX
+7	የመጣሁበት	የመጣሁበት	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x06-s17
+# text = ድመቷን የወሰድኳት እኔ ነኝ ።
+1	ድመቷን	ድመቷን	NOUN
+5	የወሰድኳት	የወሰድኳት	VERB
+8	እኔ	እኔ	PRON
+9	ነኝ	ነኝ	AUX
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x06-s18
+# text = መብላት ካለብኝ የምበላው ስጋ ነው ።
+1	መብላት	መብላት	NOUN
+3	ካለብኝ	ካለብኝ	AUX
+10	የምበላው	የምበላው	VERB
+12	ስጋ	ስጋ	NOUN
+13	ነው	ነው	AUX
+15	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x06-s19
+# text = ሰው መኖር ያለበት ባህር ዳር ነው ።
+1	ሰው	ሰው	NOUN
+2	መኖር	መኖር	NOUN
+4	ያለበት	ያለበት	VERB
+8	ባህር	ባህር	PROPN
+9	ዳር	ዳር	ADP
+10	ነው	ነው	AUX
+12	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x06-s20
+# text = ያገኘው የተመኘውን ነው ።
+2	ያገኘው	ያገኘው	VERB
+5	የተመኘውን	የተመኘውን	VERB
+9	ነው	ነው	AUX
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x07-s1
+# text = እስካሁን ማወቅ ያልቻልኩት ማን እንደወሰደው ነው ።
+2	እስካሁን	እስካሁን	NOUN
+3	ማወቅ	ማወቅ	NOUN
+6	ያልቻልኩት	ያልቻልኩት	VERB
+9	ማን	ማን	PRON
+11	እንደወሰደው	እንደወሰደው	VERB
+14	ነው	ነው	AUX
+16	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x07-s2
+# text = ቆንጆዋ ልጅ የኔ ናት ።
+1	ቆንጆዋ	ቆንጆዋ	ADJ
+3	ልጅ	ልጅ	NOUN
+5	የኔ	የኔ	PRON
+6	ናት	ናት	AUX
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x07-s3
+# text = ካሳ ጎበዝ ሆነ ።
+1	ካሳ	ካሳ	PROPN
+2	ጎበዝ	ጎበዝ	ADJ
+3	ሆነ	ሆነ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x07-s4
+# text = ካሳ ጎበዝ ነው ።
+1	ካሳ	ካሳ	PROPN
+2	ጎበዝ	ጎበዝ	ADJ
+3	ነው	ነው	AUX
+5	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x07-s5
+# text = ካሳ ጎበዝ ይመስላል ።
+1	ካሳ	ካሳ	PROPN
+2	ጎበዝ	ጎበዝ	ADJ
+4	ይመስላል	ይመስላል	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x07-s6
+# text = አሸዋ መንገድ ላይ አለ ።
+1	አሸዋ	አሸዋ	NOUN
+2	መንገድ	መንገድ	NOUN
+3	ላይ	ላይ	ADP
+4	አለ	አለ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x07-s7
+# text = አንድ ጊዜ ጎጃም ውስጥ አስተማሪ ነበር ።
+1	አንድ	አንድ	NUM
+2	ጊዜ	ጊዜ	NOUN
+3	ጎጃም	ጎጃም	PROPN
+4	ውስጥ	ውስጥ	ADP
+5	አስተማሪ	አስተማሪ	NOUN
+6	ነበር	ነበር	AUX
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x07-s8
+# text = አስቴር ወደ ቤቷ መሄድ የፈለገች ይመስላል ።
+1	አስቴር	አስቴር	PROPN
+2	ወደ	ወደ	ADP
+3	ቤቷ	ቤቷ	NOUN
+5	መሄድ	መሄድ	NOUN
+7	የፈለገች	የፈለገች	VERB
+10	ይመስላል	ይመስላል	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x07-s9
+# text = አልማዝ ታመመች ።
+1	አልማዝ	አልማዝ	PROPN
+2	ታመመች	ታመመች	VERB
+4	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x07-s10
+# text = ራበኝ ።
+1	ራበኝ	ራበኝ	VERB
+4	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x07-s11
+# text = ይሞቃል ።
+2	ይሞቃል	ይሞቃል	VERB
+4	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x07-s12
+# text = ሳህኑን ወረወሩት ።
+1	ሳህኑን	ሳህኑን	NOUN
+4	ወረወሩት	ወረወሩት	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x07-s13
+# text = ፍየል ገዙላት ።
+1	ፍየል	ፍየል	NOUN
+2	ገዙላት	ገዙላት	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x07-s14
+# text = ሚስጢሩ ገባኝ ።
+1	ሚስጢሩ	ሚስጢሩ	NOUN
+3	ገባኝ	ገባኝ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x07-s15
+# text = ነብሩ ተገደለ ።
+1	ነብሩ	ነብሩ	NOUN
+3	ተገደለ	ተገደለ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x07-s16
+# text = አልማዝ ለልደቷ ገንዘብ ተሸለመች ።
+1	አልማዝ	አልማዝ	PROPN
+3	ለልደቷ	ለልደቷ	NOUN
+5	ገንዘብ	ገንዘብ	NOUN
+6	ተሸለመች	ተሸለመች	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x07-s17
+# text = ሳህን ተሰበረላት ።
+1	ሳህን	ሳህን	NOUN
+2	ተሰበረላት	ተሰበረላት	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x07-s18
+# text = ከተማሪ~ቤት ተመለሰ ።
+2	ከተማሪ~ቤት	ከተማሪ~ቤት	NOUN
+3	ተመለሰ	ተመለሰ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x07-s19
+# text = በጣም ተለወጠ ።
+1	በጣም	በጣም	ADV
+2	ተለወጠ	ተለወጠ	VERB
+4	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x07-s20
+# text = ልጁ ተደበቀ ።
+1	ልጁ	ልጁ	NOUN
+3	ተደበቀ	ተደበቀ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x08-s1
+# text = ሰዎቹ ተሰበሰቡ ።
+1	ሰዎቹ	ሰዎቹ	NOUN
+3	ተሰበሰቡ	ተሰበሰቡ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x08-s2
+# text = ለበዓሉ ጸጉሯን ሹሩባ ተሠራች ።
+2	ለበዓሉ	ለበዓሉ	NOUN
+4	ጸጉሯን	ጸጉሯን	NOUN
+7	ሹሩባ	ሹሩባ	NOUN
+8	ተሠራች	ተሠራች	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x08-s3
+# text = ጦርነቱ ካልቆመ ሁላችንም ተሰዳጆች ነን ።
+1	ጦርነቱ	ጦርነቱ	NOUN
+5	ካልቆመ	ካልቆመ	VERB
+7	ሁላችንም	ሁላችንም	NOUN
+10	ተሰዳጆች	ተሰዳጆች	ADJ
+11	ነን	ነን	AUX
+13	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x08-s4
+# text = አስተማሪው ተዛወረ ።
+1	አስተማሪው	አስተማሪው	NOUN
+3	ተዛወረ	ተዛወረ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x08-s5
+# text = ልጁ ተደሰተ ።
+1	ልጁ	ልጁ	NOUN
+3	ተደሰተ	ተደሰተ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x08-s6
+# text = ገንዘብ ተበደረ ።
+1	ገንዘብ	ገንዘብ	NOUN
+2	ተበደረ	ተበደረ	VERB
+4	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x08-s7
+# text = ካሳ ስለቀረ ተቀየምኩት ።
+1	ካሳ	ካሳ	PROPN
+3	ስለቀረ	ስለቀረ	VERB
+5	ተቀየምኩት	ተቀየምኩት	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x08-s8
+# text = ምግቡን ተጠየፈ ።
+1	ምግቡን	ምግቡን	NOUN
+4	ተጠየፈ	ተጠየፈ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x08-s9
+# text = መኪና ውስጥ ተቀመጠ ።
+1	መኪና	መኪና	NOUN
+2	ውስጥ	ውስጥ	ADP
+3	ተቀመጠ	ተቀመጠ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x08-s10
+# text = የፈተናው ቀን ተራዘመ ።
+2	የፈተናው	የፈተናው	NOUN
+4	ቀን	ቀን	NOUN
+5	ተራዘመ	ተራዘመ	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x08-s11
+# text = ገንዘብ ተዋጣ ።
+1	ገንዘብ	ገንዘብ	NOUN
+2	ተዋጣ	ተዋጣ	VERB
+4	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x08-s12
+# text = ዳኛው በአስቴር ላይ ፈረዱባት ።
+1	ዳኛው	ዳኛው	NOUN
+4	በአስቴር	በአስቴር	PROPN
+5	ላይ	ላይ	ADP
+6	ፈረዱባት	ፈረዱባት	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x08-s13
+# text = ወደ ተራራው ለመድረስ ሁለት ቀን ፈጀባቸው ።
+1	ወደ	ወደ	ADP
+2	ተራራው	ተራራው	NOUN
+5	ለመድረስ	ለመድረስ	NOUN
+6	ሁለት	ሁለት	NUM
+7	ቀን	ቀን	NOUN
+8	ፈጀባቸው	ፈጀባቸው	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x08-s14
+# text = አስቴር በመጥረጊያው መስኮት ጠረገችበት ።
+1	አስቴር	አስቴር	PROPN
+3	በመጥረጊያው	በመጥረጊያው	NOUN
+5	መስኮት	መስኮት	NOUN
+6	ጠረገችበት	ጠረገችበት	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x08-s15
+# text = አልማዝ ሴት~ተማሪዋን አየቻት ።
+1	አልማዝ	አልማዝ	PROPN
+2	ሴት~ተማሪዋን	ሴት~ተማሪዋን	NOUN
+5	አየቻት	አየቻት	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x08-s16
+# text = አስቴር ለልጁ ምግቡን ሰራችለት ።
+1	አስቴር	አስቴር	PROPN
+3	ለልጁ	ለልጁ	NOUN
+5	ምግቡን	ምግቡን	NOUN
+8	ሰራችለት	ሰራችለት	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x08-s17
+# text = መንገዱን አጠርንበት ።
+1	መንገዱን	መንገዱን	NOUN
+4	አጠርንበት	አጠርንበት	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x08-s18
+# text = ሱቆቹ ተዘጉበት ።
+1	ሱቆቹ	ሱቆቹ	NOUN
+3	ተዘጉበት	ተዘጉበት	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x08-s19
+# text = ውሃው ፈሰሰበት ።
+1	ውሃው	ውሃው	NOUN
+3	ፈሰሰበት	ፈሰሰበት	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x08-s20
+# text = ሩጫ አልማዝን አወፈራት ።
+1	ሩጫ	ሩጫ	NOUN
+2	አልማዝን	አልማዝን	PROPN
+4	አወፈራት	አወፈራት	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x09-s1
+# text = ካሳ ሰራተኛዋን ወደጎጃም አስወሰዳት ።
+1	ካሳ	ካሳ	PROPN
+2	ሰራተኛዋን	ሰራተኛዋን	NOUN
+6	ወደጎጃም	ወደጎጃም	PROPN
+7	አስወሰዳት	አስወሰዳት	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x09-s2
+# text = አልማዝ ወተት አመጣች ።
+1	አልማዝ	አልማዝ	PROPN
+2	ወተት	ወተት	NOUN
+3	አመጣች	አመጣች	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x09-s3
+# text = አልማዝ ልጇን አስተኛች ።
+1	አልማዝ	አልማዝ	PROPN
+2	ልጇን	ልጇን	NOUN
+5	አስተኛች	አስተኛች	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x09-s4
+# text = ካሳ አልማዝን መፅሐፍ አስሸለማት ።
+1	ካሳ	ካሳ	PROPN
+2	አልማዝን	አልማዝን	PROPN
+4	መፅሐፍ	መፅሐፍ	NOUN
+5	አስሸለማት	አስሸለማት	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x09-s5
+# text = ካሳ አልማዝን ውሻ አስገደላት ።
+1	ካሳ	ካሳ	PROPN
+2	አልማዝን	አልማዝን	PROPN
+4	ውሻ	ውሻ	NOUN
+5	አስገደላት	አስገደላት	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x09-s6
+# text = ካሳ ቡና አስፈላ ።
+1	ካሳ	ካሳ	PROPN
+2	ቡና	ቡና	NOUN
+3	አስፈላ	አስፈላ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x09-s7
+# text = ካሳ ለአልማዝ ቡና አሰፈላላት ።
+1	ካሳ	ካሳ	PROPN
+3	ለአልማዝ	ለአልማዝ	PROPN
+4	ቡና	ቡና	NOUN
+5	አሰፈላላት	አሰፈላላት	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x09-s8
+# text = አስገደሉዋት ።
+1	አስገደሉዋት	አስገደሉዋት	VERB
+4	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x09-s9
+# text = የሰረቀውን ሰውዬ ዳኛው ፊት አቀረቡት ።
+2	የሰረቀውን	የሰረቀውን	VERB
+6	ሰውዬ	ሰውዬ	NOUN
+8	ዳኛው	ዳኛው	NOUN
+10	ፊት	ፊት	ADP
+11	አቀረቡት	አቀረቡት	VERB
+14	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x09-s10
+# text = ልብሱን አስቆረጠ ።
+1	ልብሱን	ልብሱን	NOUN
+4	አስቆረጠ	አስቆረጠ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x09-s11
+# text = ቤቱን አስተጠበቀ ።
+1	ቤቱን	ቤቱን	NOUN
+4	አስተጠበቀ	አስተጠበቀ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x09-s12
+# text = ጠላው አስተኛኝ ።
+1	ጠላው	ጠላው	NOUN
+3	አስተኛኝ	አስተኛኝ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x09-s13
+# text = ልብሱን አስጠበበው ።
+1	ልብሱን	ልብሱን	NOUN
+4	አስጠበበው	አስጠበበው	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x09-s14
+# text = ለፖሊስ ነግሮ ሽጉጡን አስወሰደበት ።
+2	ለፖሊስ	ለፖሊስ	NOUN
+3	ነግሮ	ነግሮ	VERB
+5	ሽጉጡን	ሽጉጡን	NOUN
+8	አስወሰደበት	አስወሰደበት	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x09-s15
+# text = መጽሐፉን አስያዛት ።
+1	መጽሐፉን	መጽሐፉን	NOUN
+4	አስያዛት	አስያዛት	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x09-s16
+# text = ከበደን እንጀራ አስበላሁት ።
+1	ከበደን	ከበደን	NOUN
+3	እንጀራ	እንጀራ	NOUN
+4	አስበላሁት	አስበላሁት	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x09-s17
+# text = ገመዱን አስረዘመው ።
+1	ገመዱን	ገመዱን	NOUN
+4	አስረዘመው	አስረዘመው	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x09-s18
+# text = ውድድሩን ማሸነፉ አስደሰተው ።
+1	ውድድሩን	ውድድሩን	NOUN
+4	ማሸነፉ	ማሸነፉ	NOUN
+6	አስደሰተው	አስደሰተው	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x09-s19
+# text = ከቤት አስወጣኋት ።
+2	ከቤት	ከቤት	NOUN
+3	አስወጣኋት	አስወጣኋት	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x09-s20
+# text = ልብስ አሳጠብኳት ።
+1	ልብስ	ልብስ	NOUN
+2	አሳጠብኳት	አሳጠብኳት	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x10-s1
+# text = ከሱቅ ሱቅ ሲዞር አስመሸኝ ።
+2	ከሱቅ	ከሱቅ	NOUN
+3	ሱቅ	ሱቅ	NOUN
+6	ሲዞር	ሲዞር	VERB
+7	አስመሸኝ	አስመሸኝ	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x10-s2
+# text = ይህ መንገድ ወደ ግቢ ያስኬዳል ።
+1	ይህ	ይህ	DET
+2	መንገድ	መንገድ	NOUN
+3	ወደ	ወደ	ADP
+4	ግቢ	ግቢ	NOUN
+6	ያስኬዳል	ያስኬዳል	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x10-s3
+# text = ጥርሴ ቆሎ አያስበላኝም ።
+1	ጥርሴ	ጥርሴ	NOUN
+3	ቆሎ	ቆሎ	NOUN
+6	አያስበላኝም	አያስበላኝም	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x10-s4
+# text = ጩኸቱ አያስተኛኝም ።
+1	ጩኸቱ	ጩኸቱ	NOUN
+5	አያስተኛኝም	አያስተኛኝም	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x10-s5
+# text = አንበሳዎቹ ተገዳደሉ ።
+1	አንበሳዎቹ	አንበሳዎቹ	NOUN
+3	ተገዳደሉ	ተገዳደሉ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x10-s6
+# text = ካሳና ሀይሉ በልጅቷ ምክንያት ድንጋይ ተወራውሩ ።
+1	ካሳና	ካሳና	PROPN
+3	ሀይሉ	ሀይሉ	PROPN
+5	በልጅቷ	በልጅቷ	NOUN
+7	ምክንያት	ምክንያት	NOUN
+8	ድንጋይ	ድንጋይ	NOUN
+9	ተወራውሩ	ተወራውሩ	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x10-s7
+# text = መንግስት ህዝቡ እርስ በእርስ አጋደለ ።
+1	መንግስት	መንግስት	NOUN
+2	ህዝቡ	ህዝቡ	NOUN
+4	እርስ	እርስ	PRON
+6	በእርስ	በእርስ	PRON
+7	አጋደለ	አጋደለ	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x10-s8
+# text = ተሽቀዳደሙ ።
+1	ተሽቀዳደሙ	ተሽቀዳደሙ	VERB
+3	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x10-s9
+# text = ካሳ እጁን ታጠበ ።
+1	ካሳ	ካሳ	PROPN
+2	እጁን	እጁን	NOUN
+5	ታጠበ	ታጠበ	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x10-s10
+# text = ሰብሮ ወረወረው ።
+1	ሰብሮ	ሰብሮ	VERB
+3	ወረወረው	ወረወረው	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x10-s11
+# text = ለወንድሟ ፍየል ገዝታ ወደጎጃም ለሰርግ ትመጣለች ።
+2	ለወንድሟ	ለወንድሟ	NOUN
+4	ፍየል	ፍየል	NOUN
+5	ገዝታ	ገዝታ	VERB
+8	ወደጎጃም	ወደጎጃም	PROPN
+10	ለሰርግ	ለሰርግ	NOUN
+12	ትመጣለች	ትመጣለች	VERB
+15	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x10-s12
+# text = ካሳ ወደከተማ ሄዶ ፣ ልብስ ገዝቶ ፣ ተመለሰ ።
+1	ካሳ	ካሳ	PROPN
+3	ወደከተማ	ወደከተማ	NOUN
+4	ሄዶ	ሄዶ	VERB
+6	፣	፣	PUNCT
+7	ልብስ	ልብስ	NOUN
+8	ገዝቶ	ገዝቶ	VERB
+10	፣	፣	PUNCT
+11	ተመለሰ	ተመለሰ	VERB
+13	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x10-s13
+# text = በሬ ገዝቶ ፣ አርዶ በላ ።
+1	በሬ	በሬ	NOUN
+2	ገዝቶ	ገዝቶ	VERB
+4	፣	፣	PUNCT
+5	አርዶ	አርዶ	VERB
+7	በላ	በላ	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x10-s14
+# text = ፈረስ ከገዛላት በኋላ መጣ ።
+1	ፈረስ	ፈረስ	NOUN
+3	ከገዛላት	ከገዛላት	VERB
+7	በኋላ	በኋላ	ADP
+8	መጣ	መጣ	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x10-s15
+# text = ምሳውን በልቶ ወደ ገበያ ሄደ ።
+1	ምሳውን	ምሳውን	NOUN
+4	በልቶ	በልቶ	VERB
+6	ወደ	ወደ	ADP
+7	ገበያ	ገበያ	NOUN
+8	ሄደ	ሄደ	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x10-s16
+# text = ምሳውን በልቶ ይሄዳል ።
+1	ምሳውን	ምሳውን	NOUN
+4	በልቶ	በልቶ	VERB
+7	ይሄዳል	ይሄዳል	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x10-s17
+# text = እናቴን ጠይቄ ልመጣና አገር ቤት እሄዳለሁ ።
+1	እናቴን	እናቴን	NOUN
+4	ጠይቄ	ጠይቄ	VERB
+7	ልመጣና	ልመጣና	VERB
+9	አገር	አገር	NOUN
+10	ቤት	ቤት	NOUN
+12	እሄዳለሁ	እሄዳለሁ	VERB
+15	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x10-s18
+# text = ለምን መጥቶ አይነግረኝም ?
+2	ለምን	ለምን	PRON
+3	መጥቶ	መጥቶ	VERB
+7	አይነግረኝም	አይነግረኝም	VERB
+10	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x10-s19
+# text = በልተህ ሳህኑን የማታጥበው ለምንድን ነው ?
+1	በልተህ	በልተህ	VERB
+3	ሳህኑን	ሳህኑን	NOUN
+10	የማታጥበው	የማታጥበው	VERB
+13	ለምንድን	ለምንድን	PRON
+14	ነው	ነው	AUX
+16	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x10-s20
+# text = ሰርቆ ያዙት ።
+1	ሰርቆ	ሰርቆ	VERB
+3	ያዙት	ያዙት	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x11-s1
+# text = ወንበር ላይ ተቀምጦ ውሃ አፈሰሰችበት ።
+1	ወንበር	ወንበር	NOUN
+2	ላይ	ላይ	ADP
+3	ተቀምጦ	ተቀምጦ	VERB
+5	ውሃ	ውሃ	NOUN
+6	አፈሰሰችበት	አፈሰሰችበት	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x11-s2
+# text = መጽሐፉን ከወንበር ላይ አንስታ ጠረጴዛው ላይ አኖረችው ።
+1	መጽሐፉን	መጽሐፉን	NOUN
+5	ከወንበር	ከወንበር	NOUN
+6	ላይ	ላይ	ADP
+7	አንስታ	አንስታ	VERB
+9	ጠረጴዛው	ጠረጴዛው	NOUN
+11	ላይ	ላይ	ADP
+12	አኖረችው	አኖረችው	VERB
+15	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x11-s3
+# text = ሶስት ወር አስረው ለቀቁት ።
+1	ሶስት	ሶስት	NUM
+2	ወር	ወር	NOUN
+3	አስረው	አስረው	VERB
+5	ለቀቁት	ለቀቁት	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x11-s4
+# text = አለና መለሰለት ።
+1	አለና	አለና	VERB
+3	መለሰለት	መለሰለት	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x11-s5
+# text = በቃኝ አለና ተነስቶ ሄደ ።
+1	በቃኝ	በቃኝ	VERB
+3	አለና	አለና	VERB
+5	ተነስቶ	ተነስቶ	VERB
+7	ሄደ	ሄደ	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x11-s6
+# text = ዘሎ ወረደ ።
+1	ዘሎ	ዘሎ	VERB
+3	ወረደ	ወረደ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x11-s7
+# text = ባሥር ደቂቃ ውስጥ እመጣለሁ አለ ።
+1	ባሥር	ባሥር	ADP
+3	ደቂቃ	ደቂቃ	NOUN
+4	ውስጥ	ውስጥ	ADP
+6	እመጣለሁ	እመጣለሁ	VERB
+9	አለ	አለ	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x11-s8
+# text = ሞተሩን ልጠግነው እችላለሁ ብሎ ነበር ።
+1	ሞተሩን	ሞተሩን	NOUN
+5	ልጠግነው	ልጠግነው	VERB
+7	እችላለሁ	እችላለሁ	PRON
+11	ብሎ	ብሎ	VERB
+13	ነበር	ነበር	AUX
+14	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x11-s9
+# text = አተርፍ ሲል አጐደለ ።
+1	አተርፍ	አተርፍ	VERB
+4	ሲል	ሲል	VERB
+5	አጐደለ	አጐደለ	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x11-s10
+# text = የስራ ጓደኞቼ ከኔ ጋር አንሰራም አሉ ።
+2	የስራ	የስራ	NOUN
+3	ጓደኞቼ	ጓደኞቼ	NOUN
+6	ከኔ	ከኔ	PRON
+7	ጋር	ጋር	ADP
+10	አንሰራም	አንሰራም	VERB
+12	አሉ	አሉ	VERB
+14	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x11-s11
+# text = ለፋሲካ አዲስ ልብስ ያስፈልገኛል አለች ።
+2	ለፋሲካ	ለፋሲካ	NOUN
+3	አዲስ	አዲስ	ADJ
+4	ልብስ	ልብስ	NOUN
+6	ያስፈልገኛል	ያስፈልገኛል	VERB
+9	አለች	አለች	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x11-s12
+# text = ወንጀለኛ አስጠግተሃል ተብሎ ተይዞ ነበር ።
+1	ወንጀለኛ	ወንጀለኛ	NOUN
+2	አስጠግተሃል	አስጠግተሃል	VERB
+5	ተብሎ	ተብሎ	VERB
+7	ተይዞ	ተይዞ	VERB
+9	ነበር	ነበር	AUX
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x11-s13
+# text = ኩባንያው ውሉን አልሰርዝም አለ ።
+1	ኩባንያው	ኩባንያው	NOUN
+3	ውሉን	ውሉን	NOUN
+7	አልሰርዝም	አልሰርዝም	VERB
+9	አለ	አለ	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x11-s14
+# text = ምናልባት አልመጣም ስላለ አልጠበቅሁትም ።
+1	ምናልባት	ምናልባት	INTJ
+3	አልመጣም	አልመጣም	VERB
+6	ስላለ	ስላለ	VERB
+9	አልጠበቅሁትም	አልጠበቅሁትም	VERB
+13	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x11-s15
+# text = ልጁን ማገዶ አምጣ ብለውት ወደ ዱር ለመሄድ አልደፍር አለ ።
+1	ልጁን	ልጁን	NOUN
+4	ማገዶ	ማገዶ	NOUN
+5	አምጣ	አምጣ	VERB
+7	ብለውት	ብለውት	VERB
+10	ወደ	ወደ	ADP
+11	ዱር	ዱር	NOUN
+13	ለመሄድ	ለመሄድ	NOUN
+15	አልደፍር	አልደፍር	VERB
+16	አለ	አለ	VERB
+18	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x11-s16
+# text = በረኛው አላስገባም አለው ።
+1	በረኛው	በረኛው	NOUN
+4	አላስገባም	አላስገባም	VERB
+7	አለው	አለው	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x11-s17
+# text = አልታዘዘኝ አለ ።
+2	አልታዘዘኝ	አልታዘዘኝ	VERB
+4	አለ	አለ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x11-s18
+# text = አላግዘኝ አለች ።
+2	አላግዘኝ	አላግዘኝ	VERB
+4	አለች	አለች	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x11-s19
+# text = ከሰዓት በኋላ አግዝሻለሁ ብሏል በላት ።
+2	ከሰዓት	ከሰዓት	NOUN
+3	በኋላ	በኋላ	ADP
+4	አግዝሻለሁ	አግዝሻለሁ	VERB
+8	ብሏል	ብሏል	VERB
+11	በላት	በላት	VERB
+13	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x11-s20
+# text = ከድልድዩ እዘላለሁ ቢል አታደርገውም ብለው ገፋፉት ።
+2	ከድልድዩ	ከድልድዩ	NOUN
+5	እዘላለሁ	እዘላለሁ	VERB
+8	ቢል	ቢል	VERB
+11	አታደርገውም	አታደርገውም	VERB
+15	ብለው	ብለው	VERB
+17	ገፋፉት	ገፋፉት	VERB
+19	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x12-s1
+# text = ምን አድርግ እንደምትለኝ እርግጠኛ አይደለሁም ።
+1	ምን	ምን	PRON
+2	አድርግ	አድርግ	VERB
+5	እንደምትለኝ	እንደምትለኝ	VERB
+8	እርግጠኛ	እርግጠኛ	ADJ
+9	አይደለሁም	አይደለሁም	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x12-s2
+# text = መምህሩ ተማሪዎቹን ተሰለፉ አላቸው ።
+1	መምህሩ	መምህሩ	NOUN
+3	ተማሪዎቹን	ተማሪዎቹን	NOUN
+6	ተሰለፉ	ተሰለፉ	VERB
+8	አላቸው	አላቸው	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x12-s3
+# text = ደግ ሰው ነው ይባላል ።
+1	ደግ	ደግ	ADJ
+2	ሰው	ሰው	NOUN
+3	ነው	ነው	AUX
+6	ይባላል	ይባላል	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x12-s4
+# text = እረኛውን አይቼዋለሁ ብሎ የምስክርነት ቃሉን ሰጠ ።
+1	እረኛውን	እረኛውን	NOUN
+4	አይቼዋለሁ	አይቼዋለሁ	VERB
+9	ብሎ	ብሎ	VERB
+12	የምስክርነት	የምስክርነት	NOUN
+13	ቃሉን	ቃሉን	NOUN
+16	ሰጠ	ሰጠ	VERB
+18	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x12-s5
+# text = በሳምንት አንድ ሺህ ብር አገኛለሁ ሲል ተጠራጠርኩት ።
+2	በሳምንት	በሳምንት	NOUN
+3	አንድ	አንድ	NUM
+4	ሺህ	ሺህ	NUM
+5	ብር	ብር	NOUN
+6	አገኛለሁ	አገኛለሁ	VERB
+11	ሲል	ሲል	VERB
+12	ተጠራጠርኩት	ተጠራጠርኩት	VERB
+15	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x12-s6
+# text = ባንዳንድ ባህል መለኵሴዎች በድንግልና እንኖራለን ብለው መማል አለባቸው ።
+2	ባንዳንድ	ባንዳንድ	NUM
+3	ባህል	ባህል	NOUN
+4	መለኵሴዎች	መለኵሴዎች	NOUN
+6	በድንግልና	በድንግልና	NOUN
+8	እንኖራለን	እንኖራለን	VERB
+11	ብለው	ብለው	VERB
+13	መማል	መማል	NOUN
+14	አለባቸው	አለባቸው	VERB
+18	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x12-s7
+# text = ገንዘብ ያበድርሃል ብሎ የነገረህ ማን ነው ?
+1	ገንዘብ	ገንዘብ	NOUN
+3	ያበድርሃል	ያበድርሃል	VERB
+6	ብሎ	ብሎ	VERB
+9	የነገረህ	የነገረህ	VERB
+11	ማን	ማን	PRON
+12	ነው	ነው	AUX
+14	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x12-s8
+# text = አትምጣ ብለህ ካልጻፍክልኝ በስተቀር ማክሰኞ እመጣለሁ ።
+3	አትምጣ	አትምጣ	VERB
+4	ብለህ	ብለህ	VERB
+8	ካልጻፍክልኝ	ካልጻፍክልኝ	VERB
+12	በስተቀር	በስተቀር	ADP
+13	ማክሰኞ	ማክሰኞ	NOUN
+15	እመጣለሁ	እመጣለሁ	VERB
+18	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x12-s9
+# text = ሰዎች ሰይጣን አለ ብለው ያምናሉ ።
+1	ሰዎች	ሰዎች	NOUN
+2	ሰይጣን	ሰይጣን	NOUN
+3	አለ	አለ	VERB
+5	ብለው	ብለው	VERB
+8	ያምናሉ	ያምናሉ	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x12-s10
+# text = ምን ብዬ ልመልስላቸው ?
+1	ምን	ምን	PRON
+2	ብዬ	ብዬ	VERB
+5	ልመልስላቸው	ልመልስላቸው	VERB
+8	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x12-s11
+# text = ተከሳሹ ሰው ጥፋተኛ ነህ ተብሎ ተፈረደበት ።
+1	ተከሳሹ	ተከሳሹ	NOUN
+3	ሰው	ሰው	NOUN
+4	ጥፋተኛ	ጥፋተኛ	ADJ
+5	ነህ	ነህ	AUX
+7	ተብሎ	ተብሎ	VERB
+9	ተፈረደበት	ተፈረደበት	VERB
+13	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x12-s12
+# text = ተቀምጠን እንሠራለን ።
+1	ተቀምጠን	ተቀምጠን	VERB
+4	እንሠራለን	እንሠራለን	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x12-s13
+# text = ነቅታ መቆየት አልቻለችም ።
+1	ነቅታ	ነቅታ	VERB
+3	መቆየት	መቆየት	NOUN
+5	አልቻለችም	አልቻለችም	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x12-s14
+# text = ዝናብ ዘንቦ መሬቱ ረጥቦ ነበር ።
+1	ዝናብ	ዝናብ	NOUN
+2	ዘንቦ	ዘንቦ	VERB
+4	መሬቱ	መሬቱ	NOUN
+6	ረጥቦ	ረጥቦ	VERB
+8	ነበር	ነበር	AUX
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x12-s15
+# text = አቶ ካሳ ለእስራ~ዘመኑ አስር ችግኝ ተከሉ ።
+1	አቶ	አቶ	ADJ
+2	ካሳ	ካሳ	PROPN
+4	ለእስራ~ዘመኑ	ለእስራ~ዘመኑ	NOUN
+6	አስር	አስር	NUM
+7	ችግኝ	ችግኝ	NOUN
+8	ተከሉ	ተከሉ	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x12-s16
+# text = አስቴር ክፉ ሴት ነች ።
+1	አስቴር	አስቴር	PROPN
+2	ክፉ	ክፉ	ADJ
+3	ሴት	ሴት	NOUN
+4	ነች	ነች	AUX
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x12-s17
+# text = ስጋው ጮማ ነው ።
+1	ስጋው	ስጋው	NOUN
+3	ጮማ	ጮማ	NOUN
+4	ነው	ነው	AUX
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x12-s18
+# text = ልጆቹ ክፍል ውስጥ አሉ ።
+1	ልጆቹ	ልጆቹ	NOUN
+3	ክፍል	ክፍል	NOUN
+4	ውስጥ	ውስጥ	ADP
+5	አሉ	አሉ	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x12-s19
+# text = ካሳ ረዥም ይመስላል ።
+1	ካሳ	ካሳ	PROPN
+2	ረዥም	ረዥም	ADJ
+4	ይመስላል	ይመስላል	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x12-s20
+# text = ሴቶቹ ሰከሩ ።
+1	ሴቶቹ	ሴቶቹ	NOUN
+3	ሰከሩ	ሰከሩ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x12-s21
+# text = ሴቶቹ ሰካራም ሆኑ ።
+1	ሴቶቹ	ሴቶቹ	NOUN
+3	ሰካራም	ሰካራም	ADJ
+4	ሆኑ	ሆኑ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x13-s1
+# text = ካሳ ተደሰተ ።
+1	ካሳ	ካሳ	PROPN
+2	ተደሰተ	ተደሰተ	VERB
+4	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x13-s2
+# text = ልጆቹ ተበሳጩ ።
+1	ልጆቹ	ልጆቹ	NOUN
+3	ተበሳጩ	ተበሳጩ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x13-s3
+# text = አስቴር ወደ ቤት ገባች ።
+1	አስቴር	አስቴር	PROPN
+2	ወደ	ወደ	ADP
+3	ቤት	ቤት	NOUN
+4	ገባች	ገባች	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x13-s4
+# text = ልጁ በር ላይ ቆመ ።
+1	ልጁ	ልጁ	NOUN
+3	በር	በር	NOUN
+4	ላይ	ላይ	ADP
+5	ቆመ	ቆመ	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x13-s5
+# text = ዶሮዎቹ ቆጥ ላይ ሰፈሩ ።
+1	ዶሮዎቹ	ዶሮዎቹ	NOUN
+3	ቆጥ	ቆጥ	NOUN
+4	ላይ	ላይ	ADP
+5	ሰፈሩ	ሰፈሩ	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x13-s6
+# text = ልጆቹ ወንበር ላይ ተቀመጡ ።
+1	ልጆቹ	ልጆቹ	NOUN
+3	ወንበር	ወንበር	NOUN
+4	ላይ	ላይ	ADP
+5	ተቀመጡ	ተቀመጡ	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x13-s7
+# text = አንበሳው ተንጠራራ ።
+1	አንበሳው	አንበሳው	NOUN
+3	ተንጠራራ	ተንጠራራ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x13-s8
+# text = ካሳ ንብረት ተረከበ ።
+1	ካሳ	ካሳ	PROPN
+2	ንብረት	ንብረት	NOUN
+3	ተረከበ	ተረከበ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x13-s9
+# text = ተማሪው ደብተሩን ቀደደው ።
+1	ተማሪው	ተማሪው	NOUN
+3	ደብተሩን	ደብተሩን	NOUN
+6	ቀደደው	ቀደደው	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x13-s10
+# text = አስተማሪው ለተማሪዎች መፅሀፍ ሰጣቸው ።
+1	አስተማሪው	አስተማሪው	NOUN
+4	ለተማሪዎች	ለተማሪዎች	NOUN
+5	መፅሀፍ	መፅሀፍ	NOUN
+6	ሰጣቸው	ሰጣቸው	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x13-s11
+# text = ካሳ ለወታደሮች ገንዘብ ሰጠ ።
+1	ካሳ	ካሳ	PROPN
+3	ለወታደሮች	ለወታደሮች	NOUN
+4	ገንዘብ	ገንዘብ	NOUN
+5	ሰጠ	ሰጠ	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x13-s12
+# text = ካሳ ነገር አስቧል ።
+1	ካሳ	ካሳ	PROPN
+2	ነገር	ነገር	NOUN
+3	አስቧል	አስቧል	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x13-s13
+# text = አስቴር ጥፋትዋን አምናለች ።
+1	አስቴር	አስቴር	PROPN
+2	ጥፋትዋን	ጥፋትዋን	NOUN
+5	አምናለች	አምናለች	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x13-s14
+# text = አስቴር ገንዘብ ትፈልጋለች ።
+1	አስቴር	አስቴር	PROPN
+2	ገንዘብ	ገንዘብ	NOUN
+4	ትፈልጋለች	ትፈልጋለች	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x13-s15
+# text = አስተማሪው ስራ ይጠላል ።
+1	አስተማሪው	አስተማሪው	NOUN
+3	ስራ	ስራ	NOUN
+5	ይጠላል	ይጠላል	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x13-s16
+# text = ንጉስን ያከብሩአል ።
+1	ንጉስን	ንጉስን	NOUN
+4	ያከብሩአል	ያከብሩአል	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x13-s17
+# text = አስቴር ተሹማለች ።
+1	አስቴር	አስቴር	PROPN
+2	ተሹማለች	ተሹማለች	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x13-s18
+# text = ቡናው ተወቅጦአል ።
+1	ቡናው	ቡናው	NOUN
+3	ተወቅጦአል	ተወቅጦአል	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x13-s19
+# text = ንብረት ይዘረፉአል ።
+1	ንብረት	ንብረት	NOUN
+3	ይዘረፉአል	ይዘረፉአል	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x13-s20
+# text = ወተቱ ፈልቷል ።
+1	ወተቱ	ወተቱ	NOUN
+3	ፈልቷል	ፈልቷል	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x14-s1
+# text = ካሳ በግ አልገዛም እንዴ ?
+1	ካሳ	ካሳ	PROPN
+2	በግ	በግ	NOUN
+4	አልገዛም	አልገዛም	VERB
+7	እንዴ	እንዴ	INTJ
+8	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x14-s2
+# text = አስቴር ክፉ ሴት አይደለችም ።
+1	አስቴር	አስቴር	PROPN
+2	ክፉ	ክፉ	ADJ
+3	ሴት	ሴት	NOUN
+4	አይደለችም	አይደለችም	AUX
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x14-s3
+# text = ወይዘሮ አስቴር ለአውዳ ዓመት ምንም ልብስ አልገዙም ።
+1	ወይዘሮ	ወይዘሮ	ADJ
+2	አስቴር	አስቴር	PROPN
+3	ለአውዳ	ለአውዳ	ADP
+5	ዓመት	ዓመት	NOUN
+6	ምንም	ምንም	PRON
+7	ልብስ	ልብስ	NOUN
+9	አልገዙም	አልገዙም	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x14-s4
+# text = አስቴር ምንም ልብስ አልገዛችም ።
+1	አስቴር	አስቴር	PROPN
+2	ምንም	ምንም	PRON
+3	ልብስ	ልብስ	NOUN
+5	አልገዛችም	አልገዛችም	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x14-s5
+# text = ማንም አልመጣም ።
+1	ማንም	ማንም	PRON
+3	አልመጣም	አልመጣም	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x14-s6
+# text = ከእናቱ ጋር ምሳ የበላው ካሳ አይደለም ።
+2	ከእናቱ	ከእናቱ	NOUN
+4	ጋር	ጋር	ADP
+5	ምሳ	ምሳ	NOUN
+7	የበላው	የበላው	VERB
+9	ካሳ	ካሳ	PROPN
+10	አይደለም	አይደለም	VERB
+13	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x14-s7
+# text = ካሳ ከእናቱ ጋር የበላው ምሳ አይደለም ።
+1	ካሳ	ካሳ	PROPN
+3	ከእናቱ	ከእናቱ	NOUN
+5	ጋር	ጋር	ADP
+7	የበላው	የበላው	VERB
+9	ምሳ	ምሳ	NOUN
+10	አይደለም	አይደለም	VERB
+13	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x14-s8
+# text = ብዙ ህፃናት ያለረዳት ያድጋሉ ።
+1	ብዙ	ብዙ	DET
+2	ህፃናት	ህፃናት	NOUN
+4	ያለረዳት	ያለረዳት	NOUN
+6	ያድጋሉ	ያድጋሉ	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x14-s9
+# text = ካሳ ያለትዳር ብዙ ጊዜ ኖሮአል ።
+1	ካሳ	ካሳ	PROPN
+3	ያለትዳር	ያለትዳር	NOUN
+4	ብዙ	ብዙ	NUM
+5	ጊዜ	ጊዜ	NOUN
+6	ኖሮአል	ኖሮአል	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x14-s10
+# text = ማንም ለማንም ምንም አይሰጥም ።
+1	ማንም	ማንም	PRON
+3	ለማንም	ለማንም	PRON
+4	ምንም	ምንም	PRON
+7	አይሰጥም	አይሰጥም	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x14-s11
+# text = ነጋዴው ከስሮ ቀረ ።
+1	ነጋዴው	ነጋዴው	NOUN
+3	ከስሮ	ከስሮ	VERB
+5	ቀረ	ቀረ	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x14-s12
+# text = ማንም ለምሳ አልቀረም ።
+1	ማንም	ማንም	PRON
+3	ለምሳ	ለምሳ	NOUN
+5	አልቀረም	አልቀረም	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x14-s13
+# text = ተማሪው ካልተጠነቀቁ ብዙ ስሕተት ሳይሠራ አይቀርም ።
+1	ተማሪው	ተማሪው	NOUN
+5	ካልተጠነቀቁ	ካልተጠነቀቁ	VERB
+7	ብዙ	ብዙ	ADJ
+8	ስሕተት	ስሕተት	NOUN
+11	ሳይሠራ	ሳይሠራ	VERB
+15	አይቀርም	አይቀርም	VERB
+17	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x14-s14
+# text = ምንም እንኳ ሥራ ቢበዛበት መምጣቱ አይቀርም ።
+1	ምንም	ምንም	ADV
+2	እንኳ	እንኳ	SCONJ
+3	ሥራ	ሥራ	NOUN
+6	ቢበዛበት	ቢበዛበት	VERB
+9	መምጣቱ	መምጣቱ	NOUN
+13	አይቀርም	አይቀርም	VERB
+15	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x14-s15
+# text = ወደድክም ጠላህም እሷ እንደሆን መምጣቷ አይቅርም ።
+1	ወደድክም	ወደድክም	VERB
+4	ጠላህም	ጠላህም	VERB
+7	እሷ	እሷ	PRON
+8	እንደሆን	እንደሆን	INTJ
+9	መምጣቷ	መምጣቷ	NOUN
+13	አይቅርም	አይቅርም	VERB
+15	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x14-s16
+# text = ገንዘብ ይኖረኝ አይኖረኝ እንደሆን አላውቅም ።
+1	ገንዘብ	ገንዘብ	NOUN
+3	ይኖረኝ	ይኖረኝ	VERB
+7	አይኖረኝ	አይኖረኝ	VERB
+9	እንደሆን	እንደሆን	INTJ
+11	አላውቅም	አላውቅም	VERB
+13	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x14-s17
+# text = ለበዓል ምን ገዛህ ?
+2	ለበዓል	ለበዓል	NOUN
+3	ምን	ምን	PRON
+4	ገዛህ	ገዛህ	VERB
+6	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x14-s18
+# text = ካሳ መጣ እንዴ ?
+1	ካሳ	ካሳ	PROPN
+2	መጣ	መጣ	VERB
+4	እንዴ	እንዴ	INTJ
+5	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x14-s19
+# text = ዓመት በዓል ደረሰ እንዴ ?
+1	ዓመት	ዓመት	NOUN
+2	በዓል	በዓል	NOUN
+3	ደረሰ	ደረሰ	VERB
+5	እንዴ	እንዴ	INTJ
+6	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x14-s20
+# text = ስልክ ደወልክ ወይ ?
+1	ስልክ	ስልክ	NOUN
+2	ደወልክ	ደወልክ	VERB
+4	ወይ	ወይ	INTJ
+5	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x15-s1
+# text = ማን ምን አደረገ ?
+1	ማን	ማን	PRON
+2	ምን	ምን	PRON
+3	አደረገ	አደረገ	VERB
+5	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x15-s2
+# text = ማን ምን በላ ?
+1	ማን	ማን	PRON
+2	ምን	ምን	PRON
+3	በላ	በላ	VERB
+5	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x15-s3
+# text = እስካሁን እንዴት እዚህ ቆየህ ?
+2	እስካሁን	እስካሁን	NOUN
+3	እንዴት	እንዴት	PRON
+4	እዚህ	እዚህ	DET
+5	ቆየህ	ቆየህ	VERB
+7	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x15-s4
+# text = ወንዙ ምን ያህል ይረዝማል ?
+1	ወንዙ	ወንዙ	NOUN
+3	ምን	ምን	ADV
+4	ያህል	ያህል	ADJ
+6	ይረዝማል	ይረዝማል	VERB
+8	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x15-s5
+# text = አዲስ አበባ ነገ ትሄዳለህ ?
+1	አዲስ	አዲስ	NOUN
+2	አበባ	አበባ	NOUN
+3	ነገ	ነገ	ADV
+5	ትሄዳለህ	ትሄዳለህ	VERB
+8	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x15-s6
+# text = ጠጅ አምጣ !
+1	ጠጅ	ጠጅ	NOUN
+2	አምጣ	አምጣ	VERB
+4	!	!	PUNCT
+
+# sent_id = data_UD-third_apple_2-x15-s7
+# text = ተው !
+1	ተው	ተው	VERB
+2	!	!	PUNCT
+
+# sent_id = data_UD-third_apple_2-x15-s8
+# text = ካሳ ልብስ ይጠብ !
+1	ካሳ	ካሳ	PROPN
+2	ልብስ	ልብስ	NOUN
+4	ይጠብ	ይጠብ	VERB
+5	!	!	PUNCT
+
+# sent_id = data_UD-third_apple_2-x15-s9
+# text = ልብሱን እጠበው !
+1	ልብሱን	ልብሱን	NOUN
+4	እጠበው	እጠበው	VERB
+6	!	!	PUNCT
+
+# sent_id = data_UD-third_apple_2-x15-s10
+# text = ልብስ እጠብ !
+1	ልብስ	ልብስ	NOUN
+2	እጠብ	እጠብ	VERB
+3	!	!	PUNCT
+
+# sent_id = data_UD-third_apple_2-x15-s11
+# text = በል ብላ !
+1	በል	በል	VERB
+2	ብላ	ብላ	VERB
+3	!	!	PUNCT
+
+# sent_id = data_UD-third_apple_2-x15-s12
+# text = ልብስ ትጠብ !
+1	ልብስ	ልብስ	NOUN
+3	ትጠብ	ትጠብ	VERB
+4	!	!	PUNCT
+
+# sent_id = data_UD-third_apple_2-x15-s13
+# text = እንጀራ ትጋግር !
+1	እንጀራ	እንጀራ	NOUN
+3	ትጋግር	ትጋግር	VERB
+4	!	!	PUNCT
+
+# sent_id = data_UD-third_apple_2-x15-s14
+# text = ላንድ ሰዓት ያህል እዚህ ብትቆይ ?
+1	ላንድ	ላንድ	ADP
+3	ሰዓት	ሰዓት	NOUN
+5	ያህል	ያህል	VERB
+6	እዚህ	እዚህ	DET
+9	ብትቆይ	ብትቆይ	VERB
+10	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x15-s15
+# text = ጨውን ብታቀብለኝ ?
+1	ጨውን	ጨውን	NOUN
+5	ብታቀብለኝ	ብታቀብለኝ	VERB
+7	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x15-s16
+# text = ሹራቡን ልበሺ !
+1	ሹራቡን	ሹራቡን	NOUN
+4	ልበሺ	ልበሺ	VERB
+6	!	!	PUNCT
+
+# sent_id = data_UD-third_apple_2-x15-s17
+# text = መኝታ ቤት ሂድና ኮቴን አምጣልኝ !
+1	መኝታ	መኝታ	NOUN
+2	ቤት	ቤት	NOUN
+3	ሂድና	ሂድና	VERB
+5	ኮቴን	ኮቴን	NOUN
+8	አምጣልኝ	አምጣልኝ	VERB
+12	!	!	PUNCT
+
+# sent_id = data_UD-third_apple_2-x15-s18
+# text = ምነው ቢበሉ !
+1	ምነው	ምነው	DET
+4	ቢበሉ	ቢበሉ	VERB
+6	!	!	PUNCT
+
+# sent_id = data_UD-third_apple_2-x15-s19
+# text = የካሳ ቤት የመስራት ዓላማ ገረመኝ ።
+2	የካሳ	የካሳ	PROPN
+3	ቤት	ቤት	NOUN
+5	የመስራት	የመስራት	NOUN
+6	ዓላማ	ዓላማ	NOUN
+7	ገረመኝ	ገረመኝ	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x15-s20
+# text = አስቴርን የሰደቡአት ልጆች ታሰሩ ።
+1	አስቴርን	አስቴርን	PROPN
+4	የሰደቡአት	የሰደቡአት	VERB
+7	ልጆች	ልጆች	NOUN
+8	ታሰሩ	ታሰሩ	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x16-s1
+# text = አስቴር ገንዘብ የላከችለት ሰው ዘገየ ።
+1	አስቴር	አስቴር	PROPN
+2	ገንዘብ	ገንዘብ	NOUN
+4	የላከችለት	የላከችለት	VERB
+8	ሰው	ሰው	NOUN
+9	ዘገየ	ዘገየ	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x16-s2
+# text = የአስቴር ቤት የመስራት አላማ ከሸፈ ።
+2	የአስቴር	የአስቴር	PROPN
+3	ቤት	ቤት	NOUN
+5	የመስራት	የመስራት	NOUN
+6	አላማ	አላማ	NOUN
+7	ከሸፈ	ከሸፈ	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x16-s3
+# text = ካሳ የሄደበት ሀገር ሩቅ ነው ።
+1	ካሳ	ካሳ	PROPN
+3	የሄደበት	የሄደበት	VERB
+7	ሀገር	ሀገር	NOUN
+8	ሩቅ	ሩቅ	ADJ
+9	ነው	ነው	AUX
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x16-s4
+# text = አስቴር ሰጥታኝ የነበረው መኪና ያምራል ።
+1	አስቴር	አስቴር	PROPN
+2	ሰጥታኝ	ሰጥታኝ	VERB
+8	የነበረው	የነበረው	DET
+9	መኪና	መኪና	NOUN
+11	ያምራል	ያምራል	VERB
+13	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x16-s5
+# text = ብርጭቆ የሰበረው ልጅ መጣ ።
+1	ብርጭቆ	ብርጭቆ	NOUN
+3	የሰበረው	የሰበረው	VERB
+6	ልጅ	ልጅ	NOUN
+7	መጣ	መጣ	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x16-s6
+# text = ካሳ የገባበት ቤት ጠባብ ነው ።
+1	ካሳ	ካሳ	PROPN
+3	የገባበት	የገባበት	VERB
+7	ቤት	ቤት	NOUN
+8	ጠባብ	ጠባብ	ADJ
+9	ነው	ነው	AUX
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x16-s7
+# text = የልጁ ቤት እዚህ ነው ።
+2	የልጁ	የልጁ	NOUN
+4	ቤት	ቤት	NOUN
+5	እዚህ	እዚህ	ADV
+6	ነው	ነው	AUX
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x16-s8
+# text = ወድቆ የነበረው ቤት የአስተማሪው ነው ።
+1	ወድቆ	ወድቆ	VERB
+6	የነበረው	የነበረው	DET
+7	ቤት	ቤት	NOUN
+9	የአስተማሪው	የአስተማሪው	NOUN
+11	ነው	ነው	AUX
+13	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x16-s9
+# text = በእድሜ እንደ አንተ ካሉ ብላቴኖች ይልቅ ፊታችሁ ከስቶ ያየ እንደሆነ ያዝናል ።
+2	በእድሜ	በእድሜ	NOUN
+3	እንደ	እንደ	ADP
+4	አንተ	አንተ	PRON
+6	ካሉ	ካሉ	VERB
+8	ብላቴኖች	ብላቴኖች	NOUN
+9	ይልቅ	ይልቅ	ADV
+10	ፊታችሁ	ፊታችሁ	NOUN
+12	ከስቶ	ከስቶ	VERB
+15	ያየ	ያየ	VERB
+17	እንደሆነ	እንደሆነ	SCONJ
+21	ያዝናል	ያዝናል	VERB
+23	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x16-s10
+# text = የዘላለምን ሒወትን እንዳገኝ ምን ላድርግ ?
+2	የዘላለምን	የዘላለምን	NOUN
+4	ሒወትን	ሒወትን	NOUN
+7	እንዳገኝ	እንዳገኝ	VERB
+8	ምን	ምን	PRON
+10	ላድርግ	ላድርግ	VERB
+11	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x16-s11
+# text = ሥራውን ሊጨርስ ሲል ስሕተት መሥራቱን ተገነዘበ ።
+1	ሥራውን	ሥራውን	NOUN
+6	ሊጨርስ	ሊጨርስ	VERB
+9	ሲል	ሲል	VERB
+10	ስሕተት	ስሕተት	NOUN
+11	መሥራቱን	መሥራቱን	NOUN
+14	ተገነዘበ	ተገነዘበ	VERB
+16	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x16-s12
+# text = የኢኮኖሚው ውድቀት የማይቀር ነው እንበል ።
+2	የኢኮኖሚው	የኢኮኖሚው	NOUN
+4	ውድቀት	ውድቀት	NOUN
+9	የማይቀር	የማይቀር	VERB
+10	ነው	ነው	AUX
+13	እንበል	እንበል	VERB
+14	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x16-s13
+# text = ኩባንያው እስከላባረረው ድረስ ይቆያል ።
+1	ኩባንያው	ኩባንያው	NOUN
+5	እስከላባረረው	እስከላባረረው	VERB
+7	ድረስ	ድረስ	ADP
+9	ይቆያል	ይቆያል	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x16-s14
+# text = ወደ አገር ቤት በሄድኩ ጊዜ ማንንም አልጠየኩም ።
+1	ወደ	ወደ	ADP
+2	አገር	አገር	NOUN
+3	ቤት	ቤት	NOUN
+5	በሄድኩ	በሄድኩ	VERB
+7	ጊዜ	ጊዜ	NOUN
+8	ማንንም	ማንንም	PRON
+12	አልጠየኩም	አልጠየኩም	VERB
+15	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x16-s15
+# text = ትምህርት ቤት በሄድኩ ቁጥር ኳስ እጫወታለሁ ።
+1	ትምህርት	ትምህርት	NOUN
+2	ቤት	ቤት	NOUN
+4	በሄድኩ	በሄድኩ	VERB
+6	ቁጥር	ቁጥር	NOUN
+7	ኳስ	ኳስ	NOUN
+9	እጫወታለሁ	እጫወታለሁ	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x16-s16
+# text = ምን ያህል ጊዜ አየሃት ?
+1	ምን	ምን	ADV
+2	ያህል	ያህል	ADJ
+3	ጊዜ	ጊዜ	NOUN
+4	አየሃት	አየሃት	VERB
+7	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x16-s17
+# text = ገንዘቡን ማን እንደሰጣት ንገረን ?
+1	ገንዘቡን	ገንዘቡን	NOUN
+4	ማን	ማን	PRON
+6	እንደሰጣት	እንደሰጣት	VERB
+9	ንገረን	ንገረን	VERB
+12	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x16-s18
+# text = ከጥቂት ልምምድ በኋላ የተሻለ አድርገው ሠሩት ።
+1	ከጥቂት	ከጥቂት	ADP
+3	ልምምድ	ልምምድ	NOUN
+4	በኋላ	በኋላ	ADP
+6	የተሻለ	የተሻለ	VERB
+8	አድርገው	አድርገው	AUX
+10	ሠሩት	ሠሩት	VERB
+13	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x16-s19
+# text = ምሳውን ያልበላ እንደሆነ እንዲጫወት አትፍቀድለት ።
+1	ምሳውን	ምሳውን	NOUN
+6	ያልበላ	ያልበላ	VERB
+9	እንደሆነ	እንደሆነ	VERB
+13	እንዲጫወት	እንዲጫወት	VERB
+16	አትፍቀድለት	አትፍቀድለት	VERB
+19	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x16-s20
+# text = ከተማ የምትሄድ እንደሆነ ጥራኝ ።
+1	ከተማ	ከተማ	NOUN
+5	የምትሄድ	የምትሄድ	VERB
+7	እንደሆነ	እንደሆነ	VERB
+9	ጥራኝ	ጥራኝ	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x17-s1
+# text = የምትሄድ ከሆነ ይህን መጽሐፍ መልስልኝ ።
+4	የምትሄድ	የምትሄድ	VERB
+6	ከሆነ	ከሆነ	VERB
+8	ይህን	ይህን	DET
+10	መጽሐፍ	መጽሐፍ	NOUN
+11	መልስልኝ	መልስልኝ	VERB
+14	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x17-s2
+# text = በጫካ ውስጥ የምትጓዝ ከሆነ መሣሪያ መያዝ አለብህ ።
+2	በጫካ	በጫካ	NOUN
+3	ውስጥ	ውስጥ	ADP
+7	የምትጓዝ	የምትጓዝ	VERB
+9	ከሆነ	ከሆነ	VERB
+11	መሣሪያ	መሣሪያ	NOUN
+12	መያዝ	መያዝ	NOUN
+13	አለብህ	አለብህ	VERB
+16	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x17-s3
+# text = በምን ያርሳሉ ? በበሬ ነዋ ።
+2	በምን	በምን	PRON
+4	ያርሳሉ	ያርሳሉ	VERB
+7	?	?	PUNCT
+9	በበሬ	በበሬ	NOUN
+10	ነዋ	ነዋ	AUX
+13	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x17-s4
+# text = እንጀራውን ምን አረግሽው ? በላሁታ ።
+1	እንጀራውን	እንጀራውን	NOUN
+4	ምን	ምን	PRON
+5	አረግሽው	አረግሽው	VERB
+8	?	?	PUNCT
+9	በላሁታ	በላሁታ	VERB
+13	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x17-s5
+# text = ዛሬ ለምን አልመጣም ? እሁድ አይሠሩማ ።
+1	ዛሬ	ዛሬ	ADV
+3	ለምን	ለምን	PRON
+5	አልመጣም	አልመጣም	VERB
+8	?	?	PUNCT
+9	እሁድ	እሁድ	NOUN
+12	አይሠሩማ	አይሠሩማ	VERB
+16	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x17-s6
+# text = ሂዳ !
+1	ሂዳ	ሂዳ	VERB
+3	!	!	PUNCT
+
+# sent_id = data_UD-third_apple_2-x17-s7
+# text = እኔን ለማየት ፈልጎ ነበራ !
+1	እኔን	እኔን	PRON
+4	ለማየት	ለማየት	NOUN
+5	ፈልጎ	ፈልጎ	VERB
+7	ነበራ	ነበራ	AUX
+9	!	!	PUNCT
+
+# sent_id = data_UD-third_apple_2-x17-s8
+# text = ከበደ ለምን መጣ ? ሊመጣ ፈለጋ ።
+1	ከበደ	ከበደ	PROPN
+3	ለምን	ለምን	PRON
+4	መጣ	መጣ	VERB
+6	?	?	PUNCT
+9	ሊመጣ	ሊመጣ	VERB
+10	ፈለጋ	ፈለጋ	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x17-s9
+# text = ቤት ግቡዋ ።
+1	ቤት	ቤት	NOUN
+2	ግቡዋ	ግቡዋ	VERB
+4	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x17-s10
+# text = ሁለት መኪኖች አየ ግን አንዱንም አልገዛም ።
+1	ሁለት	ሁለት	NUM
+2	መኪኖች	መኪኖች	NOUN
+3	አየ	አየ	VERB
+5	ግን	ግን	CCONJ
+6	አንዱንም	አንዱንም	NUM
+11	አልገዛም	አልገዛም	VERB
+14	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x17-s11
+# text = ጨውና በርበሬ ቅቤም አመጣሁ ።
+1	ጨውና	ጨውና	NOUN
+3	በርበሬ	በርበሬ	NOUN
+4	ቅቤም	ቅቤም	NOUN
+6	አመጣሁ	አመጣሁ	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x17-s12
+# text = ወታደርም ባለቅኔም ነው ።
+1	ወታደርም	ወታደርም	NOUN
+4	ባለቅኔም	ባለቅኔም	NOUN
+6	ነው	ነው	AUX
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x17-s13
+# text = ይህ አልጋም መቀመጫም ይሆናል ።
+1	ይህ	ይህ	DET
+2	አልጋም	አልጋም	NOUN
+4	መቀመጫም	መቀመጫም	NOUN
+6	ይሆናል	ይሆናል	PRON
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x17-s14
+# text = ስሕተቱ የኔም ያንተም ነው ።
+1	ስሕተቱ	ስሕተቱ	NOUN
+4	የኔም	የኔም	PRON
+7	ያንተም	ያንተም	PRON
+9	ነው	ነው	AUX
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x17-s15
+# text = ከዚህም ትንሽ ልውሰድ ?
+2	ከዚህም	ከዚህም	DET
+4	ትንሽ	ትንሽ	ADJ
+6	ልውሰድ	ልውሰድ	VERB
+7	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x17-s16
+# text = ዓለሙ ከሄደ ተስፋዬም ይሄዳል ።
+1	ዓለሙ	ዓለሙ	PROPN
+3	ከሄደ	ከሄደ	VERB
+5	ተስፋዬም	ተስፋዬም	PROPN
+8	ይሄዳል	ይሄዳል	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x17-s17
+# text = አምስቱም ተበላ ።
+1	አምስቱም	አምስቱም	NUM
+4	ተበላ	ተበላ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x17-s18
+# text = ስንዴ እህል ነው ፣ ገብስና ጤፍም እንዲሁ ።
+1	ስንዴ	ስንዴ	NOUN
+2	እህል	እህል	NOUN
+3	ነው	ነው	AUX
+5	፣	፣	PUNCT
+6	ገብስና	ገብስና	NOUN
+8	ጤፍም	ጤፍም	NOUN
+10	እንዲሁ	እንዲሁ	ADV
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x17-s19
+# text = እርሱም ደግሞ ይሄዳል ።
+1	እርሱም	እርሱም	PRON
+3	ደግሞ	ደግሞ	CCONJ
+5	ይሄዳል	ይሄዳል	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x17-s20
+# text = ማንበብም መጻፍም አይችልም ።
+1	ማንበብም	ማንበብም	NOUN
+3	መጻፍም	መጻፍም	NOUN
+5	አይችልም	አይችልም	PART
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x18-s1
+# text = ጊዜም ሆነ ገንዘብ የለኝም ።
+1	ጊዜም	ጊዜም	NOUN
+3	ሆነ	ሆነ	VERB
+5	ገንዘብ	ገንዘብ	NOUN
+6	የለኝም	የለኝም	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x18-s2
+# text = አንተ ካልመጣህ እሱም አይመጣም ።
+1	አንተ	አንተ	PRON
+4	ካልመጣህ	ካልመጣህ	VERB
+6	እሱም	እሱም	PRON
+10	አይመጣም	አይመጣም	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x18-s3
+# text = እሱም አያውቀውም ።
+1	እሱም	እሱም	PRON
+5	አያውቀውም	አያውቀውም	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x18-s4
+# text = ኃይሉ መምጣት አይችልም እኔም እንዲሁ ።
+1	ኃይሉ	ኃይሉ	PROPN
+2	መምጣት	መምጣት	NOUN
+5	አይችልም	አይችልም	VERB
+7	እኔም	እኔም	PRON
+9	እንዲሁ	እንዲሁ	ADV
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x18-s5
+# text = አያታችን በዕድሜ እየገፉ ቢሄዱም ለዛቸው አልጠፋም ።
+1	አያታችን	አያታችን	NOUN
+4	በዕድሜ	በዕድሜ	NOUN
+5	እየገፉ	እየገፉ	VERB
+9	ቢሄዱም	ቢሄዱም	VERB
+12	ለዛቸው	ለዛቸው	NOUN
+15	አልጠፋም	አልጠፋም	VERB
+18	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x18-s6
+# text = ምግቡ ጥሩ ባይሆንም ራባቸውንን አስታገሠልን ።
+1	ምግቡ	ምግቡ	NOUN
+3	ጥሩ	ጥሩ	ADJ
+4	ባይሆንም	ባይሆንም	SCONJ
+9	ራባቸውንን	ራባቸውንን	NOUN
+12	አስታገሠልን	አስታገሠልን	VERB
+16	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x18-s7
+# text = የትም ብትሄድ ለኔ ደብዳቤ መጻፍ አትርሳ ።
+1	የትም	የትም	PRON
+5	ብትሄድ	ብትሄድ	VERB
+7	ለኔ	ለኔ	PRON
+8	ደብዳቤ	ደብዳቤ	NOUN
+9	መጻፍ	መጻፍ	NOUN
+12	አትርሳ	አትርሳ	VERB
+13	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x18-s8
+# text = ይህማ ቢሆን መልካም ነው ።
+1	ይህማ	ይህማ	DET
+5	ቢሆን	ቢሆን	VERB
+6	መልካም	መልካም	ADJ
+7	ነው	ነው	AUX
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x18-s9
+# text = አስር ዓመት ቢፈጅም ትምህርቴን እጨርሳለሁ እንጂ ወደ ሀገሬስ አልመለስም ።
+1	አስር	አስር	NUM
+2	ዓመት	ዓመት	NOUN
+5	ቢፈጅም	ቢፈጅም	VERB
+7	ትምህርቴን	ትምህርቴን	NOUN
+11	እጨርሳለሁ	እጨርሳለሁ	VERB
+14	እንጂ	እንጂ	CCONJ
+15	ወደ	ወደ	ADP
+16	ሀገሬስ	ሀገሬስ	NOUN
+20	አልመለስም	አልመለስም	VERB
+22	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x18-s10
+# text = እንግዲያስ እመጣለሁ ።
+1	እንግዲያስ	እንግዲያስ	PRON
+4	እመጣለሁ	እመጣለሁ	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x18-s11
+# text = ከኛ ጋር እንደምትቆይ መቼስ የታወቀ ነው ።
+2	ከኛ	ከኛ	PRON
+3	ጋር	ጋር	ADP
+7	እንደምትቆይ	እንደምትቆይ	VERB
+8	መቼስ	መቼስ	PRON
+11	የታወቀ	የታወቀ	VERB
+13	ነው	ነው	AUX
+15	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x18-s12
+# text = ምንስ ቢሆን ትመታታለህ ?
+1	ምንስ	ምንስ	PRON
+5	ቢሆን	ቢሆን	VERB
+7	ትመታታለህ	ትመታታለህ	VERB
+10	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x18-s13
+# text = ሚስቱስ ብትሆን ጎበዝ ገበሬ ናት ።
+1	ሚስቱስ	ሚስቱስ	NOUN
+6	ብትሆን	ብትሆን	VERB
+7	ጎበዝ	ጎበዝ	ADJ
+8	ገበሬ	ገበሬ	NOUN
+9	ናት	ናት	AUX
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x18-s14
+# text = ወደ አባትሽ ቤት ብትመለሽስ ?
+1	ወደ	ወደ	ADP
+2	አባትሽ	አባትሽ	NOUN
+4	ቤት	ቤት	NOUN
+7	ብትመለሽስ	ብትመለሽስ	VERB
+10	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x18-s15
+# text = በእግራችን እንሂድ ወይስ ባውቶቢስ ?
+2	በእግራችን	በእግራችን	NOUN
+5	እንሂድ	እንሂድ	VERB
+6	ወይስ	ወይስ	CCONJ
+7	ባውቶቢስ	ባውቶቢስ	NOUN
+8	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x18-s16
+# text = ይህሳ ምንድን ነው ?
+1	ይህሳ	ይህሳ	DET
+3	ምንድን	ምንድን	PRON
+4	ነው	ነው	AUX
+6	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x18-s17
+# text = ብዙዎችን ለማስተማርሳ ምን ዘዴ አገኛለሁ ?
+1	ብዙዎችን	ብዙዎችን	ADJ
+4	ለማስተማርሳ	ለማስተማርሳ	NOUN
+6	ምን	ምን	PRON
+7	ዘዴ	ዘዴ	NOUN
+8	አገኛለሁ	አገኛለሁ	VERB
+11	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x18-s18
+# text = እግዚአብሔር ሰውን በአምሳሉ ፈጠረ ።
+1	እግዚአብሔር	እግዚአብሔር	NOUN
+2	ሰውን	ሰውን	NOUN
+5	በአምሳሉ	በአምሳሉ	NOUN
+7	ፈጠረ	ፈጠረ	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x18-s19
+# text = በእውነት አንተን ምን እንደማደርግ አላውቅም ።
+2	በእውነት	በእውነት	NOUN
+3	አንተን	አንተን	PRON
+5	ምን	ምን	PRON
+9	እንደማደርግ	እንደማደርግ	VERB
+11	አላውቅም	አላውቅም	VERB
+13	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x18-s20
+# text = ቁርሱን ዳቦ ይበላል ።
+1	ቁርሱን	ቁርሱን	NOUN
+4	ዳቦ	ዳቦ	NOUN
+6	ይበላል	ይበላል	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x19-s1
+# text = ብርጭቆውን ወተት ጠጣበት ።
+1	ብርጭቆውን	ብርጭቆውን	NOUN
+4	ወተት	ወተት	NOUN
+5	ጠጣበት	ጠጣበት	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x19-s2
+# text = ሙግቴን ተረታሁ ።
+1	ሙግቴን	ሙግቴን	NOUN
+4	ተረታሁ	ተረታሁ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x19-s3
+# text = ዐሥር~አለቃው ባለመታዘዙ ማዕረጉን ተገፈፈ ።
+1	ዐሥር~አለቃው	ዐሥር~አለቃው	NOUN
+5	ባለመታዘዙ	ባለመታዘዙ	NOUN
+7	ማዕረጉን	ማዕረጉን	NOUN
+10	ተገፈፈ	ተገፈፈ	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x19-s4
+# text = ልጁን ቤቱን አሳየው ።
+1	ልጁን	ልጁን	NOUN
+4	ቤቱን	ቤቱን	NOUN
+7	አሳየው	አሳየው	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x19-s5
+# text = ተራራውን መውጣት ብዙ ጥረት ይጠይቃል ።
+1	ተራራውን	ተራራውን	NOUN
+4	መውጣት	መውጣት	NOUN
+5	ብዙ	ብዙ	ADJ
+6	ጥረት	ጥረት	NOUN
+8	ይጠይቃል	ይጠይቃል	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x19-s6
+# text = እሱን ብሆን አላደርገውም ነበር ።
+1	እሱን	እሱን	PRON
+5	ብሆን	ብሆን	VERB
+7	አላደርገውም	አላደርገውም	VERB
+10	ነበር	ነበር	AUX
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x19-s7
+# text = ጥሩ ሞትን ሞተ ።
+1	ጥሩ	ጥሩ	ADJ
+2	ሞትን	ሞትን	NOUN
+4	ሞተ	ሞተ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x19-s8
+# text = ራቁቱን ተኛ ።
+1	ራቁቱን	ራቁቱን	NOUN
+4	ተኛ	ተኛ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x19-s9
+# text = ለግብዣ ብቻውን መጣ ።
+2	ለግብዣ	ለግብዣ	NOUN
+3	ብቻውን	ብቻውን	NOUN
+6	መጣ	መጣ	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x19-s10
+# text = ባዶ~እጁን መጣ ።
+1	ባዶ~እጁን	ባዶ~እጁን	NOUN
+4	መጣ	መጣ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x19-s11
+# text = ደረቁን አትብላ !
+1	ደረቁን	ደረቁን	ADJ
+6	አትብላ	አትብላ	VERB
+8	!	!	PUNCT
+
+# sent_id = data_UD-third_apple_2-x19-s12
+# text = ቢላው በቀለን እጁን ቆረጠው ።
+1	ቢላው	ቢላው	NOUN
+3	በቀለን	በቀለን	PROPN
+5	እጁን	እጁን	NOUN
+8	ቆረጠው	ቆረጠው	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x19-s13
+# text = ሜዳ ሜዳውን ሄደ ።
+1	ሜዳ	ሜዳ	NOUN
+2	ሜዳውን	ሜዳውን	NOUN
+5	ሄደ	ሄደ	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x19-s14
+# text = እባክህ ወንድም የዚህ ቦታ ስም ማን ይባላል ?
+1	እባክህ	እባክህ	VERB
+3	ወንድም	ወንድም	NOUN
+4	የዚህ	የዚህ	ADP
+6	ቦታ	ቦታ	NOUN
+7	ስም	ስም	NOUN
+8	ማን	ማን	PRON
+10	ይባላል	ይባላል	VERB
+12	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x19-s15
+# text = እነሆ ልጄ ፈተናውን በከፍተኛ ውጤት አለፈ ።
+1	እነሆ	እነሆ	INTJ
+2	ልጄ	ልጄ	NOUN
+4	ፈተናውን	ፈተናውን	NOUN
+8	በከፍተኛ	በከፍተኛ	ADJ
+9	ውጤት	ውጤት	NOUN
+10	አለፈ	አለፈ	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x19-s16
+# text = ፈተናውን በማለፍህ እንኳን ደስ ያለህ !
+1	ፈተናውን	ፈተናውን	NOUN
+5	በማለፍህ	በማለፍህ	VERB
+7	እንኳን	እንኳን	INTJ
+8	ደስ	ደስ	VERB
+10	ያለህ	ያለህ	VERB
+12	!	!	PUNCT
+
+# sent_id = data_UD-third_apple_2-x19-s17
+# text = የሷ ጠላ እንዲህ ነው እንዴ ?
+2	የሷ	የሷ	PRON
+3	ጠላ	ጠላ	NOUN
+5	እንዲህ	እንዲህ	DET
+6	ነው	ነው	AUX
+8	እንዴ	እንዴ	INTJ
+9	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x19-s18
+# text = ለምን እንደሆነ እንጃ ባየሁት ቁጥር ቱግ እላለሁ ።
+2	ለምን	ለምን	PRON
+3	እንደሆነ	እንደሆነ	SCONJ
+6	እንጃ	እንጃ	VERB
+8	ባየሁት	ባየሁት	VERB
+11	ቁጥር	ቁጥር	NOUN
+12	ቱግ	ቱግ	VERB
+14	እላለሁ	እላለሁ	VERB
+17	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x19-s19
+# text = የትምህርቱን አስፈላጊነት እንዴት እንደምገልጽ እንጃልኝ ።
+2	የትምህርቱን	የትምህርቱን	NOUN
+5	አስፈላጊነት	አስፈላጊነት	NOUN
+6	እንዴት	እንዴት	PRON
+9	እንደምገልጽ	እንደምገልጽ	VERB
+10	እንጃልኝ	እንጃልኝ	INTJ
+13	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x19-s20
+# text = አባትህ የመጣ እንደሆነ እንጃልህ !
+1	አባትህ	አባትህ	NOUN
+4	የመጣ	የመጣ	VERB
+6	እንደሆነ	እንደሆነ	VERB
+8	እንጃልህ	እንጃልህ	VERB
+11	!	!	PUNCT
+
+# sent_id = data_UD-third_apple_2-x20-s1
+# text = ልጅቷ እኮ ቆንጆ ናት ።
+1	ልጅቷ	ልጅቷ	NOUN
+3	እኮ	እኮ	INTJ
+4	ቆንጆ	ቆንጆ	ADJ
+5	ናት	ናት	AUX
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x20-s2
+# text = አዬ እባክህ ምንም አልተሻለውም ።
+1	አዬ	አዬ	INTJ
+2	እባክህ	እባክህ	VERB
+4	ምንም	ምንም	PRON
+7	አልተሻለውም	አልተሻለውም	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x20-s3
+# text = እፎይ ይኸው በመጨረሻ ደረስን ።
+1	እፎይ	እፎይ	INTJ
+2	ይኸው	ይኸው	DET
+4	በመጨረሻ	በመጨረሻ	NOUN
+5	ደረስን	ደረስን	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x20-s4
+# text = ይህ ጉዳይ እጅግ አሳሳቢ ነው ።
+1	ይህ	ይህ	DET
+2	ጉዳይ	ጉዳይ	NOUN
+3	እጅግ	እጅግ	ADJ
+4	አሳሳቢ	አሳሳቢ	ADJ
+5	ነው	ነው	AUX
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x20-s5
+# text = ከሳሾቻችን በቀጠሮ አልቀረቡም ።
+1	ከሳሾቻችን	ከሳሾቻችን	NOUN
+4	በቀጠሮ	በቀጠሮ	NOUN
+6	አልቀረቡም	አልቀረቡም	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x20-s6
+# text = ላባቱ ታዛዥ ነበር ።
+2	ላባቱ	ላባቱ	NOUN
+4	ታዛዥ	ታዛዥ	ADJ
+5	ነበር	ነበር	AUX
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x20-s7
+# text = ይህ መንግስት የሕዝቡን ፍላጎት ካላሟላ አንድ ቀን ወዳቂ ነው ።
+1	ይህ	ይህ	DET
+2	መንግስት	መንግስት	NOUN
+4	የሕዝቡን	የሕዝቡን	NOUN
+7	ፍላጎት	ፍላጎት	NOUN
+10	ካላሟላ	ካላሟላ	VERB
+12	አንድ	አንድ	NUM
+13	ቀን	ቀን	NOUN
+14	ወዳቂ	ወዳቂ	ADJ
+15	ነው	ነው	AUX
+17	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x20-s8
+# text = ይቺ ሴትዮ እህል ካልበላች ሟች ናት ።
+1	ይቺ	ይቺ	DET
+2	ሴትዮ	ሴትዮ	NOUN
+3	እህል	እህል	NOUN
+6	ካልበላች	ካልበላች	VERB
+8	ሟች	ሟች	NOUN
+9	ናት	ናት	AUX
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x20-s9
+# text = ይቺ አሮጌ መኪና ተሰባሪ ናት ።
+1	ይቺ	ይቺ	DET
+2	አሮጌ	አሮጌ	ADJ
+3	መኪና	መኪና	NOUN
+4	ተሰባሪ	ተሰባሪ	NOUN
+5	ናት	ናት	AUX
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x20-s10
+# text = ቤትህን ሳትቆልፍ እየሄድክ አንድ ቀን እቃህ ሁሉ ተወሳጅ ነው ።
+1	ቤትህን	ቤትህን	NOUN
+7	ሳትቆልፍ	ሳትቆልፍ	VERB
+8	እየሄድክ	እየሄድክ	VERB
+10	አንድ	አንድ	NUM
+11	ቀን	ቀን	NOUN
+12	እቃህ	እቃህ	NOUN
+14	ሁሉ	ሁሉ	ADV
+15	ተወሳጅ	ተወሳጅ	NOUN
+16	ነው	ነው	AUX
+18	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x20-s11
+# text = ወረቀቱ በቀላሉ ተቀዳጅ ነው ።
+1	ወረቀቱ	ወረቀቱ	NOUN
+3	በቀላሉ	በቀላሉ	ADP
+6	ተቀዳጅ	ተቀዳጅ	NOUN
+7	ነው	ነው	AUX
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x20-s12
+# text = ተፈላጊው የት አለ ?
+1	ተፈላጊው	ተፈላጊው	NOUN
+3	የት	የት	PRON
+4	አለ	አለ	VERB
+6	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x20-s13
+# text = የከብታችን መሰረቅ በጣም አሳዘነን ።
+2	የከብታችን	የከብታችን	NOUN
+4	መሰረቅ	መሰረቅ	NOUN
+5	በጣም	በጣም	ADV
+6	አሳዘነን	አሳዘነን	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x20-s14
+# text = ሕፃን መምታት የጭካኔ ድርጊት ነው ።
+1	ሕፃን	ሕፃን	NOUN
+2	መምታት	መምታት	NOUN
+4	የጭካኔ	የጭካኔ	NOUN
+5	ድርጊት	ድርጊት	NOUN
+6	ነው	ነው	AUX
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x20-s15
+# text = በውትድርና ሙያ ለበላይ ታዛዥ መሆን የግድ ነው ።
+2	በውትድርና	በውትድርና	NOUN
+3	ሙያ	ሙያ	NOUN
+5	ለበላይ	ለበላይ	NOUN
+6	ታዛዥ	ታዛዥ	ADJ
+7	መሆን	መሆን	NOUN
+9	የግድ	የግድ	NOUN
+11	ነው	ነው	PRON
+12	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x20-s16
+# text = በጊዜ መተኛት መብትህ ነው ።
+2	በጊዜ	በጊዜ	NOUN
+3	መተኛት	መተኛት	NOUN
+4	መብትህ	መብትህ	NOUN
+6	ነው	ነው	AUX
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x20-s17
+# text = ፈተና መውደቄ አበሳጨኝ ።
+1	ፈተና	ፈተና	NOUN
+2	መውደቄ	መውደቄ	VERB
+4	አበሳጨኝ	አበሳጨኝ	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x20-s18
+# text = ባስፈራራውም ትእዛዜን መጣሱን ቀጠለ ።
+3	ባስፈራራውም	ባስፈራራውም	VERB
+6	ትእዛዜን	ትእዛዜን	NOUN
+9	መጣሱን	መጣሱን	NOUN
+12	ቀጠለ	ቀጠለ	VERB
+14	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x20-s19
+# text = መቀለድና መቀባጠርን ይወዳል ።
+2	መቀለድና	መቀለድና	NOUN
+4	መቀባጠርን	መቀባጠርን	NOUN
+7	ይወዳል	ይወዳል	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x20-s20
+# text = ቀይ ሹራብ መልበሴን አልወደደችውም ።
+1	ቀይ	ቀይ	ADJ
+2	ሹራብ	ሹራብ	NOUN
+3	መልበሴን	መልበሴን	NOUN
+7	አልወደደችውም	አልወደደችውም	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x21-s1
+# text = መጽሐፉን መስረቁን አመነ ።
+1	መጽሐፉን	መጽሐፉን	NOUN
+4	መስረቁን	መስረቁን	NOUN
+7	አመነ	አመነ	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x21-s2
+# text = በሩን መቀርቀር ረሳ ።
+1	በሩን	በሩን	NOUN
+4	መቀርቀር	መቀርቀር	NOUN
+5	ረሳ	ረሳ	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x21-s3
+# text = አባያውን በሬ ትተህ ምነው ደህናውን መግረፍህ ?
+1	አባያውን	አባያውን	ADJ
+4	በሬ	በሬ	NOUN
+5	ትተህ	ትተህ	VERB
+7	ምነው	ምነው	PRON
+8	ደህናውን	ደህናውን	ADJ
+11	መግረፍህ	መግረፍህ	NOUN
+13	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x21-s4
+# text = ምግብ እያለ ምነው አለመብላትህ ?
+1	ምግብ	ምግብ	NOUN
+3	እያለ	እያለ	VERB
+5	ምነው	ምነው	PRON
+7	አለመብላትህ	አለመብላትህ	NOUN
+9	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x21-s5
+# text = ሌቱን ሙሉ ስሠራ መቆየቴን አላወቀችም ።
+1	ሌቱን	ሌቱን	NOUN
+4	ሙሉ	ሙሉ	ADP
+7	ስሠራ	ስሠራ	VERB
+8	መቆየቴን	መቆየቴን	NOUN
+12	አላወቀችም	አላወቀችም	VERB
+15	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x21-s6
+# text = ልጃቸው በጦርነት ላይ መሞቱን ተረዱ ።
+1	ልጃቸው	ልጃቸው	NOUN
+4	በጦርነት	በጦርነት	NOUN
+5	ላይ	ላይ	ADP
+6	መሞቱን	መሞቱን	NOUN
+9	ተረዱ	ተረዱ	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x21-s7
+# text = ልጁ ሱቁን መዝረፉን በተናዘዘ ጊዜ እናቱ በጣም አዘነች ።
+1	ልጁ	ልጁ	NOUN
+3	ሱቁን	ሱቁን	NOUN
+6	መዝረፉን	መዝረፉን	NOUN
+10	በተናዘዘ	በተናዘዘ	VERB
+12	ጊዜ	ጊዜ	NOUN
+13	እናቱ	እናቱ	NOUN
+15	በጣም	በጣም	ADV
+16	አዘነች	አዘነች	VERB
+18	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x21-s8
+# text = ቤት መሥራት ይችላል ።
+1	ቤት	ቤት	NOUN
+2	መሥራት	መሥራት	NOUN
+4	ይችላል	ይችላል	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x21-s9
+# text = ነገ የምትመጣ መሆኑን ሰምቻለሁ ።
+1	ነገ	ነገ	ADV
+5	የምትመጣ	የምትመጣ	VERB
+6	መሆኑን	መሆኑን	VERB
+9	ሰምቻለሁ	ሰምቻለሁ	VERB
+13	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x21-s10
+# text = መኪና በየጊዜው ካልታደሰ ብዙ የማይቆይ መሆኑ የታወቀ ነው ።
+1	መኪና	መኪና	NOUN
+4	በየጊዜው	በየጊዜው	NOUN
+8	ካልታደሰ	ካልታደሰ	VERB
+10	ብዙ	ብዙ	ADJ
+15	የማይቆይ	የማይቆይ	VERB
+16	መሆኑ	መሆኑ	NOUN
+19	የታወቀ	የታወቀ	VERB
+21	ነው	ነው	AUX
+23	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x21-s11
+# text = መምጣት መቅረቱን ለማወቅ እፈልጋለሁ ።
+1	መምጣት	መምጣት	NOUN
+2	መቅረቱን	መቅረቱን	NOUN
+6	ለማወቅ	ለማወቅ	NOUN
+8	እፈልጋለሁ	እፈልጋለሁ	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x21-s12
+# text = የሱ አዲስ አበባ መሄድ አይጠቅመንም ።
+2	የሱ	የሱ	PRON
+3	አዲስ	አዲስ	ADJ
+4	አበባ	አበባ	PROPN
+5	መሄድ	መሄድ	NOUN
+8	አይጠቅመንም	አይጠቅመንም	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x21-s13
+# text = ፈተና ለማለፍ በርትቶ ማጥናት ።
+1	ፈተና	ፈተና	NOUN
+3	ለማለፍ	ለማለፍ	NOUN
+4	በርትቶ	በርትቶ	VERB
+6	ማጥናት	ማጥናት	NOUN
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x21-s14
+# text = ከዚህ የሚብስ ጊዜ አለ ማለት ነው ?
+2	ከዚህ	ከዚህ	DET
+6	የሚብስ	የሚብስ	VERB
+7	ጊዜ	ጊዜ	NOUN
+8	አለ	አለ	VERB
+9	ማለት	ማለት	NOUN
+10	ነው	ነው	AUX
+12	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x21-s15
+# text = ምን ማለትህ ነው ?
+1	ምን	ምን	PRON
+2	ማለትህ	ማለትህ	VERB
+4	ነው	ነው	AUX
+6	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x21-s16
+# text = ሚስቱን በመግደል ተከሰሰ ።
+1	ሚስቱን	ሚስቱን	NOUN
+5	በመግደል	በመግደል	NOUN
+6	ተከሰሰ	ተከሰሰ	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x21-s17
+# text = አስተማሪው በጣም በመድከሙ ነቅቶ መቆየት አልቻለም ።
+1	አስተማሪው	አስተማሪው	NOUN
+3	በጣም	በጣም	ADV
+5	በመድከሙ	በመድከሙ	NOUN
+7	ነቅቶ	ነቅቶ	VERB
+9	መቆየት	መቆየት	NOUN
+11	አልቻለም	አልቻለም	VERB
+14	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x21-s18
+# text = አቧራ እንዳይነካው በማለት ሥዕሉን በጨርቅ ሸፈኑት ።
+1	አቧራ	አቧራ	NOUN
+5	እንዳይነካው	እንዳይነካው	VERB
+9	በማለት	በማለት	NOUN
+10	ሥዕሉን	ሥዕሉን	NOUN
+14	በጨርቅ	በጨርቅ	NOUN
+15	ሸፈኑት	ሸፈኑት	VERB
+18	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x21-s19
+# text = መጽሐፉን ሳይጠይቅ ከመውሰዱ በቀር ምን አደረገህ ?
+1	መጽሐፉን	መጽሐፉን	NOUN
+7	ሳይጠይቅ	ሳይጠይቅ	VERB
+9	ከመውሰዱ	ከመውሰዱ	NOUN
+11	በቀር	በቀር	ADP
+12	ምን	ምን	PRON
+13	አደረገህ	አደረገህ	VERB
+16	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x21-s20
+# text = ከመሄድ ይልቅ ብቆይ ይሻላል ።
+2	ከመሄድ	ከመሄድ	NOUN
+3	ይልቅ	ይልቅ	ADV
+5	ብቆይ	ብቆይ	VERB
+7	ይሻላል	ይሻላል	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x22-s1
+# text = ከመምጣቱ ገበታ ላይ ጉብ አለ ።
+2	ከመምጣቱ	ከመምጣቱ	VERB
+4	ገበታ	ገበታ	NOUN
+5	ላይ	ላይ	ADP
+6	ጉብ	ጉብ	VERB
+7	አለ	አለ	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x22-s2
+# text = በሩን ከማለፉ ጩኸት ሰማ ።
+1	በሩን	በሩን	NOUN
+5	ከማለፉ	ከማለፉ	VERB
+7	ጩኸት	ጩኸት	NOUN
+8	ሰማ	ሰማ	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x22-s3
+# text = ብዙ ጨኸት ከመኖሩ የተነሣ ሊተኙ አልቻሉም ።
+1	ብዙ	ብዙ	ADJ
+2	ጨኸት	ጨኸት	NOUN
+4	ከመኖሩ	ከመኖሩ	NOUN
+7	የተነሣ	የተነሣ	VERB
+10	ሊተኙ	ሊተኙ	VERB
+13	አልቻሉም	አልቻሉም	VERB
+16	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x22-s4
+# text = በዛሬ ጊዜ ገንዘብ ለማግኘት ሲባል እስከ መግደል ይደረሳል ።
+1	በዛሬ	በዛሬ	ADP
+3	ጊዜ	ጊዜ	NOUN
+4	ገንዘብ	ገንዘብ	NOUN
+6	ለማግኘት	ለማግኘት	NOUN
+9	ሲባል	ሲባል	VERB
+10	እስከ	እስከ	ADP
+11	መግደል	መግደል	NOUN
+13	ይደረሳል	ይደረሳል	VERB
+15	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x22-s5
+# text = ለመጋባት ስለ መወሰናቸው የሰማሁት ነገር የለም ።
+2	ለመጋባት	ለመጋባት	NOUN
+3	ስለ	ስለ	ADP
+4	መወሰናቸው	መወሰናቸው	VERB
+7	የሰማሁት	የሰማሁት	VERB
+10	ነገር	ነገር	NOUN
+11	የለም	የለም	VERB
+14	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x22-s6
+# text = የቦርዱ አባል እንደ መሆኑ ሁሉ የወር ገቢው ከመደበኛ ደሞዙ ዕጥፍ ነበር ።
+2	የቦርዱ	የቦርዱ	NOUN
+4	አባል	አባል	NOUN
+5	እንደ	እንደ	ADP
+6	መሆኑ	መሆኑ	NOUN
+8	ሁሉ	ሁሉ	NOUN
+10	የወር	የወር	NOUN
+11	ገቢው	ገቢው	NOUN
+14	ከመደበኛ	ከመደበኛ	ADJ
+15	ደሞዙ	ደሞዙ	NOUN
+17	ዕጥፍ	ዕጥፍ	VERB
+18	ነበር	ነበር	AUX
+19	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x22-s7
+# text = ዕንጨት ሲረጥብ እንደ መነፋት ይላል ።
+1	ዕንጨት	ዕንጨት	NOUN
+4	ሲረጥብ	ሲረጥብ	VERB
+5	እንደ	እንደ	ADP
+6	መነፋት	መነፋት	NOUN
+8	ይላል	ይላል	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x22-s8
+# text = ጉሮሮው እንደ መድረቅ ብሏል ።
+1	ጉሮሮው	ጉሮሮው	NOUN
+3	እንደ	እንደ	ADP
+4	መድረቅ	መድረቅ	NOUN
+5	ብሏል	ብሏል	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x22-s9
+# text = ጽጌረዳው እንደ ማበብ ብሎ ጠወለገ ።
+1	ጽጌረዳው	ጽጌረዳው	NOUN
+3	እንደ	እንደ	ADP
+4	ማበብ	ማበብ	NOUN
+5	ብሎ	ብሎ	VERB
+7	ጠወለገ	ጠወለገ	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x22-s10
+# text = አስተማሪን አለማክበር ኀጢአተኛ እንደ መሆን ይቆጠራል ።
+1	አስተማሪን	አስተማሪን	NOUN
+4	አለማክበር	አለማክበር	NOUN
+5	ኀጢአተኛ	ኀጢአተኛ	ADJ
+6	እንደ	እንደ	ADP
+7	መሆን	መሆን	NOUN
+9	ይቆጠራል	ይቆጠራል	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x22-s11
+# text = ሥራው ወደ ማለቁ ነው ።
+1	ሥራው	ሥራው	NOUN
+3	ወደ	ወደ	ADP
+4	ማለቁ	ማለቁ	NOUN
+6	ነው	ነው	AUX
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x22-s12
+# text = ጉዳቱን ያደረሰው ሰው የመክፈል ግዴታ አለበት ።
+1	ጉዳቱን	ጉዳቱን	NOUN
+5	ያደረሰው	ያደረሰው	VERB
+8	ሰው	ሰው	NOUN
+10	የመክፈል	የመክፈል	NOUN
+11	ግዴታ	ግዴታ	NOUN
+12	አለበት	አለበት	VERB
+15	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x22-s13
+# text = አንድ የመሆኛችን ጊዜ አሁን ነው ።
+1	አንድ	አንድ	NUM
+3	የመሆኛችን	የመሆኛችን	VERB
+5	ጊዜ	ጊዜ	NOUN
+6	አሁን	አሁን	NOUN
+7	ነው	ነው	AUX
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x22-s14
+# text = ሰውን የመናቅ ጠባዩን አልወድለትም ።
+1	ሰውን	ሰውን	NOUN
+4	የመናቅ	የመናቅ	NOUN
+5	ጠባዩን	ጠባዩን	NOUN
+10	አልወድለትም	አልወድለትም	VERB
+14	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x22-s15
+# text = አንተን ለማየት ጎንደር መጣሁ ።
+1	አንተን	አንተን	PRON
+4	ለማየት	ለማየት	NOUN
+5	ጎንደር	ጎንደር	PROPN
+6	መጣሁ	መጣሁ	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x22-s16
+# text = የመጣሁት መጽሐፉን ለሱ ለመስጠት ነው ።
+2	የመጣሁት	የመጣሁት	VERB
+5	መጽሐፉን	መጽሐፉን	NOUN
+9	ለሱ	ለሱ	PRON
+11	ለመስጠት	ለመስጠት	NOUN
+12	ነው	ነው	AUX
+14	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x22-s17
+# text = ልብስ ለመግዛት ብዬ ገበያ አልሄድም ።
+1	ልብስ	ልብስ	NOUN
+3	ለመግዛት	ለመግዛት	NOUN
+4	ብዬ	ብዬ	VERB
+6	ገበያ	ገበያ	NOUN
+8	አልሄድም	አልሄድም	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x22-s18
+# text = ይህን ነገር ለማረጋገጥ ስል በየቦታው ጠይቄ ነበር ።
+1	ይህን	ይህን	DET
+3	ነገር	ነገር	NOUN
+5	ለማረጋገጥ	ለማረጋገጥ	NOUN
+8	ስል	ስል	VERB
+11	በየቦታው	በየቦታው	NOUN
+13	ጠይቄ	ጠይቄ	VERB
+15	ነበር	ነበር	AUX
+16	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x22-s19
+# text = የታመመ ጓደኛችንን ልንጠይቅ ሄደን ነበር ።
+2	የታመመ	የታመመ	VERB
+4	ጓደኛችንን	ጓደኛችንን	NOUN
+9	ልንጠይቅ	ልንጠይቅ	VERB
+10	ሄደን	ሄደን	VERB
+12	ነበር	ነበር	AUX
+13	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x22-s20
+# text = ይህን ሥራ የምሰራው አንተን ለማስደሰት ያህል ነው ።
+1	ይህን	ይህን	DET
+3	ሥራ	ሥራ	NOUN
+7	የምሰራው	የምሰራው	VERB
+9	አንተን	አንተን	PRON
+12	ለማስደሰት	ለማስደሰት	NOUN
+14	ያህል	ያህል	VERB
+15	ነው	ነው	AUX
+17	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x23-s1
+# text = ለመግደሉ ማስረጃ የላቸውም ።
+2	ለመግደሉ	ለመግደሉ	NOUN
+4	ማስረጃ	ማስረጃ	NOUN
+5	የላቸውም	የላቸውም	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x23-s2
+# text = ካባቱ ጋር ለመሄዱ ማስረጃ አለ ።
+2	ካባቱ	ካባቱ	NOUN
+4	ጋር	ጋር	ADP
+6	ለመሄዱ	ለመሄዱ	NOUN
+8	ማስረጃ	ማስረጃ	NOUN
+9	አለ	አለ	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x23-s3
+# text = ስምንት ያህል መጽሐፍ አሉኝ ።
+1	ስምንት	ስምንት	NUM
+3	ያህል	ያህል	VERB
+4	መጽሐፍ	መጽሐፍ	NOUN
+5	አሉኝ	አሉኝ	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x23-s4
+# text = የሰጠናችሁን ምክር መከተል ነው ።
+2	የሰጠናችሁን	የሰጠናችሁን	VERB
+6	ምክር	ምክር	NOUN
+7	መከተል	መከተል	NOUN
+8	ነው	ነው	AUX
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x23-s5
+# text = ለዚህ መንግስ መስራት መሠቃይት ነው ።
+1	ለዚህ	ለዚህ	ADP
+3	መንግስ	መንግስ	NOUN
+4	መስራት	መስራት	NOUN
+5	መሠቃይት	መሠቃይት	NOUN
+6	ነው	ነው	AUX
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x23-s6
+# text = ገንዘብ ባይኖረኝም ተበድሬ ልብሱን ለልጄ መግዛት ነበረብኝ ።
+1	ገንዘብ	ገንዘብ	NOUN
+5	ባይኖረኝም	ባይኖረኝም	VERB
+9	ተበድሬ	ተበድሬ	VERB
+11	ልብሱን	ልብሱን	NOUN
+15	ለልጄ	ለልጄ	NOUN
+17	መግዛት	መግዛት	NOUN
+18	ነበረብኝ	ነበረብኝ	AUX
+22	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x23-s7
+# text = ቦታ ለማግኘት በጊዜ መነሣት ።
+1	ቦታ	ቦታ	NOUN
+3	ለማግኘት	ለማግኘት	NOUN
+5	በጊዜ	በጊዜ	NOUN
+6	መነሣት	መነሣት	NOUN
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x23-s8
+# text = እዳውን አለመክፈሉን አልሰማሁም ።
+1	እዳውን	እዳውን	NOUN
+5	አለመክፈሉን	አለመክፈሉን	NOUN
+9	አልሰማሁም	አልሰማሁም	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x23-s9
+# text = ባለመምጣቱ በጣም ተገረምኩ ።
+3	ባለመምጣቱ	ባለመምጣቱ	NOUN
+5	በጣም	በጣም	ADV
+6	ተገረምኩ	ተገረምኩ	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x23-s10
+# text = ቀዳዳውን መወተፊያ ቡትቶ ፈልጊ ።
+1	ቀዳዳውን	ቀዳዳውን	NOUN
+4	መወተፊያ	መወተፊያ	NOUN
+5	ቡትቶ	ቡትቶ	NOUN
+6	ፈልጊ	ፈልጊ	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x23-s11
+# text = እርሳሱን መቅረጫ የሚሆን ምላጭ ስጠኝ ።
+1	እርሳሱን	እርሳሱን	NOUN
+4	መቅረጫ	መቅረጫ	NOUN
+8	የሚሆን	የሚሆን	VERB
+9	ምላጭ	ምላጭ	NOUN
+10	ስጠኝ	ስጠኝ	VERB
+13	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x23-s12
+# text = ብረት ለምድጃ መሥሪያ ያገለግላል ።
+1	ብረት	ብረት	NOUN
+3	ለምድጃ	ለምድጃ	NOUN
+4	መሥሪያ	መሥሪያ	NOUN
+6	ያገለግላል	ያገለግላል	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x23-s13
+# text = ዐሥር ብር ጐደለኝ ።
+1	ዐሥር	ዐሥር	NUM
+2	ብር	ብር	NOUN
+3	ጐደለኝ	ጐደለኝ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x23-s14
+# text = ይችን መታሰቢያ እንዲቀበሉኝ ።
+1	ይችን	ይችን	DET
+3	መታሰቢያ	መታሰቢያ	NOUN
+6	እንዲቀበሉኝ	እንዲቀበሉኝ	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x23-s15
+# text = ዋጋውን ካልቀነስክ እቃውን አልገዛህም ።
+1	ዋጋውን	ዋጋውን	NOUN
+6	ካልቀነስክ	ካልቀነስክ	VERB
+8	እቃውን	እቃውን	NOUN
+13	አልገዛህም	አልገዛህም	VERB
+16	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x23-s16
+# text = ጥሩ አናጢ ይወጣሃል ።
+1	ጥሩ	ጥሩ	ADJ
+2	አናጢ	አናጢ	NOUN
+4	ይወጣሃል	ይወጣሃል	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x23-s17
+# text = ሳገኛቸው እሰጣቸዋለሁ ።
+3	ሳገኛቸው	ሳገኛቸው	VERB
+6	እሰጣቸዋለሁ	እሰጣቸዋለሁ	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x23-s18
+# text = ዛፉ ሥር ሄደና ተቀመጠ ።
+1	ዛፉ	ዛፉ	NOUN
+3	ሥር	ሥር	NOUN
+4	ሄደና	ሄደና	VERB
+7	ተቀመጠ	ተቀመጠ	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x23-s19
+# text = ፀሐይ ሳይኖር ልብሱ ምኑን ደረቀው ?
+1	ፀሐይ	ፀሐይ	NOUN
+5	ሳይኖር	ሳይኖር	VERB
+6	ልብሱ	ልብሱ	NOUN
+8	ምኑን	ምኑን	PRON
+11	ደረቀው	ደረቀው	VERB
+13	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x23-s20
+# text = አትሂድ ስንለው ሄዶ ታሰረና አረፈው ።
+3	አትሂድ	አትሂድ	VERB
+6	ስንለው	ስንለው	VERB
+9	ሄዶ	ሄዶ	VERB
+11	ታሰረና	ታሰረና	VERB
+14	አረፈው	አረፈው	VERB
+17	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x24-s1
+# text = ሹሙን በቅሎ ረገጠችው ።
+1	ሹሙን	ሹሙን	NOUN
+4	በቅሎ	በቅሎ	NOUN
+5	ረገጠችው	ረገጠችው	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x24-s2
+# text = ሁለት ሹራብ ስለነበራት አንዱን ለእኅቷ ሰጠቻት ።
+1	ሁለት	ሁለት	NUM
+2	ሹራብ	ሹራብ	NOUN
+4	ስለነበራት	ስለነበራት	VERB
+6	አንዱን	አንዱን	NUM
+10	ለእኅቷ	ለእኅቷ	NOUN
+12	ሰጠቻት	ሰጠቻት	VERB
+15	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x24-s3
+# text = በድብድብ ልሸነፍ ስል ደረሰልኝ ።
+2	በድብድብ	በድብድብ	NOUN
+5	ልሸነፍ	ልሸነፍ	VERB
+8	ስል	ስል	VERB
+9	ደረሰልኝ	ደረሰልኝ	VERB
+13	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x24-s4
+# text = አንድ ብርጭቆ ውሃ አምጣልኝ ።
+1	አንድ	አንድ	NUM
+2	ብርጭቆ	ብርጭቆ	NOUN
+3	ውሃ	ውሃ	NOUN
+4	አምጣልኝ	አምጣልኝ	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x24-s5
+# text = እናትህ ጸጉርህን አበጠረችልህ ?
+1	እናትህ	እናትህ	NOUN
+3	ጸጉርህን	ጸጉርህን	NOUN
+6	አበጠረችልህ	አበጠረችልህ	VERB
+10	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x24-s6
+# text = ሐኪሙ እባጩን አፈረጠለት ።
+1	ሐኪሙ	ሐኪሙ	NOUN
+3	እባጩን	እባጩን	NOUN
+6	አፈረጠለት	አፈረጠለት	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x24-s7
+# text = ወገቤን ቀስ ብለሽ እሺልኝ ።
+1	ወገቤን	ወገቤን	NOUN
+4	ቀስ	ቀስ	ADV
+5	ብለሽ	ብለሽ	VERB
+7	እሺልኝ	እሺልኝ	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x24-s8
+# text = ደብተርህን ላክልኝ ።
+1	ደብተርህን	ደብተርህን	NOUN
+4	ላክልኝ	ላክልኝ	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x24-s9
+# text = እንድትመጣ ሰው ልልክብህ ነበር ።
+3	እንድትመጣ	እንድትመጣ	VERB
+4	ሰው	ሰው	NOUN
+6	ልልክብህ	ልልክብህ	VERB
+9	ነበር	ነበር	AUX
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x24-s10
+# text = ባጠገቡ ለማለፍ ስሞክር መንገዱን ዘጋብኝ ።
+2	ባጠገቡ	ባጠገቡ	NOUN
+5	ለማለፍ	ለማለፍ	NOUN
+8	ስሞክር	ስሞክር	VERB
+9	መንገዱን	መንገዱን	NOUN
+12	ዘጋብኝ	ዘጋብኝ	VERB
+16	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x24-s11
+# text = መጥፎው ያየር ሁኔታ በሽታዋን አባሰባት ።
+1	መጥፎው	መጥፎው	ADJ
+3	ያየር	ያየር	ADP
+5	ሁኔታ	ሁኔታ	NOUN
+6	በሽታዋን	በሽታዋን	NOUN
+9	አባሰባት	አባሰባት	VERB
+13	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x24-s12
+# text = መንግስት ቀለቡን ቀነሰበት ።
+1	መንግስት	መንግስት	NOUN
+2	ቀለቡን	ቀለቡን	NOUN
+5	ቀነሰበት	ቀነሰበት	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x24-s13
+# text = ጐማዬን ምስማር በሳብኝ ።
+1	ጐማዬን	ጐማዬን	NOUN
+4	ምስማር	ምስማር	NOUN
+5	በሳብኝ	በሳብኝ	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x24-s14
+# text = ለሆድ ቁርጠት ብላበት ።
+2	ለሆድ	ለሆድ	NOUN
+3	ቁርጠት	ቁርጠት	NOUN
+4	ብላበት	ብላበት	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x24-s15
+# text = ለእሷ ከትዳር ይልቅ ሥራዋ ይበልጥባታል ።
+2	ለእሷ	ለእሷ	PRON
+4	ከትዳር	ከትዳር	NOUN
+5	ይልቅ	ይልቅ	ADV
+6	ሥራዋ	ሥራዋ	NOUN
+9	ይበልጥባታል	ይበልጥባታል	VERB
+13	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x24-s16
+# text = ሐውልቱ የቆመበት ስፍራ ከዚህ ሩቅ አይደለም ።
+1	ሐውልቱ	ሐውልቱ	NOUN
+4	የቆመበት	የቆመበት	VERB
+8	ስፍራ	ስፍራ	NOUN
+10	ከዚህ	ከዚህ	DET
+11	ሩቅ	ሩቅ	ADJ
+12	አይደለም	አይደለም	VERB
+15	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x24-s17
+# text = ክረምት ብዙ ዝናብ የሚዘንብበት ወራት ነው ።
+1	ክረምት	ክረምት	NOUN
+2	ብዙ	ብዙ	NUM
+3	ዝናብ	ዝናብ	NOUN
+7	የሚዘንብበት	የሚዘንብበት	VERB
+10	ወራት	ወራት	NOUN
+11	ነው	ነው	AUX
+13	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x24-s18
+# text = ሊያመልጥ የሚችልበትን ዘዴ ፈጠረ ።
+3	ሊያመልጥ	ሊያመልጥ	VERB
+7	የሚችልበትን	የሚችልበትን	VERB
+11	ዘዴ	ዘዴ	NOUN
+12	ፈጠረ	ፈጠረ	VERB
+14	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x24-s19
+# text = ወደ መጣበት አገር ይመለስ ።
+1	ወደ	ወደ	ADP
+2	መጣበት	መጣበት	VERB
+6	አገር	አገር	NOUN
+8	ይመለስ	ይመለስ	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x24-s20
+# text = በሰጠሁት ገንዘብ ከረሜላ ገዛበት ።
+2	በሰጠሁት	በሰጠሁት	VERB
+5	ገንዘብ	ገንዘብ	NOUN
+6	ከረሜላ	ከረሜላ	NOUN
+7	ገዛበት	ገዛበት	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x25-s1
+# text = ሱቅ እሁድ እሁድ ክፍት መሆን አለበት ።
+1	ሱቅ	ሱቅ	NOUN
+2	እሁድ	እሁድ	NOUN
+3	እሁድ	እሁድ	NOUN
+4	ክፍት	ክፍት	ADJ
+5	መሆን	መሆን	NOUN
+6	አለበት	አለበት	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x25-s2
+# text = መኪና ነጂዎች ሆስፒታል ጋ ጥሩምባ ማሰማት የለባቸውም ።
+1	መኪና	መኪና	NOUN
+2	ነጂዎች	ነጂዎች	NOUN
+3	ሆስፒታል	ሆስፒታል	NOUN
+4	ጋ	ጋ	ADP
+5	ጥሩምባ	ጥሩምባ	NOUN
+6	ማሰማት	ማሰማት	NOUN
+7	የለባቸውም	የለባቸውም	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x25-s3
+# text = ድል የተመታው ጦር መሣሪያውን ማስረከብ ነበረበት ።
+1	ድል	ድል	NOUN
+3	የተመታው	የተመታው	VERB
+6	ጦር	ጦር	NOUN
+7	መሣሪያውን	መሣሪያውን	NOUN
+10	ማስረከብ	ማስረከብ	NOUN
+11	ነበረበት	ነበረበት	VERB
+15	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x25-s4
+# text = ዕቅዳችንን መለወጥ ይኖርብናል ።
+1	ዕቅዳችንን	ዕቅዳችንን	NOUN
+4	መለወጥ	መለወጥ	NOUN
+6	ይኖርብናል	ይኖርብናል	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x25-s5
+# text = ከሐኪሙ ጋር የነበረኝን ቀጠሮ ማፍረስ ግድ ሆነብኝ ።
+2	ከሐኪሙ	ከሐኪሙ	NOUN
+4	ጋር	ጋር	ADP
+6	የነበረኝን	የነበረኝን	VERB
+10	ቀጠሮ	ቀጠሮ	NOUN
+11	ማፍረስ	ማፍረስ	NOUN
+12	ግድ	ግድ	VERB
+13	ሆነብኝ	ሆነብኝ	VERB
+17	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x25-s6
+# text = ጠበቃ ማማከር የግድ አስፈላጊ ነበር ።
+1	ጠበቃ	ጠበቃ	NOUN
+2	ማማከር	ማማከር	NOUN
+4	የግድ	የግድ	NOUN
+5	አስፈላጊ	አስፈላጊ	ADJ
+6	ነበር	ነበር	AUX
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x25-s7
+# text = እዚህ ብቆም ምን አለበት ?
+1	እዚህ	እዚህ	DET
+2	ብቆም	ብቆም	VERB
+3	ምን	ምን	PRON
+4	አለበት	አለበት	VERB
+7	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x25-s8
+# text = ወንዝ ያለበት የትኛውም ቦታ ሽርሽር መሄድ ደስ ይለዋል ።
+1	ወንዝ	ወንዝ	NOUN
+3	ያለበት	ያለበት	VERB
+7	የትኛውም	የትኛውም	PRON
+10	ቦታ	ቦታ	NOUN
+11	ሽርሽር	ሽርሽር	NOUN
+12	መሄድ	መሄድ	NOUN
+13	ደስ	ደስ	VERB
+15	ይለዋል	ይለዋል	VERB
+18	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x25-s9
+# text = ፍርሃት እነበረበት አስቀረው ።
+1	ፍርሃት	ፍርሃት	NOUN
+3	እነበረበት	እነበረበት	VERB
+7	አስቀረው	አስቀረው	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x25-s10
+# text = መነጽሬን የጣልኩበትን ምነው ባወቅሁ ።
+1	መነጽሬን	መነጽሬን	NOUN
+5	የጣልኩበትን	የጣልኩበትን	VERB
+10	ምነው	ምነው	INTJ
+12	ባወቅሁ	ባወቅሁ	VERB
+14	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x25-s11
+# text = ትምህርት በሌለበት ጧት ተነስታ የት ሄደች ?
+1	ትምህርት	ትምህርት	NOUN
+3	በሌለበት	በሌለበት	VERB
+7	ጧት	ጧት	NOUN
+8	ተነስታ	ተነስታ	VERB
+10	የት	የት	PRON
+11	ሄደች	ሄደች	VERB
+13	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x25-s12
+# text = የተጣሉበትን ሳታውቅ ጣልቃ አትግባ ።
+2	የተጣሉበትን	የተጣሉበትን	VERB
+10	ሳታውቅ	ሳታውቅ	VERB
+11	ጣልቃ	ጣልቃ	ADV
+14	አትግባ	አትግባ	VERB
+15	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x25-s13
+# text = ክርስቶስ በተሰቀለበት ቀን ፀሐይ ጨልማ ነበር ።
+1	ክርስቶስ	ክርስቶስ	NOUN
+3	በተሰቀለበት	በተሰቀለበት	VERB
+7	ቀን	ቀን	NOUN
+8	ፀሐይ	ፀሐይ	NOUN
+9	ጨልማ	ጨልማ	VERB
+10	ነበር	ነበር	AUX
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x25-s14
+# text = ተማሪዎቹ በየተቀመጡበት ሥራ በመሥራት ላይ ናቸው ።
+1	ተማሪዎቹ	ተማሪዎቹ	NOUN
+5	በየተቀመጡበት	በየተቀመጡበት	VERB
+9	ሥራ	ሥራ	NOUN
+11	በመሥራት	በመሥራት	NOUN
+12	ላይ	ላይ	ADP
+13	ናቸው	ናቸው	AUX
+15	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x25-s15
+# text = ለንጉሱ ቀብር ሰው ከያለበት መጣ ።
+2	ለንጉሱ	ለንጉሱ	NOUN
+4	ቀብር	ቀብር	NOUN
+5	ሰው	ሰው	NOUN
+8	ከያለበት	ከያለበት	VERB
+12	መጣ	መጣ	VERB
+14	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x25-s16
+# text = በሄደበት ሁሉ እቃ ይገዛል ።
+2	በሄደበት	በሄደበት	VERB
+6	ሁሉ	ሁሉ	ADP
+7	እቃ	እቃ	NOUN
+9	ይገዛል	ይገዛል	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x25-s17
+# text = በሄደበት ሁሉ ልጆቹን ይዞ ይሄዳል ።
+2	በሄደበት	በሄደበት	VERB
+6	ሁሉ	ሁሉ	ADP
+7	ልጆቹን	ልጆቹን	NOUN
+10	ይዞ	ይዞ	VERB
+13	ይሄዳል	ይሄዳል	VERB
+15	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x25-s18
+# text = በሄደበት ሁሉ ልጆቹን ይዞ ይሄዳል ።
+2	በሄደበት	በሄደበት	VERB
+6	ሁሉ	ሁሉ	ADJ
+7	ልጆቹን	ልጆቹን	NOUN
+10	ይዞ	ይዞ	VERB
+13	ይሄዳል	ይሄዳል	VERB
+15	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x25-s19
+# text = እሱ ባለበት ብድሩን እከፍለዋለሁ ።
+1	እሱ	እሱ	PRON
+3	ባለበት	ባለበት	VERB
+6	ብድሩን	ብድሩን	NOUN
+10	እከፍለዋለሁ	እከፍለዋለሁ	VERB
+14	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x25-s20
+# text = ፈረሱን ካሉበት ዘንድ ወሰድኩት ።
+1	ፈረሱን	ፈረሱን	NOUN
+5	ካሉበት	ካሉበት	VERB
+9	ዘንድ	ዘንድ	ADP
+10	ወሰድኩት	ወሰድኩት	VERB
+13	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x26-s1
+# text = ሚስጥሩ ገባኝ ።
+1	ሚስጥሩ	ሚስጥሩ	NOUN
+3	ገባኝ	ገባኝ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x26-s2
+# text = በቅሎዎቹ ስለደከሙ ጉዞውን አንቀጥል ።
+1	በቅሎዎቹ	በቅሎዎቹ	NOUN
+4	ስለደከሙ	ስለደከሙ	VERB
+6	ጉዞውን	ጉዞውን	NOUN
+11	አንቀጥል	አንቀጥል	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x26-s3
+# text = እሱ አባቱን ይመስለዋል ።
+1	እሱ	እሱ	PRON
+2	አባቱን	አባቱን	NOUN
+6	ይመስለዋል	ይመስለዋል	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x26-s4
+# text = ነገ የሚመጣ ይመስለኛል ።
+1	ነገ	ነገ	ADV
+5	የሚመጣ	የሚመጣ	VERB
+7	ይመስለኛል	ይመስለኛል	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x26-s5
+# text = የራባት ትመስላለች ።
+2	የራባት	የራባት	VERB
+6	ትመስላለች	ትመስላለች	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x26-s6
+# text = ብርድ ይሰማኛል ።
+1	ብርድ	ብርድ	NOUN
+3	ይሰማኛል	ይሰማኛል	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x26-s7
+# text = ከመኪና ስለወደቅሁ ያመኛል ።
+2	ከመኪና	ከመኪና	NOUN
+4	ስለወደቅሁ	ስለወደቅሁ	VERB
+7	ያመኛል	ያመኛል	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x26-s8
+# text = ከበቀለ ሥራ የአልማዝ ይሻላል ።
+2	ከበቀለ	ከበቀለ	PROPN
+3	ሥራ	ሥራ	NOUN
+5	የአልማዝ	የአልማዝ	PROPN
+7	ይሻላል	ይሻላል	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x26-s9
+# text = ሙቀት ስለበዛ በጣም ጠምቶኛል ።
+1	ሙቀት	ሙቀት	NOUN
+3	ስለበዛ	ስለበዛ	VERB
+5	በጣም	በጣም	ADV
+6	ጠምቶኛል	ጠምቶኛል	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x26-s10
+# text = በሙቀቱ ምክንያት ነሰረኝ ።
+2	በሙቀቱ	በሙቀቱ	NOUN
+4	ምክንያት	ምክንያት	NOUN
+5	ነሰረኝ	ነሰረኝ	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x26-s11
+# text = በእንዲህ ሁኔታ የበሉት ምግብ አያረካም ።
+1	በእንዲህ	በእንዲህ	ADP
+3	ሁኔታ	ሁኔታ	NOUN
+5	የበሉት	የበሉት	VERB
+7	ምግብ	ምግብ	NOUN
+10	አያረካም	አያረካም	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x26-s12
+# text = በዚህ ድልድይ ላይ ሲያልፉ ቀረጥ መክፈል ያስፈልጋል ።
+1	በዚህ	በዚህ	ADP
+3	ድልድይ	ድልድይ	NOUN
+4	ላይ	ላይ	ADP
+7	ሲያልፉ	ሲያልፉ	VERB
+9	ቀረጥ	ቀረጥ	NOUN
+10	መክፈል	መክፈል	NOUN
+12	ያስፈልጋል	ያስፈልጋል	VERB
+14	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x26-s13
+# text = የሰው ዕቃ ሳይጠይቁ መውሰድ የስርቆት ያህል ይቆጠራል ።
+2	የሰው	የሰው	NOUN
+3	ዕቃ	ዕቃ	NOUN
+6	ሳይጠይቁ	ሳይጠይቁ	VERB
+8	መውሰድ	መውሰድ	NOUN
+9	የስርቆት	የስርቆት	ADP
+11	ያህል	ያህል	VERB
+13	ይቆጠራል	ይቆጠራል	VERB
+15	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x26-s14
+# text = በጫካው ዳር ዳር አጋዘን ይታያል ።
+2	በጫካው	በጫካው	NOUN
+4	ዳር	ዳር	NOUN
+5	ዳር	ዳር	NOUN
+6	አጋዘን	አጋዘን	NOUN
+8	ይታያል	ይታያል	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x26-s15
+# text = ሦስት ቀን ይኬድና ባራተኛው ይደረሳል ።
+1	ሦስት	ሦስት	NUM
+2	ቀን	ቀን	NOUN
+4	ይኬድና	ይኬድና	VERB
+7	ባራተኛው	ባራተኛው	NOUN
+10	ይደረሳል	ይደረሳል	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x26-s16
+# text = እዚህ አገር ያልተደሰቱ የትም አይደሰቱ ።
+1	እዚህ	እዚህ	DET
+2	አገር	አገር	NOUN
+5	ያልተደሰቱ	ያልተደሰቱ	VERB
+7	የትም	የትም	PRON
+11	አይደሰቱ	አይደሰቱ	VERB
+13	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x26-s17
+# text = አራት መጽሐፍ አሉኝ ።
+1	አራት	አራት	NUM
+2	መጽሐፍ	መጽሐፍ	NOUN
+3	አሉኝ	አሉኝ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x26-s18
+# text = አስተማሪው ሦስት ልጆች አሉት ።
+1	አስተማሪው	አስተማሪው	NOUN
+3	ሦስት	ሦስት	NUM
+4	ልጆች	ልጆች	NOUN
+5	አሉት	አሉት	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x26-s19
+# text = ያለኝ ቤት ትንሽ ነው ።
+2	ያለኝ	ያለኝ	VERB
+4	ቤት	ቤት	NOUN
+5	ትንሽ	ትንሽ	ADJ
+6	ነው	ነው	AUX
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x26-s20
+# text = ልጅ እንዲኖርው ይፈልጋል ።
+1	ልጅ	ልጅ	NOUN
+4	እንዲኖርው	እንዲኖርው	VERB
+7	ይፈልጋል	ይፈልጋል	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x27-s1
+# text = ብር በምታገኝበት ጊዜ ትከፍልሃለች ።
+1	ብር	ብር	NOUN
+4	በምታገኝበት	በምታገኝበት	VERB
+7	ጊዜ	ጊዜ	NOUN
+9	ትከፍልሃለች	ትከፍልሃለች	VERB
+13	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x27-s2
+# text = ነገ ገንዘብ አገኛለሁ ።
+1	ነገ	ነገ	ADV
+2	ገንዘብ	ገንዘብ	NOUN
+3	አገኛለሁ	አገኛለሁ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x27-s3
+# text = ነገ የራሴ ቤት ይኖረኛል ።
+1	ነገ	ነገ	ADV
+3	የራሴ	የራሴ	NOUN
+5	ቤት	ቤት	NOUN
+7	ይኖረኛል	ይኖረኛል	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x27-s4
+# text = አብሬያት ሲኒማ ብሄድ ግድ የለኝም ።
+1	አብሬያት	አብሬያት	VERB
+4	ሲኒማ	ሲኒማ	NOUN
+7	ብሄድ	ብሄድ	VERB
+8	ግድ	ግድ	VERB
+9	የለኝም	የለኝም	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x27-s5
+# text = ገንዘብ ሳይኖረኝ ሲኒማ አልሄድም ።
+1	ገንዘብ	ገንዘብ	NOUN
+5	ሳይኖረኝ	ሳይኖረኝ	VERB
+7	ሲኒማ	ሲኒማ	NOUN
+9	አልሄድም	አልሄድም	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x27-s6
+# text = መጽሐፎች አልነበሩኝም ።
+1	መጽሐፎች	መጽሐፎች	NOUN
+3	አልነበሩኝም	አልነበሩኝም	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x27-s7
+# text = ዓይናፋር ልጃገረድ ብዙ ጓደኞች አይኖሯትም ።
+1	ዓይናፋር	ዓይናፋር	ADJ
+2	ልጃገረድ	ልጃገረድ	NOUN
+3	ብዙ	ብዙ	ADJ
+4	ጓደኞች	ጓደኞች	NOUN
+7	አይኖሯትም	አይኖሯትም	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x27-s8
+# text = ግድግዳውን መራረገ ።
+1	ግድግዳውን	ግድግዳውን	NOUN
+4	መራረገ	መራረገ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x27-s9
+# text = ጥይቱ መስታወቱን ሰባበረው ።
+1	ጥይቱ	ጥይቱ	NOUN
+3	መስታወቱን	መስታወቱን	NOUN
+6	ሰባበረው	ሰባበረው	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x27-s10
+# text = የመሬቱ መንቀጥቀጥ ብዙ ቋጥኞችን ፈነቃቀለ ።
+2	የመሬቱ	የመሬቱ	NOUN
+4	መንቀጥቀጥ	መንቀጥቀጥ	NOUN
+5	ብዙ	ብዙ	ADJ
+6	ቋጥኞችን	ቋጥኞችን	NOUN
+8	ፈነቃቀለ	ፈነቃቀለ	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x27-s11
+# text = መብረቁ ዛፉን ሰነጣጠቀው ።
+1	መብረቁ	መብረቁ	NOUN
+3	ዛፉን	ዛፉን	NOUN
+6	ሰነጣጠቀው	ሰነጣጠቀው	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x27-s12
+# text = ዶሮውን ገነጣጥላ ድስት ውስጥ ጨመረችው ።
+1	ዶሮውን	ዶሮውን	NOUN
+4	ገነጣጥላ	ገነጣጥላ	VERB
+6	ድስት	ድስት	NOUN
+7	ውስጥ	ውስጥ	ADP
+8	ጨመረችው	ጨመረችው	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x27-s13
+# text = ቀጭኑ የሸረሪት ድር ተበጣጠሰ ።
+1	ቀጭኑ	ቀጭኑ	ADJ
+4	የሸረሪት	የሸረሪት	NOUN
+5	ድር	ድር	NOUN
+6	ተበጣጠሰ	ተበጣጠሰ	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x27-s14
+# text = መጽሐፎቹ በወለሉ ላይ ተበታትነው ነበር ።
+1	መጽሐፎቹ	መጽሐፎቹ	NOUN
+4	በወለሉ	በወለሉ	NOUN
+6	ላይ	ላይ	ADP
+7	ተበታትነው	ተበታትነው	VERB
+9	ነበር	ነበር	AUX
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x27-s15
+# text = ወንበሮቹን ለያያቸው ።
+1	ወንበሮቹን	ወንበሮቹን	NOUN
+4	ለያያቸው	ለያያቸው	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x27-s16
+# text = እናትየዋ አሻንጉሊቶቹን ለልጆቹ አከፋፈለች ።
+1	እናትየዋ	እናትየዋ	NOUN
+4	አሻንጉሊቶቹን	አሻንጉሊቶቹን	NOUN
+8	ለልጆቹ	ለልጆቹ	NOUN
+10	አከፋፈለች	አከፋፈለች	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x27-s17
+# text = ይህን ቲያትር በመለማመድ ላይ ነን ።
+1	ይህን	ይህን	DET
+3	ቲያትር	ቲያትር	NOUN
+5	በመለማመድ	በመለማመድ	NOUN
+6	ላይ	ላይ	ADP
+7	ነን	ነን	AUX
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x27-s18
+# text = ሐኪሙ የትርፍ~አንጀት በሽታ እንዳለብኝ ለማወቅ ሆዴን ደባበሰ ።
+1	ሐኪሙ	ሐኪሙ	NOUN
+4	የትርፍ~አንጀት	የትርፍ~አንጀት	NOUN
+5	በሽታ	በሽታ	NOUN
+7	እንዳለብኝ	እንዳለብኝ	VERB
+12	ለማወቅ	ለማወቅ	NOUN
+13	ሆዴን	ሆዴን	NOUN
+16	ደባበሰ	ደባበሰ	VERB
+18	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x27-s19
+# text = ከብት አርቢዎች እየተጓጓዙ የሚኖሩ ሕዝብ ናቸው ።
+1	ከብት	ከብት	NOUN
+2	አርቢዎች	አርቢዎች	NOUN
+3	እየተጓጓዙ	እየተጓጓዙ	VERB
+8	የሚኖሩ	የሚኖሩ	VERB
+10	ሕዝብ	ሕዝብ	NOUN
+11	ናቸው	ናቸው	AUX
+13	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x27-s20
+# text = አስተማሪውን አሞጋገሰው ።
+1	አስተማሪውን	አስተማሪውን	NOUN
+4	አሞጋገሰው	አሞጋገሰው	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x28-s1
+# text = እዚህ ከራርሞ ሄደ ።
+1	እዚህ	እዚህ	DET
+2	ከራርሞ	ከራርሞ	VERB
+4	ሄደ	ሄደ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x28-s2
+# text = ነጋዴው ከሳስሯል ።
+1	ነጋዴው	ነጋዴው	NOUN
+3	ከሳስሯል	ከሳስሯል	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x28-s3
+# text = ዝሆን አንበሳውን ረጋገጠው ።
+1	ዝሆን	ዝሆን	NOUN
+2	አንበሳውን	አንበሳውን	NOUN
+5	ረጋገጠው	ረጋገጠው	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x28-s4
+# text = በብዙ አምባጓሮ የተነሣ ፊቱ ተቦጫጭሯል ።
+1	በብዙ	በብዙ	ADP
+3	አምባጓሮ	አምባጓሮ	NOUN
+5	የተነሣ	የተነሣ	VERB
+6	ፊቱ	ፊቱ	NOUN
+8	ተቦጫጭሯል	ተቦጫጭሯል	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x28-s5
+# text = ልጆቹን ሰባሰበና ከተማ ገባ ።
+1	ልጆቹን	ልጆቹን	NOUN
+4	ሰባሰበና	ሰባሰበና	VERB
+7	ከተማ	ከተማ	NOUN
+8	ገባ	ገባ	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x28-s6
+# text = ደብዳቤውን አጣጥፎ ኪሱ ከተተ ።
+1	ደብዳቤውን	ደብዳቤውን	NOUN
+4	አጣጥፎ	አጣጥፎ	VERB
+6	ኪሱ	ኪሱ	NOUN
+8	ከተተ	ከተተ	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x28-s7
+# text = ወሬው ተደፋፈነ ።
+1	ወሬው	ወሬው	NOUN
+3	ተደፋፈነ	ተደፋፈነ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x28-s8
+# text = እንግዶቹ ከመምጣታቸው በፊት ብትለባብሺ ይሻላል ።
+1	እንግዶቹ	እንግዶቹ	NOUN
+4	ከመምጣታቸው	ከመምጣታቸው	NOUN
+6	በፊት	በፊት	ADP
+10	ብትለባብሺ	ብትለባብሺ	VERB
+13	ይሻላል	ይሻላል	VERB
+15	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x28-s9
+# text = አጋዘኖች በኢትዮጵያ ሜዳዎች ላይ ይዘዋወራሉ ።
+1	አጋዘኖች	አጋዘኖች	NOUN
+3	በኢትዮጵያ	በኢትዮጵያ	NOUN
+4	ሜዳዎች	ሜዳዎች	NOUN
+5	ላይ	ላይ	ADP
+7	ይዘዋወራሉ	ይዘዋወራሉ	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x28-s10
+# text = የኔ~ቢጤው ሲለማምን ውሎ ቤተ ክርስቲያን ያድራል ።
+1	የኔ~ቢጤው	የኔ~ቢጤው	NOUN
+5	ሲለማምን	ሲለማምን	VERB
+6	ውሎ	ውሎ	VERB
+8	ቤተ	ቤተ	NOUN
+9	ክርስቲያን	ክርስቲያን	NOUN
+11	ያድራል	ያድራል	VERB
+13	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x28-s11
+# text = ጧዋቱን በሙሉ ስላላክ ነበር ።
+1	ጧዋቱን	ጧዋቱን	NOUN
+4	በሙሉ	በሙሉ	ADP
+8	ስላላክ	ስላላክ	VERB
+9	ነበር	ነበር	AUX
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x28-s12
+# text = እንጨቱን ቆራረጠው ።
+1	እንጨቱን	እንጨቱን	NOUN
+4	ቆራረጠው	ቆራረጠው	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x28-s13
+# text = ሹሮ ሠራርታ ምሳዋን በላች ።
+1	ሹሮ	ሹሮ	NOUN
+2	ሠራርታ	ሠራርታ	VERB
+4	ምሳዋን	ምሳዋን	NOUN
+7	በላች	በላች	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x28-s14
+# text = ምሳውን በላላና ሄደ ።
+1	ምሳውን	ምሳውን	NOUN
+4	በላላና	በላላና	VERB
+6	ሄደ	ሄደ	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x28-s15
+# text = ቁርስ ቀማምሳ ልብስ አጠባ ያዘች ።
+1	ቁርስ	ቁርስ	NOUN
+2	ቀማምሳ	ቀማምሳ	VERB
+4	ልብስ	ልብስ	NOUN
+5	አጠባ	አጠባ	VERB
+6	ያዘች	ያዘች	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x28-s16
+# text = ሲዘንብ አድሮ መሬቱ ረጣጥቧል ።
+3	ሲዘንብ	ሲዘንብ	VERB
+4	አድሮ	አድሮ	VERB
+6	መሬቱ	መሬቱ	NOUN
+8	ረጣጥቧል	ረጣጥቧል	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x28-s17
+# text = ቀለብ ስትገዛዛ ዋለች ።
+1	ቀለብ	ቀለብ	NOUN
+4	ስትገዛዛ	ስትገዛዛ	VERB
+6	ዋለች	ዋለች	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x28-s18
+# text = እየሰራራ ራሱን ችሏል ።
+1	እየሰራራ	እየሰራራ	VERB
+3	ራሱን	ራሱን	NOUN
+6	ችሏል	ችሏል	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x28-s19
+# text = ስለ ጉዳዩ ተነጋገርን ።
+1	ስለ	ስለ	ADP
+2	ጉዳዩ	ጉዳዩ	NOUN
+4	ተነጋገርን	ተነጋገርን	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x28-s20
+# text = ልብስ ተለዋወጡ ።
+1	ልብስ	ልብስ	NOUN
+2	ተለዋወጡ	ተለዋወጡ	VERB
+4	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x29-s1
+# text = ሰውየው ከሌባው ጋር ተናነቀ ።
+1	ሰውየው	ሰውየው	NOUN
+4	ከሌባው	ከሌባው	NOUN
+6	ጋር	ጋር	ADP
+7	ተናነቀ	ተናነቀ	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x29-s2
+# text = ከኔ ባለቤት ጋር ትተዋወቁ ኖሯል ?
+2	ከኔ	ከኔ	PRON
+3	ባለቤት	ባለቤት	NOUN
+4	ጋር	ጋር	ADP
+6	ትተዋወቁ	ትተዋወቁ	VERB
+8	ኖሯል	ኖሯል	AUX
+11	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x29-s3
+# text = ይህ ውሻ ተናካሽ ነው ።
+1	ይህ	ይህ	DET
+2	ውሻ	ውሻ	NOUN
+3	ተናካሽ	ተናካሽ	ADJ
+4	ነው	ነው	AUX
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x29-s4
+# text = መሬቱ አረም አበቀለ ።
+1	መሬቱ	መሬቱ	NOUN
+3	አረም	አረም	NOUN
+4	አበቀለ	አበቀለ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x29-s5
+# text = ውሃውን አፈላ ።
+1	ውሃውን	ውሃውን	NOUN
+4	አፈላ	አፈላ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x29-s6
+# text = የልጁን ቁስል ሐኪሙ አዳነው ።
+2	የልጁን	የልጁን	NOUN
+5	ቁስል	ቁስል	NOUN
+6	ሐኪሙ	ሐኪሙ	NOUN
+8	አዳነው	አዳነው	VERB
+11	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x29-s7
+# text = ከብቶቹን ለግጦሽ ማዶ ካለው ሜዳ አዋላቸው ።
+1	ከብቶቹን	ከብቶቹን	NOUN
+5	ለግጦሽ	ለግጦሽ	NOUN
+6	ማዶ	ማዶ	NOUN
+8	ካለው	ካለው	VERB
+10	ሜዳ	ሜዳ	NOUN
+11	አዋላቸው	አዋላቸው	VERB
+14	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x29-s8
+# text = ደስታ ዓይኗን አበራው ።
+1	ደስታ	ደስታ	NOUN
+2	ዓይኗን	ዓይኗን	NOUN
+5	አበራው	አበራው	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x29-s9
+# text = ልብሱን አስወሰደው ።
+1	ልብሱን	ልብሱን	NOUN
+4	አስወሰደው	አስወሰደው	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x29-s10
+# text = ጠላቱን አስገደለው ።
+1	ጠላቱን	ጠላቱን	NOUN
+4	አስገደለው	አስገደለው	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x29-s11
+# text = ቤቱን አስጠበቀ ።
+1	ቤቱን	ቤቱን	NOUN
+4	አስጠበቀ	አስጠበቀ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x29-s12
+# text = መጽሐፉን አስያዘኝ ።
+1	መጽሐፉን	መጽሐፉን	NOUN
+4	አስያዘኝ	አስያዘኝ	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x29-s13
+# text = ነጋዴዎቹን ሸቀጥ አለዋወጣቸው ።
+1	ነጋዴዎቹን	ነጋዴዎቹን	NOUN
+4	ሸቀጥ	ሸቀጥ	NOUN
+5	አለዋወጣቸው	አለዋወጣቸው	VERB
+7	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x29-s14
+# text = ብርጭቆ ሲያጥብ ያጋጫል ።
+1	ብርጭቆ	ብርጭቆ	NOUN
+4	ሲያጥብ	ሲያጥብ	VERB
+6	ያጋጫል	ያጋጫል	VERB
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x29-s15
+# text = ያዝ ለቀቅ አደረገ ።
+1	ያዝ	ያዝ	VERB
+2	ለቀቅ	ለቀቅ	VERB
+3	አደረገ	አደረገ	VERB
+5	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x29-s16
+# text = ይህን ጥያቄ ካነሱት ታጋዮች ግምባር ቀደሙ መለስ ዜናዊ ነው ።
+1	ይህን	ይህን	DET
+3	ጥያቄ	ጥያቄ	NOUN
+5	ካነሱት	ካነሱት	VERB
+8	ታጋዮች	ታጋዮች	NOUN
+9	ግምባር	ግምባር	NOUN
+10	ቀደሙ	ቀደሙ	NOUN
+12	መለስ	መለስ	PROPN
+13	ዜናዊ	ዜናዊ	PROPN
+14	ነው	ነው	AUX
+16	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x29-s17
+# text = እሱስ ቢሆን እንዴት ለገንዘብ ሲል ጓደኛውን ይክዳል ?
+1	እሱስ	እሱስ	PRON
+5	ቢሆን	ቢሆን	VERB
+6	እንዴት	እንዴት	PRON
+8	ለገንዘብ	ለገንዘብ	NOUN
+11	ሲል	ሲል	VERB
+12	ጓደኛውን	ጓደኛውን	NOUN
+16	ይክዳል	ይክዳል	VERB
+18	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x29-s18
+# text = ትንሿ ቤትስ ብትሆን ለሁላችንም አትበቃም ?
+1	ትንሿ	ትንሿ	ADJ
+3	ቤትስ	ቤትስ	NOUN
+7	ብትሆን	ብትሆን	VERB
+9	ለሁላችንም	ለሁላችንም	NOUN
+14	አትበቃም	አትበቃም	VERB
+16	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x29-s19
+# text = እስከ ነገ ብትቆይስ ?
+1	እስከ	እስከ	ADP
+2	ነገ	ነገ	NOUN
+5	ብትቆይስ	ብትቆይስ	VERB
+7	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x29-s20
+# text = ከአስቴር የበለጠ ወፍራም ሴት ናት ።
+2	ከአስቴር	ከአስቴር	PROPN
+4	የበለጠ	የበለጠ	VERB
+5	ወፍራም	ወፍራም	ADJ
+6	ሴት	ሴት	NOUN
+7	ናት	ናት	AUX
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x30-s1
+# text = ካሳ ከአስቴር የበለጠች ወፍራም ሚስት አለችው ።
+1	ካሳ	ካሳ	PROPN
+3	ከአስቴር	ከአስቴር	PROPN
+5	የበለጠች	የበለጠች	VERB
+7	ወፍራም	ወፍራም	ADJ
+8	ሚስት	ሚስት	NOUN
+9	አለችው	አለችው	VERB
+12	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x30-s2
+# text = ገነት ካሳ ያገባት ሴት ከአስቴር የበለጠች ወፍራም እንደሆነች ታውቃለች ።
+1	ገነት	ገነት	PROPN
+2	ካሳ	ካሳ	PROPN
+4	ያገባት	ያገባት	VERB
+6	ሴት	ሴት	NOUN
+8	ከአስቴር	ከአስቴር	PROPN
+10	የበለጠች	የበለጠች	VERB
+12	ወፍራም	ወፍራም	ADJ
+14	እንደሆነች	እንደሆነች	VERB
+17	ታውቃለች	ታውቃለች	VERB
+20	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x30-s3
+# text = ትምህርቷን መጨረስዋ ነው ።
+1	ትምህርቷን	ትምህርቷን	NOUN
+4	መጨረስዋ	መጨረስዋ	NOUN
+6	ነው	ነው	AUX
+8	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x30-s4
+# text = ትናንት ለመጣው ልጅ ገነዘብ ላኩ ።
+1	ትናንት	ትናንት	ADV
+4	ለመጣው	ለመጣው	VERB
+6	ልጅ	ልጅ	NOUN
+7	ገነዘብ	ገነዘብ	NOUN
+8	ላኩ	ላኩ	VERB
+10	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x30-s5
+# text = ከአንገት በላይ ህክምና ተጀመረ ።
+2	ከአንገት	ከአንገት	NOUN
+3	በላይ	በላይ	ADP
+4	ህክምና	ህክምና	NOUN
+5	ተጀመረ	ተጀመረ	VERB
+6	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x30-s6
+# text = ሰዎች እንደ አሳ በባህር ይኖራል ።
+1	ሰዎች	ሰዎች	NOUN
+2	እንደ	እንደ	ADP
+3	አሳ	አሳ	NOUN
+5	በባህር	በባህር	NOUN
+7	ይኖራል	ይኖራል	VERB
+9	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x30-s7
+# text = አስቴር የሰበረችው ምንድን ነው ?
+1	አስቴር	አስቴር	PROPN
+3	የሰበረችው	የሰበረችው	VERB
+6	ምንድን	ምንድን	PRON
+8	ነው	ነው	AUX
+10	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x30-s8
+# text = አስቴርን የሰደቡዋት እነማን ናቸው ?
+1	አስቴርን	አስቴርን	PROPN
+4	የሰደቡዋት	የሰደቡዋት	VERB
+9	እነማን	እነማን	PRON
+10	ናቸው	ናቸው	AUX
+12	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x30-s9
+# text = አስቴር የሄደችበት መኪና ምንድን ነው ?
+1	አስቴር	አስቴር	PROPN
+3	የሄደችበት	የሄደችበት	VERB
+7	መኪና	መኪና	NOUN
+8	ምንድን	ምንድን	PRON
+10	ነው	ነው	AUX
+12	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x30-s10
+# text = አስቴር የሄደችበት ምክንያት ምንድን ነው ?
+1	አስቴር	አስቴር	PROPN
+3	የሄደችበት	የሄደችበት	VERB
+7	ምክንያት	ምክንያት	NOUN
+8	ምንድን	ምንድን	PRON
+10	ነው	ነው	AUX
+12	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x30-s11
+# text = አስቴር የሄደችበት ሀገር የት ነው ? ወዴት ነው ?
+1	አስቴር	አስቴር	PROPN
+3	የሄደችበት	የሄደችበት	VERB
+7	ሀገር	ሀገር	NOUN
+8	የት	የት	PRON
+9	ነው	ነው	AUX
+11	?	?	PUNCT
+12	ወዴት	ወዴት	ADV
+13	ነው	ነው	AUX
+15	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x30-s12
+# text = አስቴር የመጣችው ከየት ነው ?
+1	አስቴር	አስቴር	PROPN
+3	የመጣችው	የመጣችው	VERB
+7	ከየት	ከየት	PRON
+8	ነው	ነው	AUX
+10	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x30-s13
+# text = በቀለ ማንን አየ ?
+1	በቀለ	በቀለ	PROPN
+2	ማንን	ማንን	PRON
+4	አየ	አየ	VERB
+6	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x30-s14
+# text = የትኛው ልጅ መጣ ?
+1	የትኛው	የትኛው	PRON
+3	ልጅ	ልጅ	NOUN
+4	መጣ	መጣ	VERB
+6	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x30-s15
+# text = ለመፃፍ ምን ጊዜ አገኘ ?
+2	ለመፃፍ	ለመፃፍ	NOUN
+3	ምን	ምን	PRON
+4	ጊዜ	ጊዜ	NOUN
+5	አገኘ	አገኘ	VERB
+7	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x30-s16
+# text = ሌላስ የት ሄድክ ?
+1	ሌላስ	ሌላስ	NOUN
+3	የት	የት	PRON
+4	ሄድክ	ሄድክ	VERB
+6	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x30-s17
+# text = አስተማሪው ተማሪውን ለምን ወቀሰው ?
+1	አስተማሪው	አስተማሪው	NOUN
+3	ተማሪውን	ተማሪውን	NOUN
+6	ለምን	ለምን	PRON
+7	ወቀሰው	ወቀሰው	VERB
+10	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x30-s18
+# text = ምን በመጣ ነው ይህን ያህል የምሰደበው ?
+1	ምን	ምን	PRON
+3	በመጣ	በመጣ	VERB
+4	ነው	ነው	AUX
+6	ይህን	ይህን	DET
+7	ያህል	ያህል	VERB
+10	የምሰደበው	የምሰደበው	VERB
+12	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x30-s19
+# text = ስንት መጽሐፍ ትፈልጋለህ ?
+1	ስንት	ስንት	PRON
+2	መጽሐፍ	መጽሐፍ	NOUN
+4	ትፈልጋለህ	ትፈልጋለህ	VERB
+7	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x30-s20
+# text = የተበደርኩትን ገንዘብ መቼ ሳልከፍል ቀርቻለሁ ?
+2	የተበደርኩትን	የተበደርኩትን	VERB
+6	ገንዘብ	ገንዘብ	NOUN
+7	መቼ	መቼ	PRON
+10	ሳልከፍል	ሳልከፍል	VERB
+11	ቀርቻለሁ	ቀርቻለሁ	VERB
+15	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x31-s1
+# text = ምን እንደ ደረሰብኝ ታውቃለህ ?
+1	ምን	ምን	PRON
+2	እንደ	እንደ	ADP
+3	ደረሰብኝ	ደረሰብኝ	VERB
+7	ታውቃለህ	ታውቃለህ	VERB
+10	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x31-s2
+# text = የልጅነቱን ጊዜ አስታውሶ ምንኛ ዕድለኛ እንደነበር ተገነዘበ ።
+2	የልጅነቱን	የልጅነቱን	NOUN
+5	ጊዜ	ጊዜ	NOUN
+6	አስታውሶ	አስታውሶ	VERB
+8	ምንኛ	ምንኛ	ADV
+9	ዕድለኛ	ዕድለኛ	NOUN
+11	እንደነበር	እንደነበር	VERB
+12	ተገነዘበ	ተገነዘበ	VERB
+14	።	።	PUNCT
+
+# sent_id = data_UD-third_apple_2-x31-s3
+# text = ዛሬ ማን ያሸንፍ ይሆን ?
+1	ዛሬ	ዛሬ	ADV
+2	ማን	ማን	PRON
+4	ያሸንፍ	ያሸንፍ	VERB
+6	ይሆን	ይሆን	VERB
+7	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x31-s4
+# text = ምን ደርሶበት ይሆን ?
+1	ምን	ምን	PRON
+2	ደርሶበት	ደርሶበት	VERB
+7	ይሆን	ይሆን	VERB
+8	?	?	PUNCT
+
+# sent_id = data_UD-third_apple_2-x31-s5
+# text = እርሱንማ አውቀው የለም ?
+1	እርሱንማ	እርሱንማ	PRON
+4	አውቀው	አውቀው	VERB
+6	የለም	የለም	VERB
+9	?	?	PUNCT
+
