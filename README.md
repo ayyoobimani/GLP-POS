@@ -47,7 +47,6 @@ Publication
 If you use the code, please cite 
 
 ```
-TK
 @misc{https://doi.org/10.48550/arxiv.2210.09840,
   doi = {10.48550/ARXIV.2210.09840},  
   url = {https://arxiv.org/abs/2210.09840},
